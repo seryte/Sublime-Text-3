@@ -20,6 +20,7 @@
         "class": "sidebar_tree",
         "dark_content": true,
         "layer0.opacity": 1,
+        "row_padding":[10,8],//左侧行间距
         "layer0.tint": [
             39,
             40,
@@ -28,10 +29,11 @@
     },
     {
         "class": "sidebar_label",
+        "font.size": 16,//左侧字体
         "color": [
-            219,
-            220,
-            214
+            15,
+            247,
+            22
         ]
     },
     {
@@ -44,22 +46,22 @@
     {
         "class": "disclosure_button_control",
         "layer0.tint": [
-            129,
-            130,
-            124
+            242,
+            172,
+            9
         ],
         "layer1.tint": [
-            189,
-            190,
-            184
+            242,
+            172,
+            9
         ]
     },
     {
         "class": "fold_button_control",
         "layer0.tint": [
-            129,
-            130,
-            124
+            242,
+            172,
+            9
         ],
         "layer1.tint": [
             189,
