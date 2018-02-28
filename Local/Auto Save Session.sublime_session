@@ -1,0 +1,2465 @@
+{
+	"folder_history":
+	[
+		"/D/project/ifaas-platform",
+		"/E/pyProject"
+	],
+	"last_version": 3143,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/shell.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/shell2.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "prv",
+				"selected_items":
+				[
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instalk",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/pyProject/test.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/shell.sublime-build",
+				"/D/project/IFaaS-Build/build/anon.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+				"/D/project/IFaaS-Build/build/config/config.js",
+				"/E/pyProject/test.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+				"/C/Windows/WinSxS/amd64_microsoft-windows-w..ucture-other-minwin_31bf3856ad364e35_10.0.16299.15_none_582bc968d636655c/hosts",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Administrator/Desktop/hosts"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 179.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"println"
+					],
+					[
+						"c",
+						"ctypes"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"pa",
+						"payload〔variable〕"
+					],
+					[
+						"for",
+						"for\tfor … done"
+					],
+					[
+						"w",
+						"words"
+					],
+					[
+						"u",
+						"upgrade_log"
+					],
+					[
+						"d",
+						"D"
+					],
+					[
+						"e",
+						"echo"
+					],
+					[
+						"f",
+						"folder_list"
+					],
+					[
+						"tesT",
+						"test2"
+					],
+					[
+						"test",
+						"test2"
+					],
+					[
+						"s",
+						"str"
+					],
+					[
+						"in",
+						"instOms"
+					],
+					[
+						"set",
+						"setLoalIp"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"tes",
+						"test2〔variable〕"
+					],
+					[
+						"m",
+						"models〔module〕"
+					],
+					[
+						"bas",
+						"base\tTag"
+					],
+					[
+						"backgroundc",
+						"background-color"
+					],
+					[
+						"onc",
+						"onclick\tAttr"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"re",
+						"render〔module〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/project/ifaas-inst/.git/config",
+					"settings":
+					{
+						"buffer_size": 378,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/intellif/DeepEye130/IFaceRecSDK.h",
+					"settings":
+					{
+						"buffer_size": 14882,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/intellif/DeepEye130/IFaceRecSDKTest(1).cpp",
+					"settings":
+					{
+						"buffer_size": 19357,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/attribute.cpp",
+					"settings":
+					{
+						"buffer_size": 13078,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/main.cpp",
+					"settings":
+					{
+						"buffer_size": 1160,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/javaProject/src/test/java/TestCircle.java",
+					"settings":
+					{
+						"buffer_size": 2222,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/palindrome.js",
+					"settings":
+					{
+						"buffer_size": 340,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/intellif/DeepEye130/IfsdkConfig.h",
+					"settings":
+					{
+						"buffer_size": 1042,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/javaR.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Compile"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Run"
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javaR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javaR.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javascript.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javascript.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/shell.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shell2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/shell2.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 203.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"subsh",
+						"SublimeREPL: Shell"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instalk",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/project/ifaas-platform",
+				"/D/project/ifaas-platform/frontend",
+				"/D/project/ifaas-platform/frontend/dist",
+				"/D/project/ifaas-platform/frontend/dist/static",
+				"/D/project/ifaas-platform/frontend/dist/static/js"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/runJava.bat",
+				"/C/Program Files/Java/jdk1.8.0_151/bin/runJava.bat",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javaR.sublime-build",
+				"/D/vm_disk/main.cpp",
+				"/C/Users/Administrator/Desktop/main.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/C/Users/Administrator/Desktop/test.cpp",
+				"/C/Users/Administrator/Desktop/hello.cpp",
+				"/C/Program Files/JetBrains/PyCharm 2017.2.4/helpers/pydev/pydevd_attach_to_process/dll/attach.cpp",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/pycall.py",
+				"//192.168.2.5/intellif/xukeze/test/IFaceRecSDK-v1.0.2p1/pycall.py",
+				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1-g/lib/pycall.py",
+				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1/lib/pycall.py",
+				"/C/Python36/lib/ctypes/__init__.py",
+				"/E/intellif/DeepEye130/pycall.py",
+				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/lib/libIFaceRecSDK_static.a",
+				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/include/IFaceRecSDK.h",
+				"/C/Users/Administrator/Desktop/palindrome.js",
+				"/C/Users/Administrator/Desktop/palindromeTest.js",
+				"/F/helloWrold/.git/config",
+				"/E/intellif/DeepEye130/IFaceRecSDKDev.h",
+				"/C/Users/Administrator/Desktop/web_install.log",
+				"/F/helloWrold/readme.md",
+				"/D/project/.git/config",
+				"/C/Users/Administrator/Desktop/12.sh",
+				"/C/Users/Administrator/Desktop/jyn/package.sh",
+				"/C/Users/Administrator/Desktop/jyn/api-update.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/jession.sh",
+				"/C/Users/Administrator/Desktop/oldconfig.js",
+				"/C/Users/Administrator/Desktop/config.js",
+				"/C/Users/Administrator/Desktop/newconfig.js",
+				"/C/Users/Administrator/Desktop/config-transform.js",
+				"/C/Users/Administrator/Desktop/web-update-v1.4.71.log",
+				"/D/bak/ifaas-inst/OCS/setIp.sh",
+				"/F/helloWrold/test_case.py",
+				"/D/project/ifaas-update/TPU/web-update.sh",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/web-update.sh",
+				"/D/project/ifaas-platform/frontend/dist/static/ue/third-party/webuploader/webuploader.withoutimage.js",
+				"/D/project/ifaas-inst/OCS/inst-all.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/abc.sh",
+				"/D/project/ifaas-version/release/IFaceEngine/installIFaceServer.py",
+				"/E/intellif/nodejs基础组件/config-transform.js",
+				"/C/Users/Administrator/Desktop/install_node.sh",
+				"/C/Users/Administrator/Desktop/12 (2).sh",
+				"/C/Users/Administrator/Desktop/install.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javascript.sublime-build",
+				"/C/Users/Administrator/Desktop/iface_server_bak",
+				"/C/Users/Administrator/Desktop/iface_server",
+				"/C/Users/Administrator/Desktop/hel.js",
+				"/C/Users/Administrator/Desktop/12.properties",
+				"/C/Users/Administrator/Desktop/34.sh",
+				"/D/hel.js",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/luan.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/iftest.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hello.sh",
+				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/attachment/attachment.js",
+				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/image/image.js",
+				"/D/project/ifaas-platform/frontend/dist/static/js/0.3a82391a0c05e62e730f.js",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/dms-update-v1.4.6-20180202115333.log",
+				"/D/project/ifaas-platform/test/test_ftp.py",
+				"/D/project/ifaas-platform/frontend/static/ue/dialogs/charts/charts.css",
+				"/D/project/ifaas-platform/frontend/static/ue/dialogs/scrawl/scrawl.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-mousemap",
+				"/C/Users/Administrator/Desktop/2.log",
+				"/C/Users/Administrator/Desktop/db-update-v1.4.6-20180201171651.log",
+				"/C/Users/Administrator/Desktop/api-update-v1.4.6-20180201183335.log",
+				"/D/project/ifaas-inst/OCS/setIp.sh",
+				"/C/Users/Administrator/Desktop/flyway.conf",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/V1.4906__cpu_alarm.sql",
+				"/D/project/ifaas-version/release/IFaceServer/start.sh",
+				"/C/Users/Administrator/Desktop/EngineConfig.ini",
+				"/C/Users/Administrator/Desktop/grub.cfg",
+				"/C/Users/Administrator/Desktop/package.sh",
+				"/C/Users/Administrator/Desktop/api-update-default.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.55 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.6 [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/jession [2].sh",
+				"/D/project/ifaas-update/TPU/api-update.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/dms-update-v1.4.6.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/dms-update-v1.4.6 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/web-update-v1.4.6-20180130172410.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/dms-update-v1.4.6 [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.8-20180130152252.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.8-20180130152038.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-v1.4.7-20180130151619 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-v1.4.6-20180130150718.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-v1.4.7-20180130151619.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-v1.4.6-20180130150309.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.8-20180130143722.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/jession.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/iftest.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.8-20180130142335.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.7.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.6 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-v1.4.6.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.55 [4].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.55 [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-1.4.78.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-1.4.78 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.7-20180130100459.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.7-20180130101333.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.66.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.8.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.55.log",
+				"/D/project/ifaas-update/TPU/package.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update [2].sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/api-update-1.4.4-20180130104743.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-test1 [4].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-test1 [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-1.4.6 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-1.4.6.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/1.0.0.0.sh",
+				"/C/Users/Administrator/Desktop/inst-all-1.sh",
+				"/C/Users/Administrator/Desktop/test444.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/hello.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/hi.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/start.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/testip.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-test1 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/db-update-test1.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/test [3].sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/ab [2].sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/pack [2].sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/test [4].sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/ab.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/aaa [2].sh"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					");\n",
+					"++)",
+					"/",
+					"arg",
+					"instDir",
+					"search.jar",
+					"solr",
+					"solr.",
+					"solr",
+					"baselineOnMigrate",
+					"engine",
+					"port",
+					"clean",
+					"cat: packs.tar.gz",
+					"cat",
+					"tar",
+					"apiPackage",
+					"pullCode",
+					"folder_list",
+					"[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}",
+					"tempFile",
+					"FolderPath",
+					"fileName",
+					"${result[$i]}",
+					"getResult",
+					"module",
+					"localIp",
+					"homeDir",
+					"localIp",
+					"then",
+					"newip",
+					"list",
+					"proclist",
+					"1.9.9.9",
+					"*.*.*.*",
+					"ip",
+					"x1",
+					"el-button",
+					"el-button el-button--default",
+					"password"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"192.168.2.246"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\pyProject"
+				},
+				{
+					"path": "D:\\project\\ifaas-platform"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/project/ifaas-inst/.git/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 378,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/intellif/DeepEye130/IFaceRecSDK.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14882,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										824,
+										830
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												752,
+												753
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/intellif/DeepEye130/IFaceRecSDKTest(1).cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19357,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19357,
+										19357
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2623,
+												2624
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2525,
+												2526
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9129.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/attribute.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13078,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7593,
+										7593
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7646,
+												7647
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7559,
+												7560
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7646,
+												7647
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7559,
+												7560
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4338.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Administrator/Desktop/main.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1160,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										406,
+										406
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												425,
+												426
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												341,
+												342
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												425,
+												426
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												341,
+												342
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/javaProject/src/test/java/TestCircle.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2212,
+										2212
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2218,
+												2219
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1184,
+												1185
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1080.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Administrator/Desktop/palindrome.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										340,
+										340
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												339,
+												340
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												333,
+												334
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/intellif/DeepEye130/IfsdkConfig.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1042,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1034,
+										1034
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1035,
+												1041
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/hash.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												7
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1035,
+												1041
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/hash.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												7
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 206.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,918,730,180,1791",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 204.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
