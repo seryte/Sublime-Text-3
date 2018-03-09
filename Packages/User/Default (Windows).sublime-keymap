@@ -19,5 +19,8 @@
     "id": "repl_shell",
     "file": "config/Shell/Main.sublime-menu"
     }
-}
+},{"keys": ["alt+c"],
+    "command": "exec",
+    "args": {"kill": true}
+    } 
 ]
