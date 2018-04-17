@@ -7,6 +7,7 @@
 	[
 		"AutoPEP8",
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
