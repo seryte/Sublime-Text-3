@@ -1,17 +1,28 @@
 {
 	"folder_history":
 	[
+		"/F/code/sdk_test",
+		"/F/code/C&C++Project",
+		"/F/code/test_sdk",
+		"/F/code/shProject",
+		"/F/code/pyProject",
+		"/F/code/jsProject",
+		"/F/code/javaProject",
+		"/E/C&C++Project",
+		"/E/intellif/SDK/test_sdk",
+		"/E/cProject",
+		"/E/shellProject",
 		"/E/jsProject",
 		"/E/pyProject",
 		"/E/javaProject",
 		"/D/project/ifaas-platform"
 	],
 	"last_version": 3143,
-	"last_window_id": 12,
+	"last_window_id": 27,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 679.0,
+		"new_window_height": 677.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,12 +30,280 @@
 				"selected_items":
 				[
 					[
-						"re",
-						"result"
+						"ta",
+						"tablename〔variable〕"
+					],
+					[
+						"s",
+						"select2〔function〕"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"tab",
+						"tablename"
 					],
 					[
 						"ar",
-						"arg_page"
+						"args2〔argument〕"
+					],
+					[
+						"Te",
+						"Thread"
+					],
+					[
+						"thre",
+						"thread_〔variable〕"
+					],
+					[
+						"get",
+						"gethat"
+					],
+					[
+						"age",
+						"agelist〔variable〕"
+					],
+					[
+						"num",
+						"num_items〔variable〕"
+					],
+					[
+						"ra",
+						"random_name_list〔variable〕"
+					],
+					[
+						"name",
+						"name_list〔variable〕"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"li",
+						"listen〔function〕"
+					],
+					[
+						"ex",
+						"exitFlag"
+					],
+					[
+						"th",
+						"thread2〔variable〕"
+					],
+					[
+						"thr",
+						"thread1〔variable〕"
+					],
+					[
+						"__in",
+						"__init__〔function〕"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"ge",
+						"gender"
+					],
+					[
+						"f",
+						"flist1"
+					],
+					[
+						"co",
+						"confid〔variable〕"
+					],
+					[
+						"file",
+						"filename〔variable〕"
+					],
+					[
+						"E",
+						"Exception〔class〕"
+					],
+					[
+						"G",
+						"GetImg"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"b",
+						"base_url"
+					],
+					[
+						"re",
+						"requests〔module〕"
+					],
+					[
+						"e",
+						"endl"
+					],
+					[
+						"fC",
+						"fConfid"
+					],
+					[
+						"fc",
+						"fConfid"
+					],
+					[
+						"Pre",
+						"Predict"
+					],
+					[
+						"pr",
+						"pragma"
+					],
+					[
+						"hP",
+						"hPposeHandle"
+					],
+					[
+						"Fa",
+						"FaceRecSDKManager"
+					],
+					[
+						"hp",
+						"hPposeHandle"
+					],
+					[
+						"IF",
+						"IFaceRecSDK"
+					],
+					[
+						"Cr",
+						"CreateIfSDKHandle"
+					],
+					[
+						"pf",
+						"pfconfid"
+					],
+					[
+						"da",
+						"database〔variable〕"
+					],
+					[
+						"ca",
+						"cameralist〔variable〕"
+					],
+					[
+						"for",
+						"for〔keyword〕"
+					],
+					[
+						"db",
+						"dbname〔argument〕"
+					],
+					[
+						"F",
+						"FaceRecSDKManager"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"h",
+						"hHandle"
+					],
+					[
+						"st",
+						"static"
+					],
+					[
+						"va",
+						"var2"
+					],
+					[
+						"var",
+						"var1"
+					],
+					[
+						"d",
+						"down_pic"
+					],
+					[
+						"i",
+						"init_Get_one_people〔function〕"
+					],
+					[
+						"init",
+						"init_Get_one_people"
+					],
+					[
+						"D",
+						"Display_Books"
+					],
+					[
+						"sd",
+						"stdio"
+					],
+					[
+						"t",
+						"title"
+					],
+					[
+						"S",
+						"Structure"
+					],
+					[
+						"te",
+						"test_Display_Student"
+					],
+					[
+						"_",
+						"__init__"
+					],
+					[
+						"pa",
+						"passing_parameters"
+					],
+					[
+						"p",
+						"param2"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"so",
+						"so_file〔argument〕"
+					],
+					[
+						"m",
+						"main\tmain()"
+					],
+					[
+						"se",
+						"self〔argument〕"
+					],
+					[
+						"ru",
+						"runner"
+					],
+					[
+						"uni",
+						"unittest〔module〕"
+					],
+					[
+						"un",
+						"unittest〔module〕"
+					],
+					[
+						"Test",
+						"Test_interface_py_cm〔class〕"
 					],
 					[
 						"in",
@@ -43,32 +322,12 @@
 						"test1"
 					],
 					[
-						"se",
-						"self〔argument〕"
-					],
-					[
 						"self",
 						"self,a,b"
 					],
 					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"st",
-						"str1"
-					],
-					[
 						"arr",
 						"arr〔variable〕"
-					],
-					[
-						"s",
-						"serarch"
 					],
 					[
 						"w",
@@ -79,16 +338,8 @@
 						"longest"
 					],
 					[
-						"a",
-						"arr2"
-					],
-					[
 						"n",
 						"new"
-					],
-					[
-						"co",
-						"console.log"
 					],
 					[
 						"ne",
@@ -103,36 +354,8 @@
 						"newStr〔variable〕"
 					],
 					[
-						"S",
-						"System"
-					],
-					[
-						"pr",
-						"println"
-					],
-					[
-						"c",
-						"ctypes"
-					],
-					[
-						"pa",
-						"payload〔variable〕"
-					],
-					[
 						"u",
 						"upgrade_log"
-					],
-					[
-						"d",
-						"D"
-					],
-					[
-						"e",
-						"echo"
-					],
-					[
-						"f",
-						"folder_list"
 					],
 					[
 						"tesT",
@@ -145,10 +368,6 @@
 					[
 						"tes",
 						"test2〔variable〕"
-					],
-					[
-						"m",
-						"models〔module〕"
 					],
 					[
 						"bas",
@@ -179,6 +398,46 @@
 						[
 							"Packages/C++/C++ Single File.sublime-build",
 							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							"g++ Compile"
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							"g++ Run"
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
 						]
 					],
 					[
@@ -264,6 +523,46 @@
 					[
 						"Packages/C++/C++ Single File.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Compile"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Run"
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						""
 					]
 				],
 				[
@@ -350,6 +649,38 @@
 						],
 						[
 							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javaR.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javaR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
 							""
 						]
 					],
@@ -493,6 +824,34 @@
 							""
 						],
 						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
 							"Packages/User/shell.sublime-build",
 							""
 						]
@@ -562,6 +921,26 @@
 						]
 					],
 					[
+						"Packages/User/shell.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
 						"Packages/User/jsR.sublime-build",
 						""
 					]
@@ -603,15 +982,19 @@
 			"command_palette":
 			{
 				"height": 203.0,
-				"last_filter": "",
+				"last_filter": "remove",
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -627,7 +1010,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 540.0
+				"width": 476.0
 			},
 			"console":
 			{
@@ -648,138 +1031,138 @@
 			},
 			"file_history":
 			[
-				"/E/pyProject/HTMLTestRunner.py",
-				"/E/pyProject/test.py",
+				"/F/code/pyProject/suanfa/race/weizu1_result.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hanzu_result [2].txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hanzu_result.txt",
+				"/F/code/pyProject/suanfa/race/race_sample.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/weizu_result.txt",
+				"/C/Users/Administrator/Desktop/race_sample.txt",
+				"/C/Users/Administrator/Desktop/roc_sklearn.py",
+				"/C/Users/Administrator/Desktop/12.py",
+				"/F/code/pyProject/get_test_img/getPicture.py",
+				"/F/code/pyProject/thread/thread_listen_coding - 副本.py",
+				"/E/intellif/算法/种族/0419/weizu/Copy_sample.py",
+				"/E/intellif/算法/种族/0419/notweizu/Copy_sample.py",
+				"/F/code/pyProject/suanfa/race/read_race_filename.py",
+				"/F/code/pyProject/suanfa/race/Copy_sample.py",
+				"/F/code/pyProject/compare/compare.py",
+				"/F/code/pyProject/thread/thread_demo.py",
+				"/F/code/pyProject/thread/thread_threading.py",
+				"/C/Users/Administrator/Desktop/img_sql.sql",
+				"/F/code/pyProject/thread/thread_listen_coding.py",
+				"//192.168.2.5/intellif/xukeze/Pic/getPicture.py",
+				"/F/code/pyProject/compare/f2_result_sdk.txt",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/IfsdkWrapper.h",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/IfsdkWrapper.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IFaceRecSDK.h",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src/IfsdkWrapper.cpp",
+				"/I/xukeze/sdk_test/AlgTestBench_0718-windows/src/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IfsdkWrapper.cpp",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/test_result/gender_results.txt",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src/IfsdkWrapper.h",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IfsdkWrapper.h",
+				"/C/Users/Administrator/Desktop/all_sdk.txt",
+				"/F/code/pyProject/compare/all_results.txt",
+				"/F/code/pyProject/get_test_img/getPicture - 副本 (2).py",
+				"/C/Users/Administrator/Desktop/img_sql.txt",
+				"/F/code/pyProject/getPicture.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender.py",
+				"/F/code/pyProject/compare/f2_result_py.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [4].py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/getGender.py",
+				"/C/Users/Administrator/Desktop/gender_results.txt",
+				"/F/code/pyProject/compare/m_results.txt",
+				"/F/code/pyProject/compare/m2_result_py.txt",
+				"/F/code/pyProject/compare/getGender.py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/f_results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/m_results.txt",
+				"/F/code/pyProject/compare/f_results.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [3].py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m2_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f2_result_py.log",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/f2_result_py.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result_py [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [2].py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/all_results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/results - 副本.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [4].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f_result.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result.log",
+				"/F/code/pyProject/getGender.py",
+				"/F/code/C&C++Project/ctime.cpp",
+				"/F/code/jsProject/palindrome.js",
+				"/F/code/pyProject/coutFile.py",
+				"/F/code/C&C++Project/coutFile.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/1.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/3.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/2 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/1 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/2.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180412T091819 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180412T091819.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IfsdkWrapper.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/AlogTestCaseMain.cpp",
+				"/F/code/sdk_test/AlgTest/src/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/project/IAlgTest.ini",
+				"/F/code/test_sdk/src/AlogTestCaseMain.cpp",
+				"/F/code/test_sdk/src/Performance.cpp",
+				"/F/code/test_sdk/demo/Performance.h",
+				"/F/code/test_sdk/src/IfsdkWrapper.h",
+				"/F/code/test_sdk/src/IfsdkWrapper.cpp",
+				"/F/code/pyProject/get_picture.py",
+				"//192.168.2.5/intellif/xukeze/gender_v1.0.0/crop_face.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg [3].py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg [2].py",
+				"/F/code/pyProject/learn/testRe.py",
+				"/C/Users/Administrator/Desktop/t_camera_info.sql",
+				"/C/Users/Administrator/Desktop/t1.sh",
+				"/C/Users/Administrator/Desktop/a.txt",
+				"/C/Users/Administrator/Desktop/b.sql",
+				"/C/Users/Administrator/Desktop/龙岗700+摄像头的真实坐标数据.txt",
+				"/F/project/ifaas-inst/OCS/setIp.sh",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/12.py",
+				"/F/code/shProject/if-autotest.sh",
+				"/C/Users/Administrator/Desktop/getimg.py",
+				"/F/code/shProject/test.sh",
+				"/F/code/pyProject/run_tests.py",
+				"/F/code/shProject/jmeter.log",
+				"/F/code/C&C++Project/testMain.cpp",
+				"/F/code/pyProject/get_v2ex_data.py",
 				"/C/Users/Administrator/Desktop/baidu_case.py",
-				"/F/python-demo/test_20171127.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10516.26839/run_tests.py",
-				"/E/javaProject/src/test/java/Test_interface_java.java",
-				"/E/javaProject/src/test/java/TestCircle.java",
-				"/D/soft/apache-jmeter-3.3/bin/jmeter.properties",
-				"/D/soft/apache-jmeter-4.0/bin/jmeter.properties",
-				"/C/Users/Administrator/Desktop/jmeter.bat.lnk",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/runJava.bat",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javaR.sublime-build",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/C/Users/Administrator/Desktop/intellif_mining.sql",
-				"/C/Users/Administrator/Desktop/t_community_stranger_detail.sql",
-				"/C/Python36/Lib/unittest/__init__.py",
-				"/C/Python36/Lib/unittest/suite.py",
-				"/D/bak/ifaas-inst/OCS/setIp.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/nginx [2].conf",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/nginx.conf",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.34128/test_baidu.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.32654/test_baidu2.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.30706/assert_test.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.29415/test_sub.py",
-				"/E/pyProject/python_C.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_skip.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/baidu_case.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/baidu_ide_py.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/count_test.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/run_test.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/count.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_aa/test_add.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_sub.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_add.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/count.py",
-				"/E/javaProject/src/test/java/test.sh",
-				"/C/Users/Administrator/Desktop/palindrome.js",
-				"/E/intellif/DeepEye130/IFaceRecSDK.h",
-				"/E/intellif/DeepEye130/IFaceRecSDKTest(1).cpp",
-				"/E/intellif/SDK/Makefile.dat",
-				"/C/Users/Administrator/Desktop/main.cpp",
-				"/E/javaProject/src/test/java/Hw.java",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/build.sh",
-				"/C/Program Files/Java/jdk1.8.0_151/bin/runJava.bat",
+				"/F/code/test_sdk/src/Performance.h",
+				"/F/code/test_sdk/demo/IfsdkWrapper.h",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa18100.3505/run_tests.py",
+				"/C/Users/Administrator/Desktop/testblackUat.postman_test_run.json",
+				"//192.168.70.200/质量管理部/zhongpan/installIFaceServer.py",
+				"/C/Users/Administrator/Desktop/site-packages/MySQLdb/__init__.py",
+				"/C/Users/Administrator/Desktop/环境信息.txt",
+				"/G/work/ifaas_inst/ifaas-platform/manage.py",
+				"/G/work/ifaas_inst/ifaas-platform/test/test5.py",
+				"/H/办公电脑/Ewordk/result.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180328T094827.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180328T094355.log",
+				"/F/code/test_sdk/demo/AlogTestCaseMain.cpp",
+				"/F/code/test_sdk/externel/IFaceSDK/lnx_x64/include/IFaceRecSDK.h",
+				"/F/code/test_sdk/demo/IfsdkWrapper.cpp",
+				"/F/code/test_sdk/externel/IFaceSDK/lnx_x64/include/IFaceRecType.h",
+				"/F/code/test_sdk/demo/Performance.cpp",
+				"/F/code/test_sdk/demo_bak/Performance.cpp",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/Makefile_Release",
+				"/F/code/test_sdk/demo_bak/Performance.h",
 				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/attribute.cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [5].cpp",
-				"/C/Users/Administrator/Desktop/main.exe",
-				"/D/project/ifaas-inst/OCS/inst-all.sh",
-				"/D/Program Files (x86)/XMind/XMind.ini",
-				"/E/javaProject/src/test/java/hw.java",
-				"/E/intellif/DeepEye130/IfsdkConfig.h",
-				"/C/Users/Administrator/Desktop/CMakeCache.txt",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/SDKTest",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [4].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [3].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [2].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest.cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result.txt",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result [2].txt",
-				"/C/Users/Administrator/Desktop/XMind 8 Update 6.lnk",
-				"/D/Program Files/XMind 8 Update 7/XMind.ini",
-				"//192.168.70.200/软件部/01 飞测团队/01 组织能力建设/06 交流培训乐园/01 内部培训交流/.git/config",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/run.sh",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/doc/SDK交付清单及说明.txt",
-				"//192.168.70.200/软件部/01 飞测团队/01 组织能力建设/05 专项测试/GPU性能测试/GPU引擎性能测试工具与脚本/monitorSys.sh",
-				"/C/Users/Administrator/Desktop/main.h",
-				"/C/Users/Administrator/Desktop/main.c",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/pycall.py",
-				"/D/project/ifaas-inst/.git/config",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/run.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/ueditor.all.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Lib/python3.3/readme.md",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.gitignore",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
-				"/D/vm_disk/main.cpp",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
-				"/C/Users/Administrator/Desktop/test.cpp",
-				"/C/Users/Administrator/Desktop/hello.cpp",
-				"/C/Program Files/JetBrains/PyCharm 2017.2.4/helpers/pydev/pydevd_attach_to_process/dll/attach.cpp",
-				"//192.168.2.5/intellif/xukeze/test/IFaceRecSDK-v1.0.2p1/pycall.py",
-				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1-g/lib/pycall.py",
-				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1/lib/pycall.py",
-				"/C/Python36/lib/ctypes/__init__.py",
-				"/E/intellif/DeepEye130/pycall.py",
-				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/lib/libIFaceRecSDK_static.a",
-				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/include/IFaceRecSDK.h",
-				"/C/Users/Administrator/Desktop/palindromeTest.js",
-				"/F/helloWrold/.git/config",
-				"/E/intellif/DeepEye130/IFaceRecSDKDev.h",
-				"/C/Users/Administrator/Desktop/web_install.log",
-				"/F/helloWrold/readme.md",
-				"/D/project/.git/config",
-				"/C/Users/Administrator/Desktop/12.sh",
-				"/C/Users/Administrator/Desktop/jyn/package.sh",
-				"/C/Users/Administrator/Desktop/jyn/api-update.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/jession.sh",
-				"/C/Users/Administrator/Desktop/oldconfig.js",
-				"/C/Users/Administrator/Desktop/config.js",
-				"/C/Users/Administrator/Desktop/newconfig.js",
-				"/C/Users/Administrator/Desktop/config-transform.js",
-				"/C/Users/Administrator/Desktop/web-update-v1.4.71.log",
-				"/F/helloWrold/test_case.py",
-				"/D/project/ifaas-update/TPU/web-update.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/web-update.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/third-party/webuploader/webuploader.withoutimage.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/abc.sh",
-				"/D/project/ifaas-version/release/IFaceEngine/installIFaceServer.py",
-				"/E/intellif/nodejs基础组件/config-transform.js",
-				"/C/Users/Administrator/Desktop/install_node.sh",
-				"/C/Users/Administrator/Desktop/12 (2).sh",
-				"/C/Users/Administrator/Desktop/install.sh",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javascript.sublime-build",
-				"/C/Users/Administrator/Desktop/iface_server_bak",
-				"/C/Users/Administrator/Desktop/iface_server",
-				"/C/Users/Administrator/Desktop/hel.js",
-				"/C/Users/Administrator/Desktop/12.properties",
-				"/C/Users/Administrator/Desktop/34.sh",
-				"/D/hel.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/luan.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/iftest.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hello.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/attachment/attachment.js",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/image/image.js",
-				"/D/project/ifaas-platform/frontend/dist/static/js/0.3a82391a0c05e62e730f.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/dms-update-v1.4.6-20180202115333.log",
-				"/D/project/ifaas-platform/test/test_ftp.py",
-				"/D/project/ifaas-platform/frontend/static/ue/dialogs/charts/charts.css",
-				"/D/project/ifaas-platform/frontend/static/ue/dialogs/scrawl/scrawl.css"
+				"/C/Users/Administrator/Desktop/12.bat"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
@@ -791,64 +1174,139 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"arg_page",
-					"language=",
-					"language",
-					"arr",
-					"console.log",
-					"reverse",
-					"return",
-					"line",
-					"100",
-					"/home/intellif/zengyj/new-IFaceRecSDK/IFaceRecSDK/3rdparty/install/linux/x86_64",
-					"zengyj",
-					"127.0.0.1 www.xmind.net",
-					"void",
-					");\n",
-					"++)",
-					"/",
-					"arg",
-					"instDir",
-					"search.jar",
-					"solr",
-					"solr.",
-					"solr",
-					"baselineOnMigrate",
-					"engine",
-					"port",
-					"clean",
-					"cat: packs.tar.gz",
-					"cat",
-					"tar",
-					"apiPackage",
-					"pullCode",
-					"folder_list",
-					"[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}",
-					"tempFile",
-					"FolderPath",
-					"fileName",
-					"${result[$i]}",
-					"getResult",
-					"module",
-					"localIp",
-					"homeDir",
-					"localIp",
-					"then",
-					"newip",
-					"list",
-					"proclist",
-					"1.9.9.9",
-					"*.*.*.*",
-					"ip",
-					"x1",
-					"el-button",
-					"el-button el-button--default",
-					"password"
+					"ThreadTest",
+					"GetImg",
+					"tablename",
+					"confid",
+					" (",
+					"raconfid",
+					"race",
+					"haconfid",
+					"hat",
+					"genconfid",
+					"glaconfid",
+					"glasses",
+					"gender",
+					"393020180419162109_906",
+					"393020180419133238_72",
+					"393020180419131124_2",
+					"i",
+					"time.strftime(\"%Y-%m-%d %H:%m:%S\")",
+					"time",
+					"urllib.request.urlretrieve(img_url",
+					"genconfid",
+					"geconfid",
+					"gender",
+					"urllib.request.urlretrieve(img_url,\n                                           self.gefcl + \"\\\\%s\" % str(\n                                               \"gender_\" + str(gender) + \"_gconfid_\" + str(geconfid) + \"_\" + str(\n                                                   num) + \".jpg\"))",
+					"race",
+					"fRacePredict",
+					"fConfidence",
+					"fRacePredict",
+					"fConfidence",
+					"pfConfidence",
+					"*pdFacePose = 0;",
+					"pdFacePose",
+					"fConfidence",
+					"pfConfidence",
+					"PredictPose",
+					"agelist",
+					"fConfidence",
+					"float fConfidence = (float)0.0;",
+					"fConfidence",
+					"*pdFacePose = 0;",
+					"dResult",
+					"Pose",
+					"pose",
+					"face",
+					"3432",
+					"12",
+					"pose",
+					"PosePredict",
+					"PredictPose",
+					"PosePredict",
+					"dFacePose",
+					"dResult",
+					"race",
+					"/hat/have_hat/confid_more_0.8",
+					"./hat/have_hat/confid_less_0.8",
+					"\"./hat/unknow/confid_less_0.8",
+					"./gender/female/confid_less_0.8",
+					"\"./gender/female/confid_less_0.8\"",
+					"./gender/female/confid_less_0.8",
+					"= \"./",
+					", exist_ok=True)",
+					"os.makedirs(",
+					"\"./",
+					", exist_ok=True)",
+					"os.makedirs(",
+					"f ;",
+					"_gconfid_",
+					"__",
+					"age",
+					"hconfid",
+					"age_",
+					"unknow",
+					"confid_more_0.8",
+					"/unknow/confid_more_0.8",
+					"/unknow/confid_less_0.8",
+					" and hconfid <= 0.83",
+					" and hconfid > 0.83",
+					"hconfid",
+					"hat",
+					"rconfid",
+					"race",
+					"glconfid",
+					"geconfid",
+					"gender",
+					"212711.png",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png.",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png",
+					"26874.png",
+					"212711.png",
+					"210899.png",
+					"24896.png",
+					"210737.png",
+					"210325.png",
+					"210737.png",
+					"2_77_4b05c7b2-3b5c-395a-a4d7-4624cd0d90a9_222966.png",
+					"214017.png",
+					"0.49",
+					"0.51",
+					"0.5",
+					"0.49",
+					"性别：2",
+					"0.4",
+					"性别：2",
+					"2_77_967e6bbe-9185-371d-baec-c64d64314b02_28352",
+					"]\t1\tf",
+					"2_11_4d77cbda-8be3-32a7-87c0-de4745aebd43_222623",
+					"性别：1",
+					"性别：2",
+					"性别：1",
+					"]\t0\tmale",
+					"]\t1\tmale",
+					"]\t2\tmale",
+					"]\t2\tfemale",
+					"]\t1\tfemale",
+					"]\t1",
+					"[] 1",
+					"性别：1,",
+					"性别：1",
+					"性别：2",
+					"1.000000",
+					".jpg",
+					"性别：2",
+					"ÎÄ¼þÃûÖØ¸´",
+					"重复",
+					"DetectAndExtractFace Predict Gender Result: Gender",
+					"DetectAndExtractFace Predict Gender",
+					"DetectAndExtractFace Predict Gender Result: Gender="
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
@@ -865,16 +1323,20 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
 				"height": 42.0
 			},
 			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 121.0
+			},
 			"output.exec":
 			{
-				"height": 206.0
+				"height": 233.0
 			},
 			"output.find_results":
 			{
@@ -887,7 +1349,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -896,6 +1358,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"weizu",
+						"pyProject\\suanfa\\race\\weizu1_result.txt"
+					]
 				],
 				"width": 0.0
 			},
@@ -927,7 +1393,7 @@
 			{
 			}
 		},
-		"new_window_width": 1045.0
+		"new_window_width": 1006.0
 	},
 	"windows":
 	[
@@ -938,11 +1404,311 @@
 				[
 					[
 						"re",
-						"result"
+						"reason〔variable〕"
+					],
+					[
+						"rea",
+						"reason"
+					],
+					[
+						"ex",
+						"except〔keyword〕"
+					],
+					[
+						"json",
+						"json.loads"
+					],
+					[
+						"e",
+						"Exception〔class〕"
+					],
+					[
+						"sys",
+						"system〔function〕"
+					],
+					[
+						"co",
+						"col1〔variable〕"
+					],
+					[
+						"ro",
+						"row1〔variable〕"
+					],
+					[
+						"r",
+						"row1"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"or",
+						"oriimg〔variable〕"
+					],
+					[
+						"i",
+						"ina"
+					],
+					[
+						"range",
+						"range(10,13"
+					],
+					[
+						"pa",
+						"Party"
+					],
+					[
+						"b",
+						"buildnvite"
+					],
+					[
+						"im",
+						"imt\timport junit.framework.TestCase;"
+					],
+					[
+						"ta",
+						"tablename〔variable〕"
+					],
+					[
+						"s",
+						"select2〔function〕"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"tab",
+						"tablename"
 					],
 					[
 						"ar",
-						"arg_page"
+						"args2〔argument〕"
+					],
+					[
+						"Te",
+						"Thread"
+					],
+					[
+						"thre",
+						"thread_〔variable〕"
+					],
+					[
+						"get",
+						"gethat"
+					],
+					[
+						"age",
+						"agelist〔variable〕"
+					],
+					[
+						"num",
+						"num_items〔variable〕"
+					],
+					[
+						"ra",
+						"random_name_list〔variable〕"
+					],
+					[
+						"name",
+						"name_list〔variable〕"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"li",
+						"listen〔function〕"
+					],
+					[
+						"th",
+						"thread2〔variable〕"
+					],
+					[
+						"thr",
+						"thread1〔variable〕"
+					],
+					[
+						"__in",
+						"__init__〔function〕"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"ge",
+						"gender"
+					],
+					[
+						"f",
+						"flist1"
+					],
+					[
+						"file",
+						"filename〔variable〕"
+					],
+					[
+						"E",
+						"Exception〔class〕"
+					],
+					[
+						"G",
+						"GetImg"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"fC",
+						"fConfid"
+					],
+					[
+						"fc",
+						"fConfid"
+					],
+					[
+						"Pre",
+						"Predict"
+					],
+					[
+						"pr",
+						"pragma"
+					],
+					[
+						"hP",
+						"hPposeHandle"
+					],
+					[
+						"Fa",
+						"FaceRecSDKManager"
+					],
+					[
+						"hp",
+						"hPposeHandle"
+					],
+					[
+						"IF",
+						"IFaceRecSDK"
+					],
+					[
+						"Cr",
+						"CreateIfSDKHandle"
+					],
+					[
+						"pf",
+						"pfconfid"
+					],
+					[
+						"da",
+						"database〔variable〕"
+					],
+					[
+						"ca",
+						"cameralist〔variable〕"
+					],
+					[
+						"for",
+						"for〔keyword〕"
+					],
+					[
+						"db",
+						"dbname〔argument〕"
+					],
+					[
+						"F",
+						"FaceRecSDKManager"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"h",
+						"hHandle"
+					],
+					[
+						"st",
+						"static"
+					],
+					[
+						"va",
+						"var2"
+					],
+					[
+						"var",
+						"var1"
+					],
+					[
+						"d",
+						"down_pic"
+					],
+					[
+						"init",
+						"init_Get_one_people"
+					],
+					[
+						"D",
+						"Display_Books"
+					],
+					[
+						"sd",
+						"stdio"
+					],
+					[
+						"t",
+						"title"
+					],
+					[
+						"S",
+						"Structure"
+					],
+					[
+						"te",
+						"test_Display_Student"
+					],
+					[
+						"_",
+						"__init__"
+					],
+					[
+						"p",
+						"param2"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"so",
+						"so_file〔argument〕"
+					],
+					[
+						"m",
+						"main\tmain()"
+					],
+					[
+						"se",
+						"self〔argument〕"
+					],
+					[
+						"ru",
+						"runner"
+					],
+					[
+						"uni",
+						"unittest〔module〕"
+					],
+					[
+						"un",
+						"unittest〔module〕"
+					],
+					[
+						"Test",
+						"Test_interface_py_cm〔class〕"
 					],
 					[
 						"in",
@@ -961,52 +1727,20 @@
 						"test1"
 					],
 					[
-						"se",
-						"self〔argument〕"
-					],
-					[
 						"self",
 						"self,a,b"
-					],
-					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"st",
-						"str1"
 					],
 					[
 						"arr",
 						"arr〔variable〕"
 					],
 					[
-						"s",
-						"serarch"
-					],
-					[
 						"w",
 						"webdriver"
 					],
 					[
-						"l",
-						"longest"
-					],
-					[
-						"a",
-						"arr2"
-					],
-					[
 						"n",
 						"new"
-					],
-					[
-						"co",
-						"console.log"
 					],
 					[
 						"ne",
@@ -1021,36 +1755,8 @@
 						"newStr〔variable〕"
 					],
 					[
-						"S",
-						"System"
-					],
-					[
-						"pr",
-						"println"
-					],
-					[
-						"c",
-						"ctypes"
-					],
-					[
-						"pa",
-						"payload〔variable〕"
-					],
-					[
 						"u",
 						"upgrade_log"
-					],
-					[
-						"d",
-						"D"
-					],
-					[
-						"e",
-						"echo"
-					],
-					[
-						"f",
-						"folder_list"
 					],
 					[
 						"tesT",
@@ -1063,10 +1769,6 @@
 					[
 						"tes",
 						"test2〔variable〕"
-					],
-					[
-						"m",
-						"models〔module〕"
 					],
 					[
 						"bas",
@@ -1089,70 +1791,43 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Administrator/Desktop/main.cpp",
+					"file": "/C/Users/Administrator/Desktop/for_demo.py",
 					"settings":
 					{
-						"buffer_size": 161,
+						"buffer_size": 1454,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/pyProject/Test_interface_py_cm.py",
+					"file": "/G/code20180502/20180503/code/intellif_xinhuo.py",
 					"settings":
 					{
-						"buffer_size": 1083,
+						"buffer_size": 7458,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/pyProject/interface_demo.py",
+					"file": "/C/Users/Administrator/Desktop/baidu_case.py",
 					"settings":
 					{
-						"buffer_size": 787,
+						"buffer_size": 980,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10516.8906/request_test.py",
+					"file": "/G/code20180502/20180503/code/log/123.log",
 					"settings":
 					{
-						"buffer_size": 923,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/jsProject/palindrome.js",
-					"settings":
-					{
-						"buffer_size": 1156,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/pyProject/python_C.py",
-					"settings":
-					{
-						"buffer_size": 846,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/javaProject/src/test/java/TestCircle.java",
-					"settings":
-					{
-						"buffer_size": 2222,
+						"buffer_size": 187968,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system": "Packages/C++/C++ Single File.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1164,6 +1839,46 @@
 						[
 							"Packages/C++/C++ Single File.sublime-build",
 							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							"g++ Compile"
+						],
+						[
+							"Packages/User/C&C++R.sublime-build",
+							"g++ Run"
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
 						]
 					],
 					[
@@ -1249,6 +1964,46 @@
 					[
 						"Packages/C++/C++ Single File.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Compile"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"g++ Run"
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						""
 					]
 				],
 				[
@@ -1335,6 +2090,38 @@
 						],
 						[
 							"Packages/User/shell.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javaR.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javaR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
 							""
 						]
 					],
@@ -1478,6 +2265,34 @@
 							""
 						],
 						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
 							"Packages/User/shell.sublime-build",
 							""
 						]
@@ -1547,6 +2362,26 @@
 						]
 					],
 					[
+						"Packages/User/shell.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/jsR.sublime-build",
+							""
+						],
+						[
+							"Packages/User/shellR.sublime-build",
+							""
+						]
+					],
+					[
 						"Packages/User/jsR.sublime-build",
 						""
 					]
@@ -1588,12 +2423,16 @@
 			"command_palette":
 			{
 				"height": 203.0,
-				"last_filter": "",
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
@@ -1633,147 +2472,153 @@
 			},
 			"expanded_folders":
 			[
-				"/E/javaProject",
-				"/E/javaProject/src",
-				"/E/javaProject/src/test",
-				"/E/javaProject/src/test/java",
-				"/E/pyProject",
-				"/E/jsProject"
+				"/F/code/javaProject",
+				"/F/code/javaProject/src",
+				"/F/code/jsProject",
+				"/F/code/pyProject",
+				"/F/code/pyProject/compare",
+				"/F/code/pyProject/get_test_img",
+				"/F/code/pyProject/learn",
+				"/F/code/pyProject/suanfa",
+				"/F/code/pyProject/suanfa/race",
+				"/F/code/sdk_test",
+				"/F/code/sdk_test/AlgTestBench_0718-windows",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src"
 			],
 			"file_history":
 			[
-				"/E/pyProject/HTMLTestRunner.py",
-				"/E/pyProject/test.py",
+				"/F/code/sdk_test/AlgTest/externel/boost/include/boost/concept_archetype.hpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-mousemap",
+				"/G/code20180502/20180503/code/intellif.py",
+				"/H/pengxu/pengxu/20180503/code/intellif1.py",
+				"/G/code20180502/20180503/code/intellif1.py",
+				"/G/code20180502/20180503/code/get_samples.py",
+				"/G/code20180502/20180503/code/log/123.log",
+				"/G/code20180502/intellif1_bak.py",
+				"/G/code20180502/20180503/code/log/!!!.log",
+				"/G/code20180502/20180503/code/log/50个.txt",
+				"/G/code20180502/20180503/code/log/深圳样本30.txt",
+				"/G/code20180502/20180503/code/log/error.txt",
+				"/G/code20180502/20180503/code/log/new 4.json",
+				"/H/pengxu/pengxu/code/intellif1.py",
+				"/H/pengxu/pengxu/code/intellif1_bak.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/C/Users/Administrator/Documents/WeChat Files/xkzstyle/Files/result20180430.log",
+				"/F/code/pyProject/suanfa/race/Copy_sample.py",
+				"/H/pengxu/pengxu/code/intellif1_bak (2).py",
+				"/H/pengxu/pengxu/code/test_excel.py",
+				"/C/Users/Administrator/1.log",
+				"/F/code/javaProject/src/test/java/TestParty.java",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src/IfsdkWrapper.cpp",
+				"/F/code/javaProject/src/test/java/Hw.java",
 				"/C/Users/Administrator/Desktop/baidu_case.py",
-				"/F/python-demo/test_20171127.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10516.26839/run_tests.py",
-				"/E/javaProject/src/test/java/Test_interface_java.java",
-				"/E/javaProject/src/test/java/TestCircle.java",
-				"/D/soft/apache-jmeter-3.3/bin/jmeter.properties",
-				"/D/soft/apache-jmeter-4.0/bin/jmeter.properties",
-				"/C/Users/Administrator/Desktop/jmeter.bat.lnk",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/runJava.bat",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javaR.sublime-build",
 				"/C/Windows/System32/drivers/etc/hosts",
-				"/C/Users/Administrator/Desktop/intellif_mining.sql",
-				"/C/Users/Administrator/Desktop/t_community_stranger_detail.sql",
-				"/C/Python36/Lib/unittest/__init__.py",
-				"/C/Python36/Lib/unittest/suite.py",
-				"/D/bak/ifaas-inst/OCS/setIp.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/nginx [2].conf",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/nginx.conf",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.34128/test_baidu.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.32654/test_baidu2.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.30706/assert_test.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13384.29415/test_sub.py",
-				"/E/pyProject/python_C.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_skip.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/baidu_case.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/baidu_ide_py.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/count_test.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/run_test.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/count.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_aa/test_add.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_sub.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/test_add.py",
-				"/C/Users/Administrator/Desktop/unittest_demo/test_case/count.py",
-				"/E/javaProject/src/test/java/test.sh",
-				"/C/Users/Administrator/Desktop/palindrome.js",
-				"/E/intellif/DeepEye130/IFaceRecSDK.h",
-				"/E/intellif/DeepEye130/IFaceRecSDKTest(1).cpp",
-				"/E/intellif/SDK/Makefile.dat",
-				"/C/Users/Administrator/Desktop/main.cpp",
-				"/E/javaProject/src/test/java/Hw.java",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/build.sh",
-				"/C/Program Files/Java/jdk1.8.0_151/bin/runJava.bat",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/attribute.cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [5].cpp",
-				"/C/Users/Administrator/Desktop/main.exe",
-				"/D/project/ifaas-inst/OCS/inst-all.sh",
-				"/D/Program Files (x86)/XMind/XMind.ini",
-				"/E/javaProject/src/test/java/hw.java",
-				"/E/intellif/DeepEye130/IfsdkConfig.h",
-				"/C/Users/Administrator/Desktop/CMakeCache.txt",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/SDKTest",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [4].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [3].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest [2].cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IFaceRecSDKTest.cpp",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result.txt",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result [2].txt",
-				"/C/Users/Administrator/Desktop/XMind 8 Update 6.lnk",
-				"/D/Program Files/XMind 8 Update 7/XMind.ini",
-				"//192.168.70.200/软件部/01 飞测团队/01 组织能力建设/06 交流培训乐园/01 内部培训交流/.git/config",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/run.sh",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/doc/SDK交付清单及说明.txt",
-				"//192.168.70.200/软件部/01 飞测团队/01 组织能力建设/05 专项测试/GPU性能测试/GPU引擎性能测试工具与脚本/monitorSys.sh",
-				"/C/Users/Administrator/Desktop/main.h",
-				"/C/Users/Administrator/Desktop/main.c",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/pycall.py",
-				"/D/project/ifaas-inst/.git/config",
-				"//192.168.2.5/intellif/caoyan/DailyBuild/IFaceRecSDK/demo/attribute/run.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/ueditor.all.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Lib/python3.3/readme.md",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.gitignore",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
-				"/D/vm_disk/main.cpp",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
-				"/C/Users/Administrator/Desktop/test.cpp",
-				"/C/Users/Administrator/Desktop/hello.cpp",
-				"/C/Program Files/JetBrains/PyCharm 2017.2.4/helpers/pydev/pydevd_attach_to_process/dll/attach.cpp",
-				"//192.168.2.5/intellif/xukeze/test/IFaceRecSDK-v1.0.2p1/pycall.py",
-				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1-g/lib/pycall.py",
-				"/E/intellif/SDK/IFaceRecSDK-v1.0.2p1/lib/pycall.py",
-				"/C/Python36/lib/ctypes/__init__.py",
-				"/E/intellif/DeepEye130/pycall.py",
-				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/lib/libIFaceRecSDK_static.a",
-				"/C/Users/Administrator/Desktop/IFaceRecSDK-v1.0.2p1/include/IFaceRecSDK.h",
-				"/C/Users/Administrator/Desktop/palindromeTest.js",
-				"/F/helloWrold/.git/config",
-				"/E/intellif/DeepEye130/IFaceRecSDKDev.h",
-				"/C/Users/Administrator/Desktop/web_install.log",
-				"/F/helloWrold/readme.md",
-				"/D/project/.git/config",
-				"/C/Users/Administrator/Desktop/12.sh",
-				"/C/Users/Administrator/Desktop/jyn/package.sh",
-				"/C/Users/Administrator/Desktop/jyn/api-update.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/jession.sh",
-				"/C/Users/Administrator/Desktop/oldconfig.js",
-				"/C/Users/Administrator/Desktop/config.js",
-				"/C/Users/Administrator/Desktop/newconfig.js",
-				"/C/Users/Administrator/Desktop/config-transform.js",
-				"/C/Users/Administrator/Desktop/web-update-v1.4.71.log",
-				"/F/helloWrold/test_case.py",
-				"/D/project/ifaas-update/TPU/web-update.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/web-update.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/third-party/webuploader/webuploader.withoutimage.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/abc.sh",
-				"/D/project/ifaas-version/release/IFaceEngine/installIFaceServer.py",
-				"/E/intellif/nodejs基础组件/config-transform.js",
-				"/C/Users/Administrator/Desktop/install_node.sh",
-				"/C/Users/Administrator/Desktop/12 (2).sh",
-				"/C/Users/Administrator/Desktop/install.sh",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/javascript.sublime-build",
-				"/C/Users/Administrator/Desktop/iface_server_bak",
-				"/C/Users/Administrator/Desktop/iface_server",
-				"/C/Users/Administrator/Desktop/hel.js",
-				"/C/Users/Administrator/Desktop/12.properties",
-				"/C/Users/Administrator/Desktop/34.sh",
-				"/D/hel.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/luan.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/iftest.sh",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hello.sh",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/attachment/attachment.js",
-				"/D/project/ifaas-platform/frontend/dist/static/ue/dialogs/image/image.js",
-				"/D/project/ifaas-platform/frontend/dist/static/js/0.3a82391a0c05e62e730f.js",
-				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/dms-update-v1.4.6-20180202115333.log",
-				"/D/project/ifaas-platform/test/test_ftp.py",
-				"/D/project/ifaas-platform/frontend/static/ue/dialogs/charts/charts.css",
-				"/D/project/ifaas-platform/frontend/static/ue/dialogs/scrawl/scrawl.css"
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/races",
+				"/F/code/pyProject/getPicture_thread.py",
+				"/C/Users/Administrator/Desktop/12.py",
+				"/F/code/pyProject/get_test_img/getPicture_thread.py",
+				"/F/code/pyProject/get_v2ex_data.py",
+				"/F/code/pyProject/suanfa/race/roc_sklearn.py",
+				"/F/code/pyProject/get_test_img/1.py",
+				"/F/code/pyProject/thread/thread_listen_coding - 副本.py",
+				"/F/code/pyProject/get_test_img/getPicture - 副本 (4).py",
+				"/F/code/pyProject/get_picture.py",
+				"/F/code/pyProject/thread/try_thread.py",
+				"/F/code/pyProject/thread/thread_mysql_test.py",
+				"/F/code/pyProject/get_test_img/getPicture.py",
+				"/F/code/pyProject/get_test_img/getPicture - 副本 (3).py",
+				"/F/code/pyProject/suanfa/race/weizu1_result.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hanzu_result [2].txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/hanzu_result.txt",
+				"/F/code/pyProject/suanfa/race/race_sample.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/weizu_result.txt",
+				"/C/Users/Administrator/Desktop/race_sample.txt",
+				"/C/Users/Administrator/Desktop/roc_sklearn.py",
+				"/E/intellif/算法/种族/0419/weizu/Copy_sample.py",
+				"/E/intellif/算法/种族/0419/notweizu/Copy_sample.py",
+				"/F/code/pyProject/suanfa/race/read_race_filename.py",
+				"/F/code/pyProject/compare/compare.py",
+				"/F/code/pyProject/thread/thread_demo.py",
+				"/F/code/pyProject/thread/thread_threading.py",
+				"/C/Users/Administrator/Desktop/img_sql.sql",
+				"/F/code/pyProject/thread/thread_listen_coding.py",
+				"//192.168.2.5/intellif/xukeze/Pic/getPicture.py",
+				"/F/code/pyProject/compare/f2_result_sdk.txt",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/IfsdkWrapper.h",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/IfsdkWrapper.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IFaceRecSDK.h",
+				"/I/xukeze/sdk_test/AlgTestBench_0718-windows/src/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IfsdkWrapper.cpp",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/test_result/gender_results.txt",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src/IfsdkWrapper.h",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak/IfsdkWrapper.h",
+				"/C/Users/Administrator/Desktop/all_sdk.txt",
+				"/F/code/pyProject/compare/all_results.txt",
+				"/F/code/pyProject/get_test_img/getPicture - 副本 (2).py",
+				"/C/Users/Administrator/Desktop/img_sql.txt",
+				"/F/code/pyProject/getPicture.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender.py",
+				"/F/code/pyProject/compare/f2_result_py.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [4].py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/getGender.py",
+				"/C/Users/Administrator/Desktop/gender_results.txt",
+				"/F/code/pyProject/compare/m_results.txt",
+				"/F/code/pyProject/compare/m2_result_py.txt",
+				"/F/code/pyProject/compare/getGender.py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/f_results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/m_results.txt",
+				"/F/code/pyProject/compare/f_results.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [3].py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m2_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f2_result_py.log",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/f2_result_py.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result_py [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result_py.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getGender [2].py",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/all_results.txt",
+				"/C/Users/Administrator/Desktop/data_for_gender_code_alignment/data_for_gender_code_alignment/results - 副本.txt",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [4].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [3].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/f_result.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/sdk_result.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/m_result.log",
+				"/F/code/pyProject/getGender.py",
+				"/F/code/C&C++Project/ctime.cpp",
+				"/F/code/jsProject/palindrome.js",
+				"/F/code/pyProject/coutFile.py",
+				"/F/code/C&C++Project/coutFile.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/1.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/3.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/2 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/1 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/2.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180412T091819 [2].log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/result_time_20180412T091819.log",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/IfsdkWrapper.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/src.bak1/AlogTestCaseMain.cpp",
+				"/F/code/sdk_test/AlgTest/src/Performance.cpp",
+				"/F/code/sdk_test/AlgTestBench_0718-windows/project/IAlgTest.ini",
+				"/F/code/test_sdk/src/AlogTestCaseMain.cpp",
+				"/F/code/test_sdk/src/Performance.cpp",
+				"/F/code/test_sdk/demo/Performance.h",
+				"/F/code/test_sdk/src/IfsdkWrapper.h",
+				"/F/code/test_sdk/src/IfsdkWrapper.cpp",
+				"//192.168.2.5/intellif/xukeze/gender_v1.0.0/crop_face.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg.py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg [3].py",
+				"/C/Users/Administrator/Documents/NetSarang/Xftp/Temporary/Temporary/getimg [2].py",
+				"/F/code/pyProject/learn/testRe.py",
+				"/C/Users/Administrator/Desktop/t_camera_info.sql",
+				"/C/Users/Administrator/Desktop/t1.sh",
+				"/C/Users/Administrator/Desktop/a.txt"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
@@ -1785,64 +2630,139 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"arg_page",
-					"language=",
-					"language",
-					"arr",
-					"console.log",
-					"reverse",
-					"return",
-					"line",
-					"100",
-					"/home/intellif/zengyj/new-IFaceRecSDK/IFaceRecSDK/3rdparty/install/linux/x86_64",
-					"zengyj",
-					"127.0.0.1 www.xmind.net",
-					"void",
-					");\n",
-					"++)",
-					"/",
-					"arg",
-					"instDir",
-					"search.jar",
-					"solr",
-					"solr.",
-					"solr",
-					"baselineOnMigrate",
-					"engine",
-					"port",
-					"clean",
-					"cat: packs.tar.gz",
-					"cat",
-					"tar",
-					"apiPackage",
-					"pullCode",
-					"folder_list",
-					"[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}\\.[0-9]\\{1,3\\}",
-					"tempFile",
-					"FolderPath",
-					"fileName",
-					"${result[$i]}",
-					"getResult",
-					"module",
-					"localIp",
-					"homeDir",
-					"localIp",
-					"then",
-					"newip",
-					"list",
-					"proclist",
-					"1.9.9.9",
-					"*.*.*.*",
-					"ip",
-					"x1",
-					"el-button",
-					"el-button el-button--default",
-					"password"
+					"result",
+					"uploadpayload",
+					"headers",
+					"headers1",
+					"x",
+					"xlrd",
+					"ThreadTest",
+					"GetImg",
+					"tablename",
+					"confid",
+					" (",
+					"raconfid",
+					"race",
+					"haconfid",
+					"hat",
+					"genconfid",
+					"glaconfid",
+					"glasses",
+					"gender",
+					"393020180419162109_906",
+					"393020180419133238_72",
+					"393020180419131124_2",
+					"i",
+					"time.strftime(\"%Y-%m-%d %H:%m:%S\")",
+					"time",
+					"urllib.request.urlretrieve(img_url",
+					"genconfid",
+					"geconfid",
+					"gender",
+					"urllib.request.urlretrieve(img_url,\n                                           self.gefcl + \"\\\\%s\" % str(\n                                               \"gender_\" + str(gender) + \"_gconfid_\" + str(geconfid) + \"_\" + str(\n                                                   num) + \".jpg\"))",
+					"race",
+					"fRacePredict",
+					"fConfidence",
+					"fRacePredict",
+					"fConfidence",
+					"pfConfidence",
+					"*pdFacePose = 0;",
+					"pdFacePose",
+					"fConfidence",
+					"pfConfidence",
+					"PredictPose",
+					"agelist",
+					"fConfidence",
+					"float fConfidence = (float)0.0;",
+					"fConfidence",
+					"*pdFacePose = 0;",
+					"dResult",
+					"Pose",
+					"pose",
+					"face",
+					"3432",
+					"12",
+					"pose",
+					"PosePredict",
+					"PredictPose",
+					"PosePredict",
+					"dFacePose",
+					"dResult",
+					"race",
+					"/hat/have_hat/confid_more_0.8",
+					"./hat/have_hat/confid_less_0.8",
+					"\"./hat/unknow/confid_less_0.8",
+					"./gender/female/confid_less_0.8",
+					"\"./gender/female/confid_less_0.8\"",
+					"./gender/female/confid_less_0.8",
+					"= \"./",
+					", exist_ok=True)",
+					"os.makedirs(",
+					"\"./",
+					", exist_ok=True)",
+					"os.makedirs(",
+					"f ;",
+					"_gconfid_",
+					"__",
+					"age",
+					"hconfid",
+					"age_",
+					"unknow",
+					"confid_more_0.8",
+					"/unknow/confid_more_0.8",
+					"/unknow/confid_less_0.8",
+					" and hconfid <= 0.83",
+					" and hconfid > 0.83",
+					"hconfid",
+					"hat",
+					"rconfid",
+					"race",
+					"glconfid",
+					"geconfid",
+					"gender",
+					"212711.png",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png.",
+					"2_69_f8842cb9-aa12-3214-8f23-fb6d5607068b1137.png",
+					"26874.png",
+					"212711.png",
+					"210899.png",
+					"24896.png",
+					"210737.png",
+					"210325.png",
+					"210737.png",
+					"2_77_4b05c7b2-3b5c-395a-a4d7-4624cd0d90a9_222966.png",
+					"214017.png",
+					"0.49",
+					"0.51",
+					"0.5",
+					"0.49",
+					"性别：2",
+					"0.4",
+					"性别：2",
+					"2_77_967e6bbe-9185-371d-baec-c64d64314b02_28352",
+					"]\t1\tf",
+					"2_11_4d77cbda-8be3-32a7-87c0-de4745aebd43_222623",
+					"性别：1",
+					"性别：2",
+					"性别：1",
+					"]\t0\tmale",
+					"]\t1\tmale",
+					"]\t2\tmale",
+					"]\t2\tfemale",
+					"]\t1\tfemale",
+					"]\t1",
+					"[] 1",
+					"性别：1,",
+					"性别：1",
+					"性别：2",
+					"1.000000",
+					".jpg"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
@@ -1860,13 +2780,22 @@
 			"folders":
 			[
 				{
-					"path": "E:\\javaProject"
+					"path": "F:\\code\\javaProject"
 				},
 				{
-					"path": "E:\\pyProject"
+					"path": "F:\\code\\jsProject"
 				},
 				{
-					"path": "E:\\jsProject"
+					"path": "F:\\code\\pyProject"
+				},
+				{
+					"path": "F:\\code\\shProject"
+				},
+				{
+					"path": "F:\\code\\C&C++Project"
+				},
+				{
+					"path": "F:\\code\\sdk_test"
 				}
 			],
 			"groups":
@@ -1877,195 +2806,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Administrator/Desktop/main.cpp",
+							"file": "/C/Users/Administrator/Desktop/for_demo.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 161,
+								"buffer_size": 1454,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										161,
-										161
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/C++/C++.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/pyProject/Test_interface_py_cm.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1083,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1038,
-										1038
+										1434,
+										1434
 									]
 								],
 								"settings":
@@ -2077,12 +2830,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												1446,
+												1447
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												1439,
+												1440
+											]
 										},
 										"unmatched":
 										{
@@ -2090,6 +2858,11 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -2100,51 +2873,46 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_angle_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -2163,6 +2931,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -2173,58 +2966,231 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"default_extension": "py",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
 									"syntax": "Packages/Python/Python.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 36.0,
+								"translation.y": 398.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/G/code20180502/20180503/code/intellif_xinhuo.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7458,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1290,
+										1290
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4829,
+												4830
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4805,
+												4806
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 326.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2232,24 +3198,23 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/E/pyProject/interface_demo.py",
+							"file": "/C/Users/Administrator/Desktop/baidu_case.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 787,
+								"buffer_size": 980,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										489,
-										455
+										725,
+										725
 									]
 								],
 								"settings":
 								{
-									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
@@ -2269,56 +3234,56 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2342,92 +3307,92 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content"
 									],
-									"default_extension": "py",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10516.8906/request_test.py",
+							"file": "/G/code20180502/20180503/code/log/123.log",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 923,
+								"buffer_size": 187968,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										813,
-										874
+										138052,
+										138052
 									]
 								],
 								"settings":
 								{
-									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
@@ -2447,6 +3412,11 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -2457,51 +3427,46 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_angle_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -2520,6 +3485,11 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -2530,610 +3500,56 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_angle_content"
 									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/jsProject/palindrome.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1156,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										793,
-										793
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												811,
-												812
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												578,
-												579
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 354.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/pyProject/python_C.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 846,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										846,
-										846
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 36128.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/E/javaProject/src/test/java/TestCircle.java",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2222,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"syntax": "Packages/Java/Java.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1242.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -3141,7 +3557,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -3170,9 +3586,13 @@
 				]
 			},
 			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 121.0
+			},
 			"output.exec":
 			{
-				"height": 206.0
+				"height": 233.0
 			},
 			"output.find_results":
 			{
@@ -3183,11 +3603,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1024,1011,286,2072",
+			"position": "0,2,3,-1,-1,-1,-1,1094,741,358,1763",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3196,6 +3616,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"weizu",
+						"pyProject\\suanfa\\race\\weizu1_result.txt"
+					]
 				],
 				"width": 0.0
 			},
