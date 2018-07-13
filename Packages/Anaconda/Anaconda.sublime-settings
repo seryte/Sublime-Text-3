@@ -248,7 +248,7 @@
     /*
         Set to false to disable Anaconda linting entirely.
     */
-    "anaconda_linting": false,
+    "anaconda_linting": true,
 
     /*
         Sets the linting behaviour for anaconda:
@@ -364,7 +364,9 @@
     */
     "pep8_ignore":
     [
-        "E309"
+        "E309",
+        "E111",
+        "W191"
     ],
 
     // Maximum line length for pep8
