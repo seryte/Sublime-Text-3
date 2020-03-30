@@ -7,5 +7,5 @@
 > * 把备份好的Local文件夹放到Sublime Text 3根目录
 > * 重启sublime
 ```shell 
-git clone git@github.com:cydib/Sublime-Text-3-config.git
+git clone git@github.com:seryte/Sublime-Text-3-config.git
 ```
