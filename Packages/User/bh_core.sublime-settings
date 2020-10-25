@@ -1,0 +1,14 @@
+{
+	// Match brackets only when the cursor is touching the inside of the bracket
+"match_only_adjacent": false,
+
+// Character threshold to search
+"search_threshold": 55000,
+
+// Set mode for string escapes to ignore (regex|string)
+"bracket_string_escape_mode": "string",
+
+// Set max number of multi-select brackets that will be searched automatically
+"auto_selection_threshold" : 10000,
+
+}
