@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf8 -*-
 
 # Copyright (C) 2013 - Oscar Campos <oscar.campos@member.fsf.org>
@@ -16,20 +17,23 @@ import traceback
 import subprocess
 from logging import handlers
 from optparse import OptionParser
+from os import chmod
+from os.path import dirname, join, abspath
+from operator import xor
 
-# we use ujson if it's available on the target intrepreter
+# we use ujson if it's available on the target interpreter
 try:
     import ujson as json
 except ImportError:
     import json
 
-sys.path.insert(0, os.path.join(
-    os.path.split(os.path.split(__file__)[0])[0], 'anaconda_lib'))
+PROJECT_ROOT = dirname(dirname(abspath(__file__)))
+sys.path.insert(0, join(PROJECT_ROOT, 'anaconda_lib'))
 
 from lib.path import log_directory
 from jedi import set_debug_function
 from lib.contexts import json_decode
-from unix_socket import UnixSocketPath
+from unix_socket import UnixSocketPath, get_current_umask
 from handlers import ANACONDA_HANDLERS
 from jedi import settings as jedi_settings
 from lib.anaconda_handler import AnacondaHandler
@@ -97,13 +101,15 @@ class JSONHandler(asynchat.async_chat):
             method = data.pop('method')
             uid = data.pop('uid')
             vid = data.pop('vid', None)
+            settings = data.pop('settings', {})
+
             handler_type = data.pop('handler')
             if DEBUG_MODE is True:
                 print('Received method: {0}, handler: {1}'.format(
                     method, handler_type)
                 )
             try:
-                self.handle_command(handler_type, method, uid, vid, data)
+                self.handle_command(handler_type, method, uid, vid, settings, data)
             except Exception as error:
                 logging.error(error)
                 log_traceback()
@@ -118,7 +124,7 @@ class JSONHandler(asynchat.async_chat):
                 )
             )
 
-    def handle_command(self, handler_type, method, uid, vid, data):
+    def handle_command(self, handler_type, method, uid, vid, settings, data):
         """Call the right commands handler
         """
 
@@ -130,7 +136,8 @@ class JSONHandler(asynchat.async_chat):
             handler_type, AnacondaHandler.get_handler(handler_type))
         if DEBUG_MODE is True:
             print('{0} handler retrieved from registry'.format(handler))
-        handler(method, data, uid, vid, self.return_back, DEBUG_MODE).run()
+
+        handler(method, data, uid, vid, settings, self.return_back, DEBUG_MODE).run()
 
 
 class JSONServer(asyncore.dispatcher):
@@ -154,6 +161,10 @@ class JSONServer(asyncore.dispatcher):
         self.last_call = time.time()
 
         self.bind(self.address)
+        if hasattr(socket, 'AF_UNIX') and \
+                self.address_family == socket.AF_UNIX:
+            # WSL 1903 fix
+            chmod(self.address, xor(0o777, get_current_umask()))
         logging.debug('bind: address=%s' % (address,))
         self.listen(self.request_queue_size)
         logging.debug('listen: backlog=%d' % (self.request_queue_size,))
@@ -169,10 +180,10 @@ class JSONServer(asyncore.dispatcher):
         self.handle_close()
 
     def handle_accept(self):
-        """Called when we accept and incomming connection
+        """Called when we accept and incoming connection
         """
         sock, addr = self.accept()
-        self.logger.info('Incomming connection from {0}'.format(
+        self.logger.info('Incoming connection from {0}'.format(
             repr(addr) or 'unix socket')
         )
         self.handler(sock, self)
@@ -263,7 +274,7 @@ def get_logger(path):
     log = logging.getLogger('')
     log.setLevel(logging.DEBUG)
     hdlr = handlers.RotatingFileHandler(
-        filename=os.path.join(path, 'anaconda_jsonserver.log'),
+        filename=join(path, 'anaconda_jsonserver.log'),
         maxBytes=10000000,
         backupCount=5,
         encoding='utf-8'
@@ -315,10 +326,10 @@ if __name__ == "__main__":
         PID = args[0]
 
     if options.project is not None:
-        jedi_settings.cache_directory = os.path.join(
+        jedi_settings.cache_directory = join(
             jedi_settings.cache_directory, options.project
         )
-        log_directory = os.path.join(log_directory, options.project)
+        log_directory = join(log_directory, options.project)
 
     if not os.path.exists(jedi_settings.cache_directory):
         os.makedirs(jedi_settings.cache_directory)
@@ -331,12 +342,13 @@ if __name__ == "__main__":
     logger = get_logger(log_directory)
 
     try:
+        server = None
         if not LINUX:
             server = JSONServer(('localhost', port))
         else:
             unix_socket_path = UnixSocketPath(options.project)
-            if not os.path.exists(os.path.dirname(unix_socket_path.socket)):
-                os.makedirs(os.path.dirname(unix_socket_path.socket))
+            if not os.path.exists(dirname(unix_socket_path.socket)):
+                os.makedirs(dirname(unix_socket_path.socket))
             if os.path.exists(unix_socket_path.socket):
                 os.unlink(unix_socket_path.socket)
             server = JSONServer(unix_socket_path.socket)
@@ -354,7 +366,8 @@ if __name__ == "__main__":
     except Exception as error:
         log_traceback()
         logger.error(str(error))
-        server.shutdown()
+        if server is not None:
+            server.shutdown()
         sys.exit(-1)
 
     server.logger = logger

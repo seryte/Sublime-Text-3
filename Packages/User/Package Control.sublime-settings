@@ -9,18 +9,18 @@
 		"Anaconda",
 		"AutoPEP8",
 		"BracketHighlighter",
+		"Codecs33",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"Highlighter",
 		"HTML-CSS-JS Prettify",
 		"JsFormat",
-		"Keymaps",
 		"Package Control",
-		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"SublimeTmpl",
-		"SyncedSidebarBg"
+		"SyncedSideBar"
 	]
 }

@@ -1,1 +1,0 @@
-使用时删除该Default.sublime-theme文件

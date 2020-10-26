@@ -1,1137 +1,47 @@
 {
 	"folder_history":
 	[
-		"/F/code/c++",
-		"/F/code/java/src",
-		"/F/code/sdk",
-		"/F/code/py",
-		"/F/code",
-		"/E/jsProject",
-		"/E/pyProject",
-		"/E/javaProject",
-		"/D/project/ifaas-platform"
 	],
-	"last_version": 3176,
-	"last_window_id": 25,
+	"last_version": 3211,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 666.0,
+		"new_window_height": 1075.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
-					[
-						"st",
-						"str1\tstatement"
-					],
-					[
-						"re",
-						"requests\tmodule"
-					],
-					[
-						"d",
-						"dirname\tstatement"
-					],
-					[
-						"bb",
-						"bboxname"
-					],
-					[
-						"im",
-						"imgfile"
-					],
-					[
-						"get",
-						"getbbox\tfunction"
-					],
-					[
-						"img",
-						"imgname"
-					],
-					[
-						"cac",
-						"cachefile\tstatement"
-					],
-					[
-						"li",
-						"lines\tstatement"
-					],
-					[
-						"c",
-						"c_str"
-					],
-					[
-						"so",
-						"sortresult"
-					],
-					[
-						"R",
-						"Rect"
-					],
-					[
-						"Re",
-						"Result"
-					],
-					[
-						"ba",
-						"base_persons"
-					],
-					[
-						"si",
-						"simil"
-					],
-					[
-						"base",
-						"base_image"
-					],
-					[
-						"pe",
-						"persons"
-					],
-					[
-						"ge",
-						"get_mAp\tfunction"
-					],
-					[
-						"xml",
-						"xmlPath"
-					],
-					[
-						"det",
-						"detPath"
-					],
-					[
-						"class",
-						"classes"
-					],
-					[
-						"pr",
-						"print\tfunction"
-					],
-					[
-						"xm",
-						"xmlPath\tparam"
-					],
-					[
-						"de",
-						"detPath\tparam"
-					],
-					[
-						"v",
-						"voc_eval\tfunction"
-					],
-					[
-						"cl",
-						"classes\tparam"
-					],
-					[
-						"x",
-						"xml"
-					],
-					[
-						"us",
-						"use_o7_metric\tparam"
-					],
-					[
-						"fla",
-						"float\tmodule"
-					],
-					[
-						"cum",
-						"cumsum\tfunction"
-					],
-					[
-						"ov",
-						"ovmax\tstatement"
-					],
-					[
-						"int",
-						"inters\tstatement"
-					],
-					[
-						"min",
-						"minimum\tinstance"
-					],
-					[
-						"BB",
-						"BBGT\tstatement"
-					],
-					[
-						"as",
-						"astyp1e"
-					],
-					[
-						"ima",
-						"image_ids\tstatement"
-					],
-					[
-						"b",
-						"bbox\tstatement"
-					],
-					[
-						"di",
-						"ditticult"
-					],
-					[
-						"np",
-						"npos\tstatement"
-					],
-					[
-						"ca",
-						"cachefile\tstatement"
-					],
-					[
-						"fo",
-						"format"
-					],
-					[
-						"pa",
-						"parse_rec\tfunction"
-					],
-					[
-						"spl",
-						"splitext\tfunction"
-					],
-					[
-						"is",
-						"isfile\tfunction"
-					],
-					[
-						"su",
-						"sum\tfunction"
-					],
-					[
-						"max",
-						"maximum\tinstance"
-					],
-					[
-						"usr",
-						"use_o7_metric"
-					],
-					[
-						"ob",
-						"object"
-					],
-					[
-						"find",
-						"findall\tfunction"
-					],
-					[
-						"Ele",
-						"ElementTree\tmodule"
-					],
-					[
-						"g",
-						"getVercode\tfunction"
-					],
-					[
-						"B",
-						"BeautifulSoup\tclass"
-					],
-					[
-						"r",
-						"request\tstatement"
-					],
-					[
-						"fil",
-						"findall\tfunction"
-					],
-					[
-						"test",
-						"test_case"
-					],
-					[
-						"a",
-						"a_list\tstatement"
-					],
-					[
-						"s",
-						"self\tparam"
-					],
-					[
-						"dum",
-						"dumps\tfunction"
-					],
-					[
-						"data",
-						"data1\tstatement"
-					],
-					[
-						"h",
-						"headers1"
-					],
-					[
-						"du",
-						"dumps\tfunction"
-					],
-					[
-						"H",
-						"HTMLSession\tclass"
-					],
-					[
-						"i",
-						"import\tkeyword"
-					],
-					[
-						"p",
-						"pedestrian"
-					],
-					[
-						"per",
-						"person"
-					],
-					[
-						"in",
-						"include"
-					],
-					[
-						"te",
-						"testb"
-					],
-					[
-						"fi",
-						"first"
-					],
-					[
-						"end",
-						"endl"
-					],
-					[
-						"inc",
-						"incorrect2\tstatement"
-					],
-					[
-						"co",
-						"correct\tstatement"
-					],
-					[
-						"read",
-						"readline\tfunction"
-					],
-					[
-						"age",
-						"age_group"
-					],
-					[
-						"inp",
-						"input_and_output"
-					],
-					[
-						"sot",
-						"sorted\tfunction"
-					],
-					[
-						"or",
-						"origen\tstatement"
-					],
-					[
-						"o",
-						"origen\tstatement"
-					],
-					[
-						"gen",
-						"gender"
-					],
-					[
-						"f",
-						"filename\tstatement"
-					],
-					[
-						"file",
-						"filename"
-					],
-					[
-						"sh",
-						"showAllFiles"
-					],
-					[
-						"con",
-						"const"
-					],
-					[
-						"e",
-						"e"
-					],
-					[
-						"n",
-						"namespace"
-					],
-					[
-						"fa",
-						"face_gender_model_path"
-					],
-					[
-						"set",
-						"set_face_gender_model"
-					],
-					[
-						"ar",
-						"arctern"
-					],
-					[
-						"face",
-						"face_det_model_path"
-					],
-					[
-						"T",
-						"True\tkeyword"
-					],
-					[
-						"th",
-						"thread_\tstatement"
-					],
-					[
-						"t",
-						"thread"
-					],
-					[
-						"ex",
-						"except"
-					],
-					[
-						"dir",
-						"dir_detector"
-					],
-					[
-						"Fe",
-						"feTime"
-					],
-					[
-						"ip",
-						"ipoint2"
-					],
-					[
-						"cou",
-						"ccount"
-					],
-					[
-						"ra",
-						"range\tfunction"
-					],
-					[
-						"he",
-						"headers"
-					],
-					[
-						"sys",
-						"system〔function〕"
-					],
-					[
-						"IF",
-						"IFaceRecSDK_FaceClear"
-					],
-					[
-						"IFaceRecSDK_S",
-						"IFaceRecSDK_SearcherDestroy"
-					],
-					[
-						"arg",
-						"arg_pagesize"
-					],
-					[
-						"se",
-						"self〔argument〕"
-					],
-					[
-						"self",
-						"self,a,b"
-					],
-					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"arr",
-						"arr〔variable〕"
-					],
-					[
-						"w",
-						"webdriver"
-					],
-					[
-						"l",
-						"longest"
-					],
-					[
-						"ne",
-						"newStr2"
-					],
-					[
-						"new",
-						"newStr〔variable〕"
-					],
-					[
-						"S",
-						"System"
-					],
-					[
-						"u",
-						"upgrade_log"
-					],
-					[
-						"tesT",
-						"test2"
-					],
-					[
-						"tes",
-						"test2〔variable〕"
-					],
-					[
-						"m",
-						"models〔module〕"
-					],
-					[
-						"bas",
-						"base\tTag"
-					],
-					[
-						"backgroundc",
-						"background-color"
-					],
-					[
-						"onc",
-						"onclick\tAttr"
-					],
-					[
-						"fu",
-						"function"
-					]
 				]
 			},
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Python-Virtualenv.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Python-Virtualenv.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Java/JavaC.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell2.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javascript.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/jsR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/shell.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell2.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/shell2.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 490.0,
+				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
 					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
 						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"subsh",
-						"SublimeREPL: Shell"
-					],
-					[
-						"prv",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"instalk",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 609.0
+				"width": 0.0
 			},
 			"console":
 			{
-				"height": 130.0,
+				"height": 617.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -1145,142 +55,14 @@
 			},
 			"file_history":
 			[
-				"/C/Users/intellif/Desktop/baiduPan.py",
-				"/F/2018年8月31日 yuv转bmp工具/benchmark.h",
-				"/F/2018年8月31日 yuv转bmp工具/TrackerTest.cpp",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/filesystem/path.hpp",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/searcher/SearcherTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/rc1/license/signature",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/tracker/TrackerTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/run64.bat",
-				"/F/SDK/Windows/v2.1.2/rc1/run64.bat",
-				"/F/SDK/Windows/v2.1.2/rc0/run64.bat",
-				"/C/Program Files/Java/jdk1.8.0_172/bin/runJava.bat",
-				"/F/yuvToBmp/YuvHelper.java",
-				"/F/yuvToBmp/java.lang.ArrayIndexOutOfBoundsException",
-				"/F/yuvToBmp/\tat YuvHelper.convertYuv422ToRgb(YuvHelper.java",
-				"/F/yuvToBmp/\tat YuvHelper.main(YuvHelper.java",
-				"/C/Users/intellif/Desktop/YuvHelper.java",
-				"//192.168.2.243/e/intellif/SDK/Windows/v2.1.2/rc1/test/benchmark/build64.bat",
-				"/F/yuvToBmp/yuvToBmp.cpp",
-				"/C/Users/intellif/Desktop/java.lang.ArrayIndexOutOfBoundsException",
-				"/F/yuvToBmp/yuvToBmp.java",
-				"/F/yuvToBmp/  位置",
-				"/F/SDK/Windows/v2.1.2/rc1/yuvToBmp.cpp",
-				"/F/SDK/Windows/v2.0.0/build.bat",
-				"//192.168.2.243/e/intellif/SDK/Windows/v2.1.2/rc1/run64.bat",
-				"/F/code/c++/test.c",
-				"/F/code/py/getImg/1_1.py",
-				"/F/SDK/Windows/v2.1.2/run64.bat",
-				"/F/SDK/Windows/v2.1.2/rc0/test/benchmark/searcher/SearcherTest.h",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/common/benchmark.h",
-				"/F/Alg/Iou.py",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp",
-				"/F/code/py/getSamples/getPicture_Multithreading.py",
-				"/C/Users/intellif/Desktop/similog.txt",
-				"/D/Algsamples/calc/imgname.txt",
-				"/D/Algsamples/calc/alg.py",
-				"/C/Users/intellif/Desktop/similogAll.txt",
-				"/C/Users/intellif/Desktop/Temporary/demo [2].cpp",
-				"/C/Users/intellif/Documents/WeChat Files/xkzstyle/Files/reference_results_person.tsv",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp33",
-				"/C/Users/intellif/Desktop/Temporary/demo_bak1 [2].cpp11",
-				"/C/Users/intellif/Desktop/Temporary/person1.cpp",
-				"/F/SDK/Linux/v2.1.0/rc0/linux/x86_64/include/IFaceRecType.h",
-				"/F/code/py/alg/compareresult/comresult.py",
-				"/F/SDK/Linux/v2.1.0/rc0/benchmark/common/utils.cpp",
-				"/C/Python37/lib/site-packages/numpy/core/fromnumeric.py",
-				"/F/code/py/checkHouse/gethousemes.py",
-				"/C/Users/intellif/Desktop/Temporary/person.cpp",
-				"/F/code/py/checkHouse/gethousemes - 副本.py",
-				"/F/SDK/Windows/v2.0.0/run.bat",
-				"/F/SDK/Windows/v2.1.2/test_case/rename.bat",
-				"//192.168.2.243/e/intellif/SDK/old_Linux/SDK_test_samples/1_1/朱晓纯/rename.bat",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/build64.bat",
-				"/F/SDK/Windows/v2.1.2/license/signature",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/predictor/PredictorTest.cpp1",
-				"/C/Python37/lib/site-packages/requests/sessions.py",
-				"/C/Users/intellif/Desktop/rk.py",
-				"/C/Users/intellif/Desktop/ruokuai-python2/rk.py",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/run64.bat",
-				"/F/code/py/checkHouse/recordparams.py",
-				"/C/Python37/lib/site-packages/bs4/element.py",
-				"/D/pyenv/venv/Scripts/activate.bat",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/algorithm/string/split.hpp",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/detector/DetectorTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/common/benchmark.h",
-				"/C/Python37/lib/site-packages/requests_html.py",
-				"/F/SDK/Windows/test/benchmark/searcher/SearcherTest.cpp",
-				"/F/SDK/Windows/test/benchmark/common/benchmark.h",
-				"/F/SDK/Windows/test/benchmark/detector/DetectorTest.h",
-				"/F/SDK/Windows/test/benchmark/detector/DetectorTest.cpp",
-				"/F/SDK/Windows/build.bat",
-				"/F/123/1.dgrp",
-				"/F/code/java/src/com/xu.keze/TestStaticFun.java",
-				"/F/SDK/Windows/run.bat",
-				"/C/Users/intellif/Desktop/Temporary/arctern_manager.h",
-				"/F/code/c++/test.cpp",
-				"/c/mingw/lib/gcc/mingw32/6.3.0/include/c++/ostream",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp.face_attr",
-				"/F/SDK/Windows/test/benchmark/detector/CMakeLists.txt",
-				"/F/SDK/Windows/test/benchmark/detector/build.sh",
-				"/C/Users/intellif/Desktop/Temporary/common.h",
-				"/F/SDK/Windows/test/benchmark/common/utils.h",
-				"/C/Users/intellif/Desktop/demo.cpp",
-				"/F/SDK/Windows/license/signature",
-				"/F/code/java/src/com/xu.keze/IfTest.java",
-				"/F/code/py/alg/compareresult/venv1.py",
-				"/C/Users/intellif/Desktop/Temporary/demo - 副本.cpp",
-				"/C/Users/intellif/Desktop/Temporary/demo [3].cpp",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/javaR.sublime-build",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/Python-Virtualenv.sublime-build",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/PythonTestRunner.last-run",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/C&C++R.sublime-build",
-				"/C/Users/intellif/Desktop/Temporary/demo_bak.cpp",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp.bak",
-				"/F/SDK/Linux/v2.0.0/linux/test/benchmark/detector/DetectorTest.cpp",
-				"/F/code/sdk/AlgTestBench_0718-windows/src/utils.h",
-				"/F/SDK/Linux/v2.0.0/linux/test/benchmark/common/benchmark.h",
-				"/F/code/py/alg/compareresult/base1.txt",
-				"/F/code/py/alg/compareresult/test1.txt",
-				"/C/Users/intellif/Desktop/build_mxnet(1).sh",
-				"/C/Users/intellif/Desktop/Temporary/build_mxnet1.sh",
-				"/F/code/py/alg/compareresult/comp1.txt",
-				"/F/code/py/alg/compareresult/hat.log",
-				"/F/code/py/alg/compareresult/no+hatlog.txt",
-				"/C/Users/intellif/Desktop/Temporary/SearcherTest.cpp",
-				"/F/SDK/Linux/v2.1.0/rc0/benchmark原始/common/utils.cpp",
-				"/C/Users/intellif/Desktop/Temporary/nhatlog.txt",
-				"/C/Users/intellif/Desktop/Temporary/hatylog.txt",
-				"/F/code/py/alg/readXml.py",
-				"/C/Users/intellif/Desktop/Temporary/2.txt",
-				"/F/SDK/Windows/test/benchmark/comparer/ComparerTest.cpp.bak",
-				"/F/SDK/Windows/test/benchmark/common/utils.cpp",
-				"/F/SDK/Police/rc3/demo_FaceSimilarity_03/demo_FaceSimilarity_03/demo_FaceSimilarity_03.cpp",
-				"/F/SDK/Windows/test/benchmark/CMakeLists.txt",
-				"/F/SDK/Linux/v2.1.0/rc0/benchmark/common/utils.h",
-				"/F/code/py/getImg/ttt/getAttrsam.py",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/random/beta_distribution.hpp",
-				"/F/code/py/getImg/ttt/attr.py",
-				"/F/code/py/getImg/attr.py",
-				"/F/code/py/getImg/getAttrsam.py",
-				"/C/Python37/lib/site-packages/requests/__init__.py",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/asio/detail/win_iocp_io_service.hpp",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/C/Users/intellif/Desktop/build_mxnet.sh",
-				"/F/code/c++/CPUusage.h",
-				"/F/code/c++/CPUusage.cpp",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
-				"/C/Users/intellif/Desktop/Temporary/CMakeLists.txt",
-				"/F/code/c++/testtime.cpp"
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
-				"height": 128.0,
+				"height": 0.0,
 				"where_history":
 				[
 				]
@@ -1290,134 +72,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"10",
-					"500",
-					"100",
-					"1000",
-					"5000",
-					"100000",
-					"500000",
-					"test_case4",
-					"com.intellif.file",
-					"\\",
-					"printcolor",
-					"o",
-					"printcolor",
-					"ExtractFeature",
-					"\\",
-					"100000",
-					"det",
-					"base_feat",
-					"parse_rec",
-					"voc_eval",
-					".jpg",
-					"  ",
-					",",
-					"========================================================================\n",
-					"../test_img/person/",
-					"20180427T184207_522.",
-					"20180511T183503_21239.",
-					"20180511T183503_21239.jpg",
-					"zhuxiaochun",
-					"base_image_path",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					" )",
-					"( ",
-					"name",
-					"image1",
-					"image",
-					"image_path",
-					"\\",
-					"20180510T120701_19604.jpg",
-					"957",
-					"zhuxiaochun_quanshen",
-					"184",
-					"1361",
-					"1121",
-					"zhuxiaochun_quanshen",
-					"vector<string",
-					"persons",
-					"i",
-					"persons",
-					"cv::",
-					"name",
-					"with",
-					"voc_ap",
-					"parse_rec",
-					"astyp1e",
-					"difficult",
-					"ditticult",
-					"\\",
-					"1000000",
-					"rk_create",
-					"password",
-					"username",
-					"21",
-					"20",
-					"test_case",
-					"3",
-					"\\",
-					"text",
-					"21",
-					"1 data",
-					"1",
-					"-",
-					"Accept",
-					"name",
-					":",
-					"detections",
-					"split",
-					"out_image_path",
-					"in_image_path",
-					"demo",
-					"showAllFiles",
-					"demo",
-					"compare",
-					"detections",
-					".jpg",
-					"g",
-					"face 0",
-					".xml",
-					",",
-					"file test_img/nohat/",
-					"TYPE1",
-					"file test_img/nohat/",
-					"file test_img/hat/",
-					"file test_img/female/",
-					"quality",
-					"m_vImageFile",
-					"m_pLogFile",
-					"m_pRltFile",
-					"Gender",
-					"predict_face_gender",
-					"gender",
-					"arc",
-					"std::",
-					"requests.Session()",
-					"token",
-					"analyze",
-					"\"",
-					"gettoken()",
-					"\".\\\\sunglasses\\\\\"",
-					"\"hat\": \"0\"",
-					"auto",
-					"hat(yes)",
-					"sunglasses",
-					"elderly_9",
-					"\"http://192.168.11.100/eng1store1_11100_0/ImgWareHouse/src_0_26/20180807/20180807T115030_89879.jpg\"\n",
-					"sw",
-					"150",
-					"120",
-					"BUILD_PATH",
-					"3",
-					"\\"
+					"需等接口文档确定入参后整理"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1425,14 +80,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"/",
-					"",
-					" ",
-					"",
-					".jpg",
-					"",
-					"120",
-					"AlgTestBenchR"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1442,33 +89,21 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 28.0
 			},
 			"input":
 			{
-				"height": 51.0
-			},
-			"menu_visible": true,
-			"output.autopep8":
-			{
-				"height": 149.0
-			},
-			"output.exec":
-			{
-				"height": 252.0
-			},
-			"output.find_results":
-			{
 				"height": 0.0
 			},
-			"output.mdpopups":
+			"menu_visible": true,
+			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 59.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1477,14 +112,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"1",
-						"py\\getImg\\1_1.py"
-					],
-					[
-						"mul",
-						"py\\getSamples\\getPicture_Multithreading.py"
-					]
 				],
 				"width": 0.0
 			},
@@ -1510,13 +137,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1043.0
+		"new_window_width": 1792.0
 	},
 	"windows":
 	[
@@ -1525,1161 +152,75 @@
 			{
 				"selected_items":
 				[
-					[
-						"im",
-						"imread\tfunction"
-					],
-					[
-						"m",
-						"missed1"
-					],
-					[
-						"ca",
-						"cal_IoU\tfunction"
-					],
-					[
-						"in",
-						"incorrect\tstatement"
-					],
-					[
-						"bb",
-						"bbox\tstatement"
-					],
-					[
-						"c",
-						"calc\tstatement"
-					],
-					[
-						"b",
-						"bbox"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"img",
-						"imgFile\tparam"
-					],
-					[
-						"n",
-						"ndetect\tstatement"
-					],
-					[
-						"v",
-						"values"
-					],
-					[
-						"num",
-						"numpy\tmodule"
-					],
-					[
-						"vo",
-						"voc_eval\tfunction"
-					],
-					[
-						"str",
-						"str1"
-					],
-					[
-						"f",
-						"findall"
-					],
-					[
-						"time",
-						"time2\tstatement"
-					],
-					[
-						"s",
-						"strftime\tfunction"
-					],
-					[
-						"tie",
-						"time1\tstatement"
-					],
-					[
-						"st",
-						"str1\tstatement"
-					],
-					[
-						"re",
-						"requests\tmodule"
-					],
-					[
-						"d",
-						"dirname\tstatement"
-					],
-					[
-						"get",
-						"getbbox\tfunction"
-					],
-					[
-						"cac",
-						"cachefile\tstatement"
-					],
-					[
-						"li",
-						"lines\tstatement"
-					],
-					[
-						"so",
-						"sortresult"
-					],
-					[
-						"R",
-						"Rect"
-					],
-					[
-						"Re",
-						"Result"
-					],
-					[
-						"ba",
-						"base_persons"
-					],
-					[
-						"si",
-						"simil"
-					],
-					[
-						"base",
-						"base_image"
-					],
-					[
-						"pe",
-						"persons"
-					],
-					[
-						"ge",
-						"get_mAp\tfunction"
-					],
-					[
-						"xml",
-						"xmlPath"
-					],
-					[
-						"det",
-						"detPath"
-					],
-					[
-						"class",
-						"classes"
-					],
-					[
-						"pr",
-						"print\tfunction"
-					],
-					[
-						"xm",
-						"xmlPath\tparam"
-					],
-					[
-						"de",
-						"detPath\tparam"
-					],
-					[
-						"cl",
-						"classes\tparam"
-					],
-					[
-						"x",
-						"xml"
-					],
-					[
-						"us",
-						"use_o7_metric\tparam"
-					],
-					[
-						"fla",
-						"float\tmodule"
-					],
-					[
-						"cum",
-						"cumsum\tfunction"
-					],
-					[
-						"ov",
-						"ovmax\tstatement"
-					],
-					[
-						"int",
-						"inters\tstatement"
-					],
-					[
-						"min",
-						"minimum\tinstance"
-					],
-					[
-						"BB",
-						"BBGT\tstatement"
-					],
-					[
-						"as",
-						"astyp1e"
-					],
-					[
-						"ima",
-						"image_ids\tstatement"
-					],
-					[
-						"di",
-						"ditticult"
-					],
-					[
-						"np",
-						"npos\tstatement"
-					],
-					[
-						"fo",
-						"format"
-					],
-					[
-						"pa",
-						"parse_rec\tfunction"
-					],
-					[
-						"spl",
-						"splitext\tfunction"
-					],
-					[
-						"is",
-						"isfile\tfunction"
-					],
-					[
-						"su",
-						"sum\tfunction"
-					],
-					[
-						"max",
-						"maximum\tinstance"
-					],
-					[
-						"usr",
-						"use_o7_metric"
-					],
-					[
-						"ob",
-						"object"
-					],
-					[
-						"find",
-						"findall\tfunction"
-					],
-					[
-						"Ele",
-						"ElementTree\tmodule"
-					],
-					[
-						"g",
-						"getVercode\tfunction"
-					],
-					[
-						"B",
-						"BeautifulSoup\tclass"
-					],
-					[
-						"r",
-						"request\tstatement"
-					],
-					[
-						"fil",
-						"findall\tfunction"
-					],
-					[
-						"test",
-						"test_case"
-					],
-					[
-						"a",
-						"a_list\tstatement"
-					],
-					[
-						"dum",
-						"dumps\tfunction"
-					],
-					[
-						"data",
-						"data1\tstatement"
-					],
-					[
-						"h",
-						"headers1"
-					],
-					[
-						"du",
-						"dumps\tfunction"
-					],
-					[
-						"H",
-						"HTMLSession\tclass"
-					],
-					[
-						"i",
-						"import\tkeyword"
-					],
-					[
-						"p",
-						"pedestrian"
-					],
-					[
-						"per",
-						"person"
-					],
-					[
-						"te",
-						"testb"
-					],
-					[
-						"fi",
-						"first"
-					],
-					[
-						"end",
-						"endl"
-					],
-					[
-						"inc",
-						"incorrect2\tstatement"
-					],
-					[
-						"co",
-						"correct\tstatement"
-					],
-					[
-						"read",
-						"readline\tfunction"
-					],
-					[
-						"age",
-						"age_group"
-					],
-					[
-						"inp",
-						"input_and_output"
-					],
-					[
-						"sot",
-						"sorted\tfunction"
-					],
-					[
-						"or",
-						"origen\tstatement"
-					],
-					[
-						"o",
-						"origen\tstatement"
-					],
-					[
-						"gen",
-						"gender"
-					],
-					[
-						"file",
-						"filename"
-					],
-					[
-						"sh",
-						"showAllFiles"
-					],
-					[
-						"con",
-						"const"
-					],
-					[
-						"e",
-						"e"
-					],
-					[
-						"fa",
-						"face_gender_model_path"
-					],
-					[
-						"set",
-						"set_face_gender_model"
-					],
-					[
-						"ar",
-						"arctern"
-					],
-					[
-						"face",
-						"face_det_model_path"
-					],
-					[
-						"T",
-						"True\tkeyword"
-					],
-					[
-						"th",
-						"thread_\tstatement"
-					],
-					[
-						"t",
-						"thread"
-					],
-					[
-						"ex",
-						"except"
-					],
-					[
-						"dir",
-						"dir_detector"
-					],
-					[
-						"Fe",
-						"feTime"
-					],
-					[
-						"ip",
-						"ipoint2"
-					],
-					[
-						"cou",
-						"ccount"
-					],
-					[
-						"ra",
-						"range\tfunction"
-					],
-					[
-						"he",
-						"headers"
-					],
-					[
-						"sys",
-						"system〔function〕"
-					],
-					[
-						"IF",
-						"IFaceRecSDK_FaceClear"
-					],
-					[
-						"IFaceRecSDK_S",
-						"IFaceRecSDK_SearcherDestroy"
-					],
-					[
-						"arg",
-						"arg_pagesize"
-					],
-					[
-						"se",
-						"self〔argument〕"
-					],
-					[
-						"self",
-						"self,a,b"
-					],
-					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"arr",
-						"arr〔variable〕"
-					],
-					[
-						"w",
-						"webdriver"
-					],
-					[
-						"l",
-						"longest"
-					],
-					[
-						"ne",
-						"newStr2"
-					],
-					[
-						"new",
-						"newStr〔variable〕"
-					],
-					[
-						"S",
-						"System"
-					],
-					[
-						"u",
-						"upgrade_log"
-					],
-					[
-						"tesT",
-						"test2"
-					],
-					[
-						"tes",
-						"test2〔variable〕"
-					],
-					[
-						"bas",
-						"base\tTag"
-					],
-					[
-						"backgroundc",
-						"background-color"
-					],
-					[
-						"onc",
-						"onclick\tAttr"
-					],
-					[
-						"fu",
-						"function"
-					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/F/Alg/hkperson.py",
+					"contents": "目标解析相关的worker: 三种\nhttp://viper.pages.gitlab.sz.sensetime.com/engine-public-apis 接口文档  FaceExtractService、StructExtractService\t\nworker-face：同步+异步  针对人脸\n\t同步接口： FaceExtractService\n\t异步：从上层的kafka topic（stream.images.face）消费请求，处理之后，推送到下游的topic(stream.features.face_feature_version/stream.features.ips.face_feature_version.garbage)\n\nworker-pach： 同步+异步   针对四种目标： 机动车，非机动车，骑手，人体\n\t同步：StructExtractService\t\n\t异步：从上层的kafka topic（不同类型的目标，topic不一样）消费请求，处理之后，推送到下游的topic(不同目标类型topic不一样)\n                              请求 topic:\n\t\t\"stream.images.pedestrian\", \"stream.images.automobile\", \"stream.images.cyclist\",\n                                \"stream.images.human_powered_vehicle\"\t\n                             结果topic:\n                                   (\"stream.features.pedestrian_\" + feature_version, f\"stream.features.ips.pedestrian_{feature_version}.garbage\"),\n                                   (\"stream.features.automobile\", \"stream.features.ips.automobile.garbage\"),\n                                   (\"stream.features.cyclist\", \"stream.features.ips.cyclist.garbage\"),\n                                   (\"stream.features.human_powered_vehicle\", \"stream.features.ips.human_powered_vehicle.garbage\")\n\nworker-captureforfaceped：v3.1新增的worker(针对异步)   v3.2新增同步接口 \n                                请求 topic: steam.images.face_pedestrian\n                                结果topic:\n                                \n\t\t\t人脸：stream.features.face_feature_version/stream.features.ips.face_feature_version.garbag\n\t\t\t人体： \"stream.features.pedestrian_\" + feature_version, f\"stream.features.ips.pedestrian_{feature_version}.garbage\n\ngarbage: 未检测到指定目标或者目标质量分数(v3.1之前只有人脸涉及; v3.2之后加了人体质量分数)小于阈值\n\nworker-featureconvert\nworker-symphonyface-cpu\n\n\n\n包装器：只有同步接口  FaceAPIWrapper   v3.2之前都是针对的人脸相关的 \n            将多个组件的同步接口合成自己的一个接口\n   \n\n      ",
+					"file": "/Users/xukeze/project/IPS.txt",
+					"file_size": 2074,
+					"file_write_time": 132471212360000000,
 					"settings":
 					{
-						"buffer_size": 3592,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"buffer_size": 1804,
+						"line_ending": "Windows",
+						"scratch": true
 					}
 				},
 				{
-					"file": "/F/code/py/getImg/1_1.py",
+					"contents": "版本研发：\n      v3.2 process ips功能版本测试:\n1. 3.2 ips需求分解  100%\n2. Process 模块测试功能、测试方案熟悉 60%\n3. 梳理ips新功能测试点  100%\n4. 整理ips所需素材  0% 需等接口文档确定入参后整理\n5. ips人脸人体同步接口测试脚本开发 0% 需等接口文档确定入参后整理\n专题验证&项目支持：\n无\n团队建设：\n无\n问题和风险：\n无\n\n\n\n2020-10-23\n版本研发：\n      v3.2 process ips功能版本整体测试:\n1. Process 模块测试功能、测试方案熟悉 100%\n2. 整理ips人脸人体同步接口测试所需素材  70% 与测试用例脚本开发同步\n3. ips人脸人体同步接口测试脚本开发和调试 70% 与测试用例脚本开发同步\n4. 协助修改ips业务流用例bug并验证 100%\n\n专题验证&项目支持：\n无\n团队建设：\n参加新员工入职培训\n问题和风险：\n无",
 					"settings":
 					{
-						"buffer_size": 6482,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"buffer_size": 433,
+						"line_ending": "Unix",
+						"name": "版本研发："
+					}
+				},
+				{
+					"contents": "{\n  'results': [{\n    'code': 0,\n    'error': '',\n    'status': 'OK'\n  }],\n  'responses': [{\n    'face': {\n      'object_info': {\n        'type': 'OBJECT_FACE',\n        'face': {\n          'quality': 0,\n          'rectangle': {\n            'vertices': [{\n              'x': 510,\n              'y': 300\n            }, {\n              'x': 606,\n              'y': 390\n            }]\n          },\n          'track_id': '0',\n          'angle': {\n            'yaw': 4.315368,\n            'pitch': -0.27277043,\n            'roll': 6.706607\n          },\n          'landmarks': [{\n            'x': 506,\n            'y': 313\n          }, {\n            'x': 506,\n            'y': 319\n          }, {\n            'x': 507,\n            'y': 325\n          }, {\n            'x': 508,\n            'y': 331\n          }, {\n            'x': 510,\n            'y': 337\n          }, {\n            'x': 512,\n            'y': 342\n          }, {\n            'x': 515,\n            'y': 348\n          }, {\n            'x': 518,\n            'y': 353\n          }, {\n            'x': 521,\n            'y': 358\n          }, {\n            'x': 525,\n            'y': 363\n          }, {\n            'x': 529,\n            'y': 367\n          }, {\n            'x': 533,\n            'y': 370\n          }, {\n            'x': 538,\n            'y': 374\n          }, {\n            'x': 544,\n            'y': 377\n          }, {\n            'x': 549,\n            'y': 379\n          }, {\n            'x': 555,\n            'y': 381\n          }, {\n            'x': 561,\n            'y': 381\n          }, {\n            'x': 567,\n            'y': 380\n          }, {\n            'x': 574,\n            'y': 378\n          }, {\n            'x': 579,\n            'y': 375\n          }, {\n            'x': 584,\n            'y': 371\n          }, {\n            'x': 589,\n            'y': 367\n          }, {\n            'x': 593,\n            'y': 362\n          }, {\n            'x': 597,\n            'y': 356\n          }, {\n            'x': 600,\n            'y': 351\n          }, {\n            'x': 602,\n            'y': 346\n          }, {\n            'x': 604,\n            'y': 340\n          }, {\n            'x': 605,\n            'y': 333\n          }, {\n            'x': 605,\n            'y': 327\n          }, {\n            'x': 606,\n            'y': 321\n          }, {\n            'x': 606,\n            'y': 315\n          }, {\n            'x': 605,\n            'y': 308\n          }, {\n            'x': 604,\n            'y': 302\n          }, {\n            'x': 513,\n            'y': 297\n          }, {\n            'x': 518,\n            'y': 291\n          }, {\n            'x': 525,\n            'y': 289\n          }, {\n            'x': 532,\n            'y': 288\n          }, {\n            'x': 539,\n            'y': 290\n          }, {\n            'x': 557,\n            'y': 287\n          }, {\n            'x': 564,\n            'y': 285\n          }, {\n            'x': 571,\n            'y': 283\n          }, {\n            'x': 579,\n            'y': 284\n          }, {\n            'x': 586,\n            'y': 288\n          }, {\n            'x': 550,\n            'y': 302\n          }, {\n            'x': 551,\n            'y': 309\n          }, {\n            'x': 551,\n            'y': 316\n          }, {\n            'x': 552,\n            'y': 323\n          }, {\n            'x': 543,\n            'y': 334\n          }, {\n            'x': 548,\n            'y': 335\n          }, {\n            'x': 554,\n            'y': 334\n          }, {\n            'x': 559,\n            'y': 333\n          }, {\n            'x': 565,\n            'y': 332\n          }, {\n            'x': 520,\n            'y': 306\n          }, {\n            'x': 524,\n            'y': 303\n          }, {\n            'x': 534,\n            'y': 302\n          }, {\n            'x': 538,\n            'y': 306\n          }, {\n            'x': 534,\n            'y': 308\n          }, {\n            'x': 524,\n            'y': 308\n          }, {\n            'x': 564,\n            'y': 303\n          }, {\n            'x': 566,\n            'y': 299\n          }, {\n            'x': 577,\n            'y': 296\n          }, {\n            'x': 582,\n            'y': 299\n          }, {\n            'x': 578,\n            'y': 301\n          }, {\n            'x': 569,\n            'y': 304\n          }, {\n            'x': 519,\n            'y': 295\n          }, {\n            'x': 526,\n            'y': 293\n          }, {\n            'x': 532,\n            'y': 293\n          }, {\n            'x': 539,\n            'y': 294\n          }, {\n            'x': 557,\n            'y': 291\n          }, {\n            'x': 564,\n            'y': 289\n          }, {\n            'x': 572,\n            'y': 288\n          }, {\n            'x': 579,\n            'y': 288\n          }, {\n            'x': 529,\n            'y': 301\n          }, {\n            'x': 529,\n            'y': 308\n          }, {\n            'x': 529,\n            'y': 305\n          }, {\n            'x': 571,\n            'y': 296\n          }, {\n            'x': 574,\n            'y': 303\n          }, {\n            'x': 572,\n            'y': 300\n          }, {\n            'x': 544,\n            'y': 304\n          }, {\n            'x': 557,\n            'y': 303\n          }, {\n            'x': 542,\n            'y': 323\n          }, {\n            'x': 563,\n            'y': 321\n          }, {\n            'x': 539,\n            'y': 331\n          }, {\n            'x': 568,\n            'y': 328\n          }, {\n            'x': 539,\n            'y': 353\n          }, {\n            'x': 544,\n            'y': 348\n          }, {\n            'x': 551,\n            'y': 344\n          }, {\n            'x': 555,\n            'y': 344\n          }, {\n            'x': 559,\n            'y': 343\n          }, {\n            'x': 566,\n            'y': 345\n          }, {\n            'x': 573,\n            'y': 348\n          }, {\n            'x': 568,\n            'y': 352\n          }, {\n            'x': 563,\n            'y': 355\n          }, {\n            'x': 557,\n            'y': 357\n          }, {\n            'x': 550,\n            'y': 357\n          }, {\n            'x': 544,\n            'y': 356\n          }, {\n            'x': 541,\n            'y': 353\n          }, {\n            'x': 548,\n            'y': 351\n          }, {\n            'x': 556,\n            'y': 350\n          }, {\n            'x': 563,\n            'y': 349\n          }, {\n            'x': 570,\n            'y': 349\n          }, {\n            'x': 563,\n            'y': 349\n          }, {\n            'x': 556,\n            'y': 350\n          }, {\n            'x': 548,\n            'y': 351\n          }, {\n            'x': 529,\n            'y': 305\n          }, {\n            'x': 572,\n            'y': 300\n          }],\n          'attributes': {\n            'age_lower_limit': '27.000000',\n            'age_up_limit': '37.000000',\n            'black_type': 'st_brown',\n            'cap_style': 'hat_style_type_none',\n            'gender_code': 'male',\n            'glass_style': 'glasses_style_type_none',\n            'mustache_style': 'whiskers',\n            'respirator_color': 'color_type_none',\n            'st_age': 'st_adult',\n            'st_age_value': '32.000000',\n            'st_expression': 'st_happy',\n            'st_helmet_style': 'st_helmet_style_type_none'\n          },\n          'attributes_with_score': {\n            'age_lower_limit': {\n              'type': 'DISCRIMINATION',\n              'category': 'age_lower_limit',\n              'value': 27,\n              'roi': None\n            },\n            'age_up_limit': {\n              'type': 'DISCRIMINATION',\n              'category': 'age_up_limit',\n              'value': 37,\n              'roi': None\n            },\n            'cap_style': {\n              'type': 'CLASSIFICATION',\n              'category': 'HAT_STYLE_TYPE_NONE',\n              'value': 0.9658029,\n              'roi': None\n            },\n            'gender_code': {\n              'type': 'CLASSIFICATION',\n              'category': 'MALE',\n              'value': 0.9934991,\n              'roi': None\n            },\n            'glass_style': {\n              'type': 'CLASSIFICATION',\n              'category': 'GLASSES_STYLE_TYPE_NONE',\n              'value': 0.747827,\n              'roi': None\n            },\n            'mustache_style': {\n              'type': 'CLASSIFICATION',\n              'category': 'WHISKERS',\n              'value': 0.99988943,\n              'roi': None\n            },\n            'respirator_color': {\n              'type': 'CLASSIFICATION',\n              'category': 'COLOR_TYPE_NONE',\n              'value': 0.99880975,\n              'roi': None\n            },\n            'st_age': {\n              'type': 'CLASSIFICATION',\n              'category': 'ST_ADULT',\n              'value': 1,\n              'roi': None\n            },\n            'st_expression': {\n              'type': 'CLASSIFICATION',\n              'category': 'ST_HAPPY',\n              'value': 0.27071148,\n              'roi': None\n            },\n            'st_helmet_style': {\n              'type': 'CLASSIFICATION',\n              'category': 'ST_HELMET_STYLE_TYPE_NONE',\n              'value': 0.99746895,\n              'roi': None\n            }\n          },\n          'face_score': 0\n        },\n        'pedestrian': None,\n        'automobile': None,\n        'human_powered_vehicle': None,\n        'cyclist': None,\n        'scenario': None,\n        'crowd': None,\n        'event': None,\n        'portrait_image_location': None,\n        'object_id': '',\n        'associations': [],\n        'algo': None\n      },\n      'feature': {\n        'type': 'face',\n        'version': 24901,\n        'blob': 'U09GMUVhAAAAAgAAAAEAAAAAAAABAAAAAAAAAAAAAAAuLV2kf6Hiq4eoQaNHI1yrNyhoJK0khSx1HhktjSo7JGKsYZnIKf4qFS0trqCtvKkiKhEt46wlJLktGjDfniGhoqbDr3Yl5ys2pziosCfTMGiuWSQFrOssa6nJpcAq9Z/6oVYlM61xrE+mCquILEQpRSokr1wp8SocKzSsuDJWLKitaCIYJCCoQKipJgeVBpoWLh+qoB9UpT4ocSwgINshUyKWpT4p/69AoOssZrCTq70qZSsPoakeM6gjqEcm3p5pqqYt5SbGJ+4q2iawrQMx6yedn7emHqLPqMWp0jCtrCSp1CPqJxcjjSjLqyiwcKl2rw2u8alRrRSmjiyLrjKgFa3vKXelOh5ILNqknapBIXysvKHxqBOj86tCKnAwti3KsLCeFyFRHTQoaaxEINqqx6Y3FASls5lfreasXqiJIziuLSu6MGicTK8opGGXCSqCpZKnrayiqBoo+iZlIzmjnqwXsIcpPSJXLRegfq8QKBWssiVXJnQjPKs2Hl0PK67RqIGigaFYrHCoha5fKhCv7yvLq0CZwauLKG+rMKScLB+sD6wVHw2pljBiJQspNqzyK3amuiufrrksyCo9mSce2yO7LVEleazmH64f3SYwJQOtu653KRgoCi5SLT6WhihCoE0RcalapEwg+6iDKAAsYi06siatoCturmUjka/Mpg=='\n      }\n    }\n  }]\n}",
+					"settings":
+					{
+						"buffer_size": 10395,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "component;\nconsole;\ninfra - model - manager;\nengine - algoapp - ips - operator;\nengine - algoapp - vps - operator;\nengine - image - process - service;\nengine - video - process - service;\nengine - batch - video - process - service;\nengine - process - callback - service\n\n\n\ncomponent;\nconsole;\ninfra - model - manager;\nengine - algoapp - ips - operator;\nengine - algoapp - vps - operator;\nengine - video - ingress - service;\nengine - image - process - service;\nengine - video - process - service;\nengine - batch - video - process - service;\nengine - process - callback - service",
+					"settings":
+					{
+						"buffer_size": 576,
+						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "Packages/User/Python-Virtualenv.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Python-Virtualenv.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Python-Virtualenv.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C&C++R.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Compile"
-						],
-						[
-							"Packages/User/C++.sublime-build",
-							"g++ Run"
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javaR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javaR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Java/JavaC.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell2.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/javascript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/javascript.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/jsR.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/jsR.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shellR.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/shell.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/shell2.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/shell2.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 490.0,
+				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
 					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
 						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"subsh",
-						"SublimeREPL: Shell"
-					],
-					[
-						"prv",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"instalk",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 609.0
+				"width": 0.0
 			},
 			"console":
 			{
-				"height": 130.0,
+				"height": 617.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -2691,152 +232,16 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/F/code/py",
-				"/F/code/py/checkHouse",
-				"/F/code/java/src",
-				"/F/code/java/src/com",
-				"/F/code/c++"
-			],
 			"file_history":
 			[
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/build64.bat",
-				"/F/Alg/screenshot.py",
-				"/F/Alg/screenshot - 副本.py",
-				"/F/Alg/Iou.py",
-				"/F/Alg/hkperson.py",
-				"/D/Algsamples/calc/1/calc/alg - 副本.py",
-				"/C/Users/intellif/Desktop/testfor.py",
-				"/D/Algsamples/08.07-08.08getlmg3/08.07-08.08getlmg3/age/adult/readXml.py",
-				"/F/SDK/Windows/v2.1.2/rc1/run64.bat",
-				"/D/Algsamples/calc/1/calc/alg.py",
-				"/D/Algsamples/calc/alg.py",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/C/Users/intellif/Desktop/Sanic.py",
-				"/F/code/c++/sort.c",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/tracker/TrackerTest.cpp",
-				"/C/Users/intellif/Desktop/12.py",
-				"/C/Users/intellif/Desktop/baiduPan.py",
-				"/C/Users/intellif/Desktop/Temporary/arctern_manager.h",
-				"/F/Alg/drawing.py",
-				"/D/Algsamples/calc/1/calc/alg - 副本 (2).py",
-				"/F/code/C/CProject/CProject/width.c",
-				"/F/code/C/CProject/CProject/varwid.c",
-				"/D/Algsamples/08.07-08.08getlmg3/08.07-08.08getlmg3/age/adult/__pycache__/readXml.cpython-37.pyc",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"//192.168.2.243/e/intellif/SDK/Windows/v2.1.2/rc1/run64.bat",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl.py",
-				"/F/2018年8月31日 yuv转bmp工具/benchmark.h",
-				"/F/2018年8月31日 yuv转bmp工具/TrackerTest.cpp",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/filesystem/path.hpp",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/searcher/SearcherTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/rc1/license/signature",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/tracker/TrackerTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/run64.bat",
-				"/F/SDK/Windows/v2.1.2/rc0/run64.bat",
-				"/C/Program Files/Java/jdk1.8.0_172/bin/runJava.bat",
-				"/F/yuvToBmp/YuvHelper.java",
-				"/F/yuvToBmp/java.lang.ArrayIndexOutOfBoundsException",
-				"/F/yuvToBmp/\tat YuvHelper.convertYuv422ToRgb(YuvHelper.java",
-				"/F/yuvToBmp/\tat YuvHelper.main(YuvHelper.java",
-				"/C/Users/intellif/Desktop/YuvHelper.java",
-				"//192.168.2.243/e/intellif/SDK/Windows/v2.1.2/rc1/test/benchmark/build64.bat",
-				"/F/yuvToBmp/yuvToBmp.cpp",
-				"/C/Users/intellif/Desktop/java.lang.ArrayIndexOutOfBoundsException",
-				"/F/yuvToBmp/yuvToBmp.java",
-				"/F/yuvToBmp/  位置",
-				"/F/SDK/Windows/v2.1.2/rc1/yuvToBmp.cpp",
-				"/F/SDK/Windows/v2.0.0/build.bat",
-				"/F/code/c++/test.c",
-				"/F/code/py/getImg/1_1.py",
-				"/F/SDK/Windows/v2.1.2/run64.bat",
-				"/F/SDK/Windows/v2.1.2/rc0/test/benchmark/searcher/SearcherTest.h",
-				"/F/SDK/Windows/v2.1.2/rc1/test/benchmark/common/benchmark.h",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp",
-				"/F/code/py/getSamples/getPicture_Multithreading.py",
-				"/C/Users/intellif/Desktop/similog.txt",
-				"/D/Algsamples/calc/imgname.txt",
-				"/C/Users/intellif/Desktop/similogAll.txt",
-				"/C/Users/intellif/Desktop/Temporary/demo [2].cpp",
-				"/C/Users/intellif/Documents/WeChat Files/xkzstyle/Files/reference_results_person.tsv",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp33",
-				"/C/Users/intellif/Desktop/Temporary/demo_bak1 [2].cpp11",
-				"/C/Users/intellif/Desktop/Temporary/person1.cpp",
-				"/F/SDK/Linux/v2.1.0/rc0/linux/x86_64/include/IFaceRecType.h",
-				"/F/code/py/alg/compareresult/comresult.py",
-				"/F/SDK/Linux/v2.1.0/rc0/benchmark/common/utils.cpp",
-				"/C/Python37/lib/site-packages/numpy/core/fromnumeric.py",
-				"/F/code/py/checkHouse/gethousemes.py",
-				"/C/Users/intellif/Desktop/Temporary/person.cpp",
-				"/F/code/py/checkHouse/gethousemes - 副本.py",
-				"/F/SDK/Windows/v2.0.0/run.bat",
-				"/F/SDK/Windows/v2.1.2/test_case/rename.bat",
-				"//192.168.2.243/e/intellif/SDK/old_Linux/SDK_test_samples/1_1/朱晓纯/rename.bat",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/build64.bat",
-				"/F/SDK/Windows/v2.1.2/license/signature",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/predictor/PredictorTest.cpp1",
-				"/C/Python37/lib/site-packages/requests/sessions.py",
-				"/C/Users/intellif/Desktop/rk.py",
-				"/C/Users/intellif/Desktop/ruokuai-python2/rk.py",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/run64.bat",
-				"/F/code/py/checkHouse/recordparams.py",
-				"/C/Python37/lib/site-packages/bs4/element.py",
-				"/D/pyenv/venv/Scripts/activate.bat",
-				"/F/code/sdk/AlgTestBench_0718-windows/externel/boost/include/boost/algorithm/string/split.hpp",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/detector/DetectorTest.cpp1",
-				"/F/SDK/Windows/v2.1.2/test/benchmark/common/benchmark.h",
-				"/C/Python37/lib/site-packages/requests_html.py",
-				"/F/SDK/Windows/test/benchmark/searcher/SearcherTest.cpp",
-				"/F/SDK/Windows/test/benchmark/common/benchmark.h",
-				"/F/SDK/Windows/test/benchmark/detector/DetectorTest.h",
-				"/F/SDK/Windows/test/benchmark/detector/DetectorTest.cpp",
-				"/F/SDK/Windows/build.bat",
-				"/F/123/1.dgrp",
-				"/F/code/java/src/com/xu.keze/TestStaticFun.java",
-				"/F/SDK/Windows/run.bat",
-				"/F/code/c++/test.cpp",
-				"/c/mingw/lib/gcc/mingw32/6.3.0/include/c++/ostream",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp.face_attr",
-				"/F/SDK/Windows/test/benchmark/detector/CMakeLists.txt",
-				"/F/SDK/Windows/test/benchmark/detector/build.sh",
-				"/C/Users/intellif/Desktop/Temporary/common.h",
-				"/F/SDK/Windows/test/benchmark/common/utils.h",
-				"/C/Users/intellif/Desktop/demo.cpp",
-				"/F/SDK/Windows/license/signature",
-				"/F/code/java/src/com/xu.keze/IfTest.java",
-				"/F/code/py/alg/compareresult/venv1.py",
-				"/C/Users/intellif/Desktop/Temporary/demo - 副本.cpp",
-				"/C/Users/intellif/Desktop/Temporary/demo [3].cpp",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/javaR.sublime-build",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/Python-Virtualenv.sublime-build",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/PythonTestRunner.last-run",
-				"/C/Users/intellif/AppData/Roaming/Sublime Text 3/Packages/User/C&C++R.sublime-build",
-				"/C/Users/intellif/Desktop/Temporary/demo_bak.cpp",
-				"/C/Users/intellif/Desktop/Temporary/demo.cpp.bak",
-				"/F/SDK/Linux/v2.0.0/linux/test/benchmark/detector/DetectorTest.cpp",
-				"/F/code/sdk/AlgTestBench_0718-windows/src/utils.h",
-				"/F/SDK/Linux/v2.0.0/linux/test/benchmark/common/benchmark.h",
-				"/F/code/py/alg/compareresult/base1.txt",
-				"/F/code/py/alg/compareresult/test1.txt",
-				"/C/Users/intellif/Desktop/build_mxnet(1).sh",
-				"/C/Users/intellif/Desktop/Temporary/build_mxnet1.sh",
-				"/F/code/py/alg/compareresult/comp1.txt",
-				"/F/code/py/alg/compareresult/hat.log",
-				"/F/code/py/alg/compareresult/no+hatlog.txt",
-				"/C/Users/intellif/Desktop/Temporary/SearcherTest.cpp",
-				"/F/SDK/Linux/v2.1.0/rc0/benchmark原始/common/utils.cpp",
-				"/C/Users/intellif/Desktop/Temporary/nhatlog.txt",
-				"/C/Users/intellif/Desktop/Temporary/hatylog.txt",
-				"/F/code/py/alg/readXml.py"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
-				"height": 128.0,
+				"height": 0.0,
 				"where_history":
 				[
 				]
@@ -2846,134 +251,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"1920",
-					"1080",
-					"[",
-					"bbox",
-					"name",
-					"d",
-					"ignore",
-					"ing",
-					"ingr",
-					"ingo",
-					"ing",
-					"bbox",
-					"int",
-					"↵",
-					"fname",
-					"cv2",
-					"getbbox",
-					"file",
-					"不像",
-					"parse_rec",
-					"voc_ap",
-					"parse_rec",
-					"voc_ap",
-					"xmlPath",
-					"537",
-					"速度",
-					"44 页",
-					"速度太快了，休息一下吧 暂停1秒后继续",
-					" 蓝桥杯",
-					" &&蓝桥杯",
-					"43页",
-					"43",
-					"速度",
-					"10",
-					"500",
-					"100",
-					"1000",
-					"5000",
-					"100000",
-					"500000",
-					"test_case4",
-					"com.intellif.file",
-					"\\",
-					"printcolor",
-					"o",
-					"printcolor",
-					"ExtractFeature",
-					"\\",
-					"100000",
-					"det",
-					"base_feat",
-					"parse_rec",
-					"voc_eval",
-					".jpg",
-					"  ",
-					",",
-					"========================================================================\n",
-					"../test_img/person/",
-					"20180427T184207_522.",
-					"20180511T183503_21239.",
-					"20180511T183503_21239.jpg",
-					"zhuxiaochun",
-					"base_image_path",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					"IMREAD",
-					"imread",
-					" )",
-					"( ",
-					"name",
-					"image1",
-					"image",
-					"image_path",
-					"\\",
-					"20180510T120701_19604.jpg",
-					"957",
-					"zhuxiaochun_quanshen",
-					"184",
-					"1361",
-					"1121",
-					"zhuxiaochun_quanshen",
-					"vector<string",
-					"persons",
-					"i",
-					"persons",
-					"cv::",
-					"name",
-					"with",
-					"voc_ap",
-					"parse_rec",
-					"astyp1e",
-					"difficult",
-					"ditticult",
-					"\\",
-					"1000000",
-					"rk_create",
-					"password",
-					"username",
-					"21",
-					"20",
-					"test_case",
-					"3",
-					"\\",
-					"text",
-					"21",
-					"1 data",
-					"1",
-					"-",
-					"Accept",
-					"name",
-					":",
-					"detections",
-					"split",
-					"out_image_path",
-					"in_image_path",
-					"demo",
-					"showAllFiles",
-					"demo",
-					"compare",
-					"detections",
-					".jpg",
-					"g",
-					"face 0",
-					".xml"
+					"需等接口文档确定入参后整理"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2981,14 +259,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"/",
-					"",
-					" ",
-					"",
-					".jpg",
-					"",
-					"120",
-					"AlgTestBenchR"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2996,132 +266,32 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "F:\\code\\py"
-				},
-				{
-					"path": "F:\\code\\sdk"
-				},
-				{
-					"path": "F:\\code\\java\\src"
-				},
-				{
-					"path": "F:\\code\\c++"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/F/Alg/hkperson.py",
+							"file": "/Users/xukeze/project/IPS.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3592,
+								"buffer_size": 1804,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3592,
-										3592
+										1804,
+										1804
 									]
 								],
 								"settings":
 								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
 									"bracket_highlighter.locations":
 									{
 										"close":
@@ -3139,21 +309,114 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"in_converting": true,
+									"is_init_dirty_state": false,
+									"origin_content": "目标解析相关的worker: 三种\nhttp://viper.pages.gitlab.sz.sensetime.com/engine-public-apis 接口文档  FaceExtractService、StructExtractService\t\nworker-face：同步+异步  针对人脸\n\t同步接口： FaceExtractService\n\t异步：从上层的kafka topic（stream.images.face）消费请求，处理之后，推送到下游的topic(stream.features.face_feature_version/stream.features.ips.face_feature_version.garbage)\n\nworker-pach： 同步+异步   针对四种目标： 机动车，非机动车，骑手，人体\n\t同步：StructExtractService\t\n\t异步：从上层的kafka topic（不同类型的目标，topic不一样）消费请求，处理之后，推送到下游的topic(不同目标类型topic不一样)\n                              请求 topic:\n\t\t\"stream.images.pedestrian\", \"stream.images.automobile\", \"stream.images.cyclist\",\n                                \"stream.images.human_powered_vehicle\"\t\n                             结果topic:\n                                   (\"stream.features.pedestrian_\" + feature_version, f\"stream.features.ips.pedestrian_{feature_version}.garbage\"),\n                                   (\"stream.features.automobile\", \"stream.features.ips.automobile.garbage\"),\n                                   (\"stream.features.cyclist\", \"stream.features.ips.cyclist.garbage\"),\n                                   (\"stream.features.human_powered_vehicle\", \"stream.features.ips.human_powered_vehicle.garbage\")\n\nworker-captureforfaceped：v3.1新增的worker(针对异步)   v3.2新增同步接口 \n                                请求 topic: steam.images.face_pedestrian\n                                结果topic:\n                                \n\t\t\t人脸：stream.features.face_feature_version/stream.features.ips.face_feature_version.garbag\n\t\t\t人体： \"stream.features.pedestrian_\" + feature_version, f\"stream.features.ips.pedestrian_{feature_version}.garbage\n\ngarbage: 未检测到指定目标或者目标质量分数(v3.1之前只有人脸涉及; v3.2之后加了人体质量分数)小于阈值\n\nworker-featureconvert\nworker-symphonyface-cpu\n\n\n\n包装器：只有同步接口  FaceAPIWrapper   v3.2之前都是针对的人脸相关的 \n            将多个组件的同步接口合成自己的一个接口\n   \n\n      ",
+									"origin_encoding": "GB2312",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 433,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										433,
+										209
+									]
+								],
+								"settings":
+								{
+									"auto_name": "版本研发：",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -3164,16 +427,31 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -3184,162 +462,70 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1116.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/F/code/py/getImg/1_1.py",
+							"buffer": 2,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6482,
+								"buffer_size": 10395,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1138,
-										1138
+										46,
+										50
 									]
 								],
 								"settings":
 								{
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1137,
-												1138
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1122,
-												1123
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
 									"bracket_highlighter.locations":
 									{
 										"close":
 										{
 											"1":
 											[
-												1137,
-												1138
+												71,
+												72
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												1122,
-												1123
+												16,
+												17
 											]
 										},
 										"unmatched":
@@ -3348,21 +534,6 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -3373,16 +544,31 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -3393,25 +579,126 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_init_dirty_state": true,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 576,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										282,
+										282
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 108.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -3422,11 +709,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 28.0
 			},
 			"input":
 			{
-				"height": 51.0
+				"height": 0.0
 			},
 			"layout":
 			{
@@ -3451,28 +738,16 @@
 				]
 			},
 			"menu_visible": true,
-			"output.autopep8":
-			{
-				"height": 149.0
-			},
-			"output.exec":
-			{
-				"height": 240.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,830,482,121,1542",
+			"position": "0 0 0 1792 1097 0 0 1792 1097 ",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3481,30 +756,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"Iou",
-						"F:\\Alg\\Iou.py"
-					],
-					[
-						"",
-						"F:\\Alg\\screenshot - 副本.py"
-					],
-					[
-						"screen",
-						"F:\\Alg\\screenshot - 副本.py"
-					],
-					[
-						"scr",
-						"F:\\Alg\\screenshot - 副本.py"
-					],
-					[
-						"1",
-						"py\\getImg\\1_1.py"
-					],
-					[
-						"mul",
-						"py\\getSamples\\getPicture_Multithreading.py"
-					]
 				],
 				"width": 0.0
 			},
@@ -3534,12 +785,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 13,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],
