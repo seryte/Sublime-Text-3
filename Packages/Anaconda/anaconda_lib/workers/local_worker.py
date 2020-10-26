@@ -3,12 +3,13 @@
 # This program is Free Software see LICENSE file for details
 
 import time
+import platform
 
 import sublime
 
 from ..logger import Log
 from .worker import Worker
-from ..helpers import project_name
+from ..helpers import project_name, get_socket_timeout
 from ..constants import WorkerStatus
 from ..builder.python_builder import AnacondaSetPythonBuilder
 
@@ -30,10 +31,11 @@ class LocalWorker(Worker):
             self.tip = self.process.tip
             return False
 
+        timeout = get_socket_timeout(0.2)
         start = time.time()
         times = 1
-        interval = 2
-        while not self._status(0.20):
+        interval = timeout * 10
+        while not self._status(timeout):
             if time.time() - start >= interval:  # expressed in seconds
                 msg = '{}. tried to connect {} times during {} seconds'
                 self.error = msg.format(self.error, times, interval)
@@ -109,15 +111,18 @@ class LocalWorker(Worker):
             ).format(self.interpreter.host)
             addr = self.interpreter.host
 
+        address_family = (
+            'AF_INET' if platform.system().lower() != 'linux' else 'AF_UNIX'
+        )
         self.tip = (
             'check that there is Python process executing the anaconda '
             'jsonserver.py script running in your system. If there is, check '
             '{} writing the following script in your Sublime Text 3 console:'
-            '\n\nimport socket; socket.socket(socket.AF_INET, '
+            '\n\nimport socket; socket.socket(socket.{}, '
             'socket.SOCK_STREAM).connect({})\n\nIf anaconda works just fine '
             'after you received this error and the command above worked you '
             'can make anaconda to do not show you this error anymore setting '
             'the \'swallow_startup_errors\' to \'true\' in your '
-            'configuration file.'.format(check, addr)
+            'configuration file.'.format(check, address_family, addr)
         )
         return super(LocalWorker, self)._status(timeout)

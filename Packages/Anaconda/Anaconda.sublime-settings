@@ -54,7 +54,7 @@
         Python Builder Options
 
         If enabled, anaconda will add your configured interpreter (if any)
-        into your per-project `builder_systems` list if any, or create a
+        into your per-project `build_systems` list if any, or create a
         new one in case you don't define one yourself.
 
         This is enabled by default; disable it if you experience slowdowns
@@ -95,7 +95,7 @@
         in a remote machine just use it's address:port as interpreter
         for example:
 
-            "python_interpreter": "tcp://my_remote.machine.com:19360"
+        	"python_interpreter": "tcp://my_remote.machine.com:19360"
     */
     "python_interpreter": "python",
 
@@ -205,7 +205,7 @@
 
         Use this at your own risk.
     */
-    "auto_formatting": true,
+    "auto_formatting": false,
 
     /*
         Timeout for the autoformatting tool before fail
@@ -364,11 +364,7 @@
     */
     "pep8_ignore":
     [
-        "E309",
-        "E111",
-        "W191",
-        "E101",
-        "E114"
+        "E309"
     ],
 
     // Maximum line length for pep8
@@ -483,9 +479,9 @@
     "validate_imports": false,
 
     /*
-        MyPy
+    	MyPy
 
-        Set the following option to true to enable MyPy checker.
+    	Set the following option to true to enable MyPy checker.
     */
     "mypy": false,
 
@@ -495,16 +491,16 @@
     "mypy_mypypath": "",
 
     /*
-        MyPy Silent Imports
+    	MyPy Silent Imports
 
-        If true, mypy will not follow imports to .py files.
+    	If true, mypy will not follow imports to .py files.
     */
     "mypy_silent_imports": false,
 
     /*
-        MyPy Almost Silent
+    	MyPy Almost Silent
 
-        Same as Silent Imports, but report the imports as errors.
+		Same as Silent Imports, but report the imports as errors.
     */
     "mypy_almost_silent": false,
 
@@ -516,34 +512,34 @@
     "mypy_suppress_stub_warnings": true,
 
     /*
-        MyPy py2
+    	MyPy py2
 
-        Use Python 2 mode.
+    	Use Python 2 mode.
     */
     "mypy_py2": false,
 
     /*
-        MyPy Disallow Untyped Calls
+    	MyPy Disallow Untyped Calls
 
-        Disallow calling functions without type annotations from
-        functions with type annotations.
+    	Disallow calling functions without type annotations from
+    	functions with type annotations.
     */
     "mypy_disallow_untyped_calls": false,
 
     /*
-        MyPy Disallow Untyped Defs
+    	MyPy Disallow Untyped Defs
 
-        Disallow defining functions without type annotations or
-        with incomplete type annotations.
+    	Disallow defining functions without type annotations or
+    	with incomplete type annotations.
     */
     "mypy_disallow_untyped_defs": false,
 
-    /*
-        MyPy Check Untyped Defs
+	/*
+		MyPy Check Untyped Defs
 
-        Type check the interior of functions without type annotations.
-    */
-    "mypy_check_untyped_defs": false,
+		Type check the interior of functions without type annotations.
+	*/
+	"mypy_check_untyped_defs": false,
 
     /*
         MyPy Fast Parser
@@ -554,12 +550,12 @@
     */
     "mypy_fast_parser": false,
 
-    /*
-        MyPy Custom Typing
+	/*
+		MyPy Custom Typing
 
-        Use a custom typing module. Uncomment to enable.
-    */
-    // "mypy_custom_typing": "",
+		Use a custom typing module. Uncomment to enable.
+	*/
+	// "mypy_custom_typing": "",
 
     /*
         Debug and development options
@@ -667,11 +663,11 @@
     // "test_project_path": "./"
 
     /*
-        Set this option to true if you get warnings about anaconda not
-        being able to connect to your localhost on ST3 startup but it
-        works normally after closing the error message.
+    	Set this option to true if you get warnings about anaconda not
+    	being able to connect to your localhost on ST3 startup but it
+    	works normally after closing the error message.
 
-        NOTE: Ignoring errors may be dangerous.
+    	NOTE: Ignoring errors may be dangerous.
      */
 
      /* Parameters to include after test_command specific to testing scope */
@@ -680,14 +676,20 @@
         "current_test": "",
         "project_tests": ""
     },
+	"swallow_startup_errors": false,
 
-    "swallow_startup_errors": true,
-    
     /*
         If this is set to true, anaconda will unload plugins that
         make it malfunction interfering with it
     */
-    "auto_unload_conflictive_plugins": true
+    "auto_unload_conflictive_plugins": true,
+    /*
+        If this is set to true, anaconda will search for environment hook
+        files in any directory level down to the one the current file is in
+        as opposed to the default where it will only search down to the
+        root of your working directory.
+    */
+    "anaconda_allow_project_environment_hooks": false
 }
 
 // vim: set ft=javascript:
