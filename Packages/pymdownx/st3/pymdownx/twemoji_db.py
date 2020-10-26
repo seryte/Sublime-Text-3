@@ -3,8 +3,7 @@
 Names from emojione database. Do not edit by hand.
 """
 from __future__ import unicode_literals
-version = "v12.1.3"
-index_version = "5.0.5"
+version = "v2.6.0"
 name = "twemoji"
 emoji = {
     ":100:": {
@@ -32,11 +31,6 @@ emoji = {
         "name": "AB button (blood type)",
         "unicode": "1f18e"
     },
-    ":abacus:": {
-        "category": "objects",
-        "name": "abacus",
-        "unicode": "1f9ee"
-    },
     ":abc:": {
         "category": "symbols",
         "name": "input latin letters",
@@ -52,14 +46,9 @@ emoji = {
         "name": "Japanese \u201cacceptable\u201d button",
         "unicode": "1f251"
     },
-    ":adhesive_bandage:": {
-        "category": "objects",
-        "name": "adhesive bandage",
-        "unicode": "1fa79"
-    },
     ":adult:": {
         "category": "people",
-        "name": "person",
+        "name": "adult",
         "unicode": "1f9d1"
     },
     ":adult_tone1:": {
@@ -234,7 +223,7 @@ emoji = {
     },
     ":arrow_down_small:": {
         "category": "symbols",
-        "name": "downwards button",
+        "name": "down button",
         "unicode": "1f53d"
     },
     ":arrow_forward:": {
@@ -289,7 +278,7 @@ emoji = {
     },
     ":arrow_up_small:": {
         "category": "symbols",
-        "name": "upwards button",
+        "name": "up button",
         "unicode": "1f53c"
     },
     ":arrow_upper_left:": {
@@ -309,7 +298,7 @@ emoji = {
     },
     ":arrows_counterclockwise:": {
         "category": "symbols",
-        "name": "counterclockwise arrows button",
+        "name": "anticlockwise arrows button",
         "unicode": "1f504"
     },
     ":art:": {
@@ -348,20 +337,10 @@ emoji = {
         "name": "atom symbol",
         "unicode": "269b"
     },
-    ":auto_rickshaw:": {
-        "category": "travel",
-        "name": "auto rickshaw",
-        "unicode": "1f6fa"
-    },
     ":avocado:": {
         "category": "food",
         "name": "avocado",
         "unicode": "1f951"
-    },
-    ":axe:": {
-        "category": "objects",
-        "name": "axe",
-        "unicode": "1fa93"
     },
     ":b:": {
         "category": "symbols",
@@ -423,35 +402,15 @@ emoji = {
         "name": "bacon",
         "unicode": "1f953"
     },
-    ":badger:": {
-        "category": "nature",
-        "name": "badger",
-        "unicode": "1f9a1"
-    },
     ":badminton:": {
         "category": "activity",
         "name": "badminton",
         "unicode": "1f3f8"
     },
-    ":bagel:": {
-        "category": "food",
-        "name": "bagel",
-        "unicode": "1f96f"
-    },
     ":baggage_claim:": {
         "category": "symbols",
         "name": "baggage claim",
         "unicode": "1f6c4"
-    },
-    ":bald:": {
-        "category": "people",
-        "name": "bald",
-        "unicode": "1f9b2"
-    },
-    ":ballet_shoes:": {
-        "category": "people",
-        "name": "ballet shoes",
-        "unicode": "1fa70"
     },
     ":balloon:": {
         "category": "objects",
@@ -465,7 +424,7 @@ emoji = {
     },
     ":ballot_box_with_check:": {
         "category": "symbols",
-        "name": "check box with check",
+        "name": "ballot box with check",
         "unicode": "2611"
     },
     ":bamboo:": {
@@ -482,11 +441,6 @@ emoji = {
         "category": "symbols",
         "name": "double exclamation mark",
         "unicode": "203c"
-    },
-    ":banjo:": {
-        "category": "activity",
-        "name": "banjo",
-        "unicode": "1fa95"
     },
     ":bank:": {
         "category": "travel",
@@ -507,11 +461,6 @@ emoji = {
         "category": "activity",
         "name": "baseball",
         "unicode": "26be"
-    },
-    ":basket:": {
-        "category": "objects",
-        "name": "basket",
-        "unicode": "1f9fa"
     },
     ":basketball:": {
         "category": "activity",
@@ -575,12 +524,12 @@ emoji = {
     },
     ":bear:": {
         "category": "nature",
-        "name": "bear",
+        "name": "bear face",
         "unicode": "1f43b"
     },
     ":bearded_person:": {
         "category": "people",
-        "name": "man: beard",
+        "name": "bearded person",
         "unicode": "1f9d4"
     },
     ":bearded_person_tone1:": {
@@ -652,11 +601,6 @@ emoji = {
         "category": "food",
         "name": "bento box",
         "unicode": "1f371"
-    },
-    ":beverage_box:": {
-        "category": "food",
-        "name": "beverage box",
-        "unicode": "1f9c3"
     },
     ":bike:": {
         "category": "travel",
@@ -735,7 +679,7 @@ emoji = {
     },
     ":blond-haired_man:": {
         "category": "people",
-        "name": "man: blond hair",
+        "name": "blond-haired man",
         "unicode": "1f471-200d-2642-fe0f"
     },
     ":blond-haired_man_tone1:": {
@@ -765,7 +709,7 @@ emoji = {
     },
     ":blond-haired_woman:": {
         "category": "people",
-        "name": "woman: blond hair",
+        "name": "blond-haired woman",
         "unicode": "1f471-200d-2640-fe0f"
     },
     ":blond-haired_woman_tone1:": {
@@ -795,7 +739,7 @@ emoji = {
     },
     ":blond_haired_person:": {
         "category": "people",
-        "name": "person: blond hair",
+        "name": "blond-haired person",
         "unicode": "1f471"
     },
     ":blond_haired_person_tone1:": {
@@ -853,11 +797,6 @@ emoji = {
         "name": "blue heart",
         "unicode": "1f499"
     },
-    ":blue_square:": {
-        "category": "symbols",
-        "name": "blue square",
-        "unicode": "1f7e6"
-    },
     ":blush:": {
         "category": "people",
         "name": "smiling face with smiling eyes",
@@ -872,11 +811,6 @@ emoji = {
         "category": "objects",
         "name": "bomb",
         "unicode": "1f4a3"
-    },
-    ":bone:": {
-        "category": "people",
-        "name": "bone",
-        "unicode": "1f9b4"
     },
     ":book:": {
         "category": "objects",
@@ -974,39 +908,34 @@ emoji = {
         "unicode": "1f35e"
     },
     ":breast_feeding:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding",
         "unicode": "1f931"
     },
     ":breast_feeding_tone1:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding: light skin tone",
         "unicode": "1f931-1f3fb"
     },
     ":breast_feeding_tone2:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding: medium-light skin tone",
         "unicode": "1f931-1f3fc"
     },
     ":breast_feeding_tone3:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding: medium skin tone",
         "unicode": "1f931-1f3fd"
     },
     ":breast_feeding_tone4:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding: medium-dark skin tone",
         "unicode": "1f931-1f3fe"
     },
     ":breast_feeding_tone5:": {
-        "category": "people",
+        "category": "activity",
         "name": "breast-feeding: dark skin tone",
         "unicode": "1f931-1f3ff"
-    },
-    ":bricks:": {
-        "category": "objects",
-        "name": "brick",
-        "unicode": "1f9f1"
     },
     ":bride_with_veil:": {
         "category": "people",
@@ -1048,11 +977,6 @@ emoji = {
         "name": "briefcase",
         "unicode": "1f4bc"
     },
-    ":briefs:": {
-        "category": "people",
-        "name": "briefs",
-        "unicode": "1fa72"
-    },
     ":broccoli:": {
         "category": "food",
         "name": "broccoli",
@@ -1062,26 +986,6 @@ emoji = {
         "category": "symbols",
         "name": "broken heart",
         "unicode": "1f494"
-    },
-    ":broom:": {
-        "category": "objects",
-        "name": "broom",
-        "unicode": "1f9f9"
-    },
-    ":brown_circle:": {
-        "category": "symbols",
-        "name": "brown circle",
-        "unicode": "1f7e4"
-    },
-    ":brown_heart:": {
-        "category": "symbols",
-        "name": "brown heart",
-        "unicode": "1f90e"
-    },
-    ":brown_square:": {
-        "category": "symbols",
-        "name": "brown square",
-        "unicode": "1f7eb"
     },
     ":bug:": {
         "category": "nature",
@@ -1095,7 +999,7 @@ emoji = {
     },
     ":bullettrain_front:": {
         "category": "travel",
-        "name": "bullet train",
+        "name": "high-speed train with bullet nose",
         "unicode": "1f685"
     },
     ":bullettrain_side:": {
@@ -1127,11 +1031,6 @@ emoji = {
         "category": "people",
         "name": "busts in silhouette",
         "unicode": "1f465"
-    },
-    ":butter:": {
-        "category": "food",
-        "name": "butter",
-        "unicode": "1f9c8"
     },
     ":butterfly:": {
         "category": "nature",
@@ -1288,11 +1187,6 @@ emoji = {
         "name": "chains",
         "unicode": "26d3"
     },
-    ":chair:": {
-        "category": "objects",
-        "name": "chair",
-        "unicode": "1fa91"
-    },
     ":champagne:": {
         "category": "food",
         "name": "bottle with popping cork",
@@ -1337,11 +1231,6 @@ emoji = {
         "category": "nature",
         "name": "cherry blossom",
         "unicode": "1f338"
-    },
-    ":chess_pawn:": {
-        "category": "activity",
-        "name": "chess pawn",
-        "unicode": "265f"
     },
     ":chestnut:": {
         "category": "food",
@@ -1688,25 +1577,15 @@ emoji = {
         "name": "coffin",
         "unicode": "26b0"
     },
-    ":cold_face:": {
-        "category": "people",
-        "name": "cold face",
-        "unicode": "1f976"
-    },
     ":cold_sweat:": {
         "category": "people",
-        "name": "anxious face with sweat",
+        "name": "face with open mouth & cold sweat",
         "unicode": "1f630"
     },
     ":comet:": {
         "category": "nature",
         "name": "comet",
         "unicode": "2604"
-    },
-    ":compass:": {
-        "category": "objects",
-        "name": "compass",
-        "unicode": "1f9ed"
     },
     ":compression:": {
         "category": "objects",
@@ -1821,7 +1700,7 @@ emoji = {
     },
     ":couple:": {
         "category": "people",
-        "name": "woman and man holding hands",
+        "name": "man and woman holding hands",
         "unicode": "1f46b"
     },
     ":couple_mm:": {
@@ -1849,21 +1728,6 @@ emoji = {
         "name": "kiss",
         "unicode": "1f48f"
     },
-    ":couplekiss_man_man:": {
-        "category": "people",
-        "name": "kiss: man, man",
-        "unicode": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
-    },
-    ":couplekiss_woman_man:": {
-        "category": "people",
-        "name": "kiss: woman, man",
-        "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
-    },
-    ":couplekiss_woman_woman:": {
-        "category": "people",
-        "name": "kiss: woman, woman",
-        "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
-    },
     ":cow2:": {
         "category": "nature",
         "name": "cow",
@@ -1888,6 +1752,11 @@ emoji = {
         "category": "objects",
         "name": "crayon",
         "unicode": "1f58d"
+    },
+    ":crazy_face:": {
+        "category": "people",
+        "name": "crazy face",
+        "unicode": "1f92a"
     },
     ":credit_card:": {
         "category": "objects",
@@ -1951,7 +1820,7 @@ emoji = {
     },
     ":crying_cat_face:": {
         "category": "people",
-        "name": "crying cat",
+        "name": "crying cat face",
         "unicode": "1f63f"
     },
     ":crystal_ball:": {
@@ -1969,11 +1838,6 @@ emoji = {
         "name": "cup with straw",
         "unicode": "1f964"
     },
-    ":cupcake:": {
-        "category": "food",
-        "name": "cupcake",
-        "unicode": "1f9c1"
-    },
     ":cupid:": {
         "category": "symbols",
         "name": "heart with arrow",
@@ -1983,11 +1847,6 @@ emoji = {
         "category": "activity",
         "name": "curling stone",
         "unicode": "1f94c"
-    },
-    ":curly_haired:": {
-        "category": "people",
-        "name": "curly hair",
-        "unicode": "1f9b1"
     },
     ":curly_loop:": {
         "category": "symbols",
@@ -2084,96 +1943,6 @@ emoji = {
         "name": "calendar",
         "unicode": "1f4c5"
     },
-    ":deaf_man:": {
-        "category": "people",
-        "name": "deaf man",
-        "unicode": "1f9cf-200d-2642-fe0f"
-    },
-    ":deaf_man_tone1:": {
-        "category": "people",
-        "name": "deaf man: light skin tone",
-        "unicode": "1f9cf-1f3fb-200d-2642-fe0f"
-    },
-    ":deaf_man_tone2:": {
-        "category": "people",
-        "name": "deaf man: medium-light skin tone",
-        "unicode": "1f9cf-1f3fc-200d-2642-fe0f"
-    },
-    ":deaf_man_tone3:": {
-        "category": "people",
-        "name": "deaf man: medium skin tone",
-        "unicode": "1f9cf-1f3fd-200d-2642-fe0f"
-    },
-    ":deaf_man_tone4:": {
-        "category": "people",
-        "name": "deaf man: medium-dark skin tone",
-        "unicode": "1f9cf-1f3fe-200d-2642-fe0f"
-    },
-    ":deaf_man_tone5:": {
-        "category": "people",
-        "name": "deaf man: dark skin tone",
-        "unicode": "1f9cf-1f3ff-200d-2642-fe0f"
-    },
-    ":deaf_person:": {
-        "category": "people",
-        "name": "deaf person",
-        "unicode": "1f9cf"
-    },
-    ":deaf_person_tone1:": {
-        "category": "people",
-        "name": "deaf person: light skin tone",
-        "unicode": "1f9cf-1f3fb"
-    },
-    ":deaf_person_tone2:": {
-        "category": "people",
-        "name": "deaf person: medium-light skin tone",
-        "unicode": "1f9cf-1f3fc"
-    },
-    ":deaf_person_tone3:": {
-        "category": "people",
-        "name": "deaf person: medium skin tone",
-        "unicode": "1f9cf-1f3fd"
-    },
-    ":deaf_person_tone4:": {
-        "category": "people",
-        "name": "deaf person: medium-dark skin tone",
-        "unicode": "1f9cf-1f3fe"
-    },
-    ":deaf_person_tone5:": {
-        "category": "people",
-        "name": "deaf person: dark skin tone",
-        "unicode": "1f9cf-1f3ff"
-    },
-    ":deaf_woman:": {
-        "category": "people",
-        "name": "deaf woman",
-        "unicode": "1f9cf-200d-2640-fe0f"
-    },
-    ":deaf_woman_tone1:": {
-        "category": "people",
-        "name": "deaf woman: light skin tone",
-        "unicode": "1f9cf-1f3fb-200d-2640-fe0f"
-    },
-    ":deaf_woman_tone2:": {
-        "category": "people",
-        "name": "deaf woman: medium-light skin tone",
-        "unicode": "1f9cf-1f3fc-200d-2640-fe0f"
-    },
-    ":deaf_woman_tone3:": {
-        "category": "people",
-        "name": "deaf woman: medium skin tone",
-        "unicode": "1f9cf-1f3fd-200d-2640-fe0f"
-    },
-    ":deaf_woman_tone4:": {
-        "category": "people",
-        "name": "deaf woman: medium-dark skin tone",
-        "unicode": "1f9cf-1f3fe-200d-2640-fe0f"
-    },
-    ":deaf_woman_tone5:": {
-        "category": "people",
-        "name": "deaf woman: dark skin tone",
-        "unicode": "1f9cf-1f3ff-200d-2640-fe0f"
-    },
     ":deciduous_tree:": {
         "category": "nature",
         "name": "deciduous tree",
@@ -2246,23 +2015,13 @@ emoji = {
     },
     ":disappointed_relieved:": {
         "category": "people",
-        "name": "sad but relieved face",
+        "name": "disappointed but relieved face",
         "unicode": "1f625"
     },
     ":dividers:": {
         "category": "objects",
         "name": "card index dividers",
         "unicode": "1f5c2"
-    },
-    ":diving_mask:": {
-        "category": "people",
-        "name": "diving mask",
-        "unicode": "1f93f"
-    },
-    ":diya_lamp:": {
-        "category": "objects",
-        "name": "diya lamp",
-        "unicode": "1fa94"
     },
     ":dizzy:": {
         "category": "nature",
@@ -2273,11 +2032,6 @@ emoji = {
         "category": "people",
         "name": "dizzy face",
         "unicode": "1f635"
-    },
-    ":dna:": {
-        "category": "objects",
-        "name": "dna",
-        "unicode": "1f9ec"
     },
     ":do_not_litter:": {
         "category": "symbols",
@@ -2349,11 +2103,6 @@ emoji = {
         "name": "drooling face",
         "unicode": "1f924"
     },
-    ":drop_of_blood:": {
-        "category": "objects",
-        "name": "drop of blood",
-        "unicode": "1fa78"
-    },
     ":droplet:": {
         "category": "nature",
         "name": "droplet",
@@ -2423,36 +2172,6 @@ emoji = {
         "category": "people",
         "name": "ear: dark skin tone",
         "unicode": "1f442-1f3ff"
-    },
-    ":ear_with_hearing_aid:": {
-        "category": "people",
-        "name": "ear with hearing aid",
-        "unicode": "1f9bb"
-    },
-    ":ear_with_hearing_aid_tone1:": {
-        "category": "people",
-        "name": "ear with hearing aid: light skin tone",
-        "unicode": "1f9bb-1f3fb"
-    },
-    ":ear_with_hearing_aid_tone2:": {
-        "category": "people",
-        "name": "ear with hearing aid: medium-light skin tone",
-        "unicode": "1f9bb-1f3fc"
-    },
-    ":ear_with_hearing_aid_tone3:": {
-        "category": "people",
-        "name": "ear with hearing aid: medium skin tone",
-        "unicode": "1f9bb-1f3fd"
-    },
-    ":ear_with_hearing_aid_tone4:": {
-        "category": "people",
-        "name": "ear with hearing aid: medium-dark skin tone",
-        "unicode": "1f9bb-1f3fe"
-    },
-    ":ear_with_hearing_aid_tone5:": {
-        "category": "people",
-        "name": "ear with hearing aid: dark skin tone",
-        "unicode": "1f9bb-1f3ff"
     },
     ":earth_africa:": {
         "category": "nature",
@@ -2547,7 +2266,7 @@ emoji = {
     },
     ":england:": {
         "category": "flags",
-        "name": "flag: England",
+        "name": "England",
         "unicode": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f"
     },
     ":envelope:": {
@@ -2637,7 +2356,7 @@ emoji = {
     },
     ":face_with_symbols_over_mouth:": {
         "category": "people",
-        "name": "face with symbols on mouth",
+        "name": "face with symbols over mouth",
         "unicode": "1f92c"
     },
     ":factory:": {
@@ -2674,11 +2393,6 @@ emoji = {
         "category": "people",
         "name": "fairy: dark skin tone",
         "unicode": "1f9da-1f3ff"
-    },
-    ":falafel:": {
-        "category": "food",
-        "name": "falafel",
-        "unicode": "1f9c6"
     },
     ":fallen_leaf:": {
         "category": "nature",
@@ -2836,7 +2550,7 @@ emoji = {
         "unicode": "1f43e"
     },
     ":female_sign:": {
-        "category": "symbols",
+        "category": "people",
         "name": "female sign",
         "unicode": "2640"
     },
@@ -2910,16 +2624,6 @@ emoji = {
         "name": "fire engine",
         "unicode": "1f692"
     },
-    ":fire_extinguisher:": {
-        "category": "objects",
-        "name": "fire extinguisher",
-        "unicode": "1f9ef"
-    },
-    ":firecracker:": {
-        "category": "objects",
-        "name": "firecracker",
-        "unicode": "1f9e8"
-    },
     ":fireworks:": {
         "category": "travel",
         "name": "fireworks",
@@ -2937,7 +2641,7 @@ emoji = {
     },
     ":first_quarter_moon_with_face:": {
         "category": "nature",
-        "name": "first quarter moon face",
+        "name": "first quarter moon with face",
         "unicode": "1f31b"
     },
     ":fish:": {
@@ -2993,137 +2697,137 @@ emoji = {
     },
     ":flag_ac:": {
         "category": "flags",
-        "name": "flag: Ascension Island",
+        "name": "Ascension Island",
         "unicode": "1f1e6-1f1e8"
     },
     ":flag_ad:": {
         "category": "flags",
-        "name": "flag: Andorra",
+        "name": "Andorra",
         "unicode": "1f1e6-1f1e9"
     },
     ":flag_ae:": {
         "category": "flags",
-        "name": "flag: United Arab Emirates",
+        "name": "United Arab Emirates",
         "unicode": "1f1e6-1f1ea"
     },
     ":flag_af:": {
         "category": "flags",
-        "name": "flag: Afghanistan",
+        "name": "Afghanistan",
         "unicode": "1f1e6-1f1eb"
     },
     ":flag_ag:": {
         "category": "flags",
-        "name": "flag: Antigua &amp; Barbuda",
+        "name": "Antigua & Barbuda",
         "unicode": "1f1e6-1f1ec"
     },
     ":flag_ai:": {
         "category": "flags",
-        "name": "flag: Anguilla",
+        "name": "Anguilla",
         "unicode": "1f1e6-1f1ee"
     },
     ":flag_al:": {
         "category": "flags",
-        "name": "flag: Albania",
+        "name": "Albania",
         "unicode": "1f1e6-1f1f1"
     },
     ":flag_am:": {
         "category": "flags",
-        "name": "flag: Armenia",
+        "name": "Armenia",
         "unicode": "1f1e6-1f1f2"
     },
     ":flag_ao:": {
         "category": "flags",
-        "name": "flag: Angola",
+        "name": "Angola",
         "unicode": "1f1e6-1f1f4"
     },
     ":flag_aq:": {
         "category": "flags",
-        "name": "flag: Antarctica",
+        "name": "Antarctica",
         "unicode": "1f1e6-1f1f6"
     },
     ":flag_ar:": {
         "category": "flags",
-        "name": "flag: Argentina",
+        "name": "Argentina",
         "unicode": "1f1e6-1f1f7"
     },
     ":flag_as:": {
         "category": "flags",
-        "name": "flag: American Samoa",
+        "name": "American Samoa",
         "unicode": "1f1e6-1f1f8"
     },
     ":flag_at:": {
         "category": "flags",
-        "name": "flag: Austria",
+        "name": "Austria",
         "unicode": "1f1e6-1f1f9"
     },
     ":flag_au:": {
         "category": "flags",
-        "name": "flag: Australia",
+        "name": "Australia",
         "unicode": "1f1e6-1f1fa"
     },
     ":flag_aw:": {
         "category": "flags",
-        "name": "flag: Aruba",
+        "name": "Aruba",
         "unicode": "1f1e6-1f1fc"
     },
     ":flag_ax:": {
         "category": "flags",
-        "name": "flag: \u00c5land Islands",
+        "name": "\u00c5land Islands",
         "unicode": "1f1e6-1f1fd"
     },
     ":flag_az:": {
         "category": "flags",
-        "name": "flag: Azerbaijan",
+        "name": "Azerbaijan",
         "unicode": "1f1e6-1f1ff"
     },
     ":flag_ba:": {
         "category": "flags",
-        "name": "flag: Bosnia &amp; Herzegovina",
+        "name": "Bosnia & Herzegovina",
         "unicode": "1f1e7-1f1e6"
     },
     ":flag_bb:": {
         "category": "flags",
-        "name": "flag: Barbados",
+        "name": "Barbados",
         "unicode": "1f1e7-1f1e7"
     },
     ":flag_bd:": {
         "category": "flags",
-        "name": "flag: Bangladesh",
+        "name": "Bangladesh",
         "unicode": "1f1e7-1f1e9"
     },
     ":flag_be:": {
         "category": "flags",
-        "name": "flag: Belgium",
+        "name": "Belgium",
         "unicode": "1f1e7-1f1ea"
     },
     ":flag_bf:": {
         "category": "flags",
-        "name": "flag: Burkina Faso",
+        "name": "Burkina Faso",
         "unicode": "1f1e7-1f1eb"
     },
     ":flag_bg:": {
         "category": "flags",
-        "name": "flag: Bulgaria",
+        "name": "Bulgaria",
         "unicode": "1f1e7-1f1ec"
     },
     ":flag_bh:": {
         "category": "flags",
-        "name": "flag: Bahrain",
+        "name": "Bahrain",
         "unicode": "1f1e7-1f1ed"
     },
     ":flag_bi:": {
         "category": "flags",
-        "name": "flag: Burundi",
+        "name": "Burundi",
         "unicode": "1f1e7-1f1ee"
     },
     ":flag_bj:": {
         "category": "flags",
-        "name": "flag: Benin",
+        "name": "Benin",
         "unicode": "1f1e7-1f1ef"
     },
     ":flag_bl:": {
         "category": "flags",
-        "name": "flag: St. Barth\u00e9lemy",
+        "name": "St. Barth\u00e9lemy",
         "unicode": "1f1e7-1f1f1"
     },
     ":flag_black:": {
@@ -3133,1117 +2837,1117 @@ emoji = {
     },
     ":flag_bm:": {
         "category": "flags",
-        "name": "flag: Bermuda",
+        "name": "Bermuda",
         "unicode": "1f1e7-1f1f2"
     },
     ":flag_bn:": {
         "category": "flags",
-        "name": "flag: Brunei",
+        "name": "Brunei",
         "unicode": "1f1e7-1f1f3"
     },
     ":flag_bo:": {
         "category": "flags",
-        "name": "flag: Bolivia",
+        "name": "Bolivia",
         "unicode": "1f1e7-1f1f4"
     },
     ":flag_bq:": {
         "category": "flags",
-        "name": "flag: Caribbean Netherlands",
+        "name": "Caribbean Netherlands",
         "unicode": "1f1e7-1f1f6"
     },
     ":flag_br:": {
         "category": "flags",
-        "name": "flag: Brazil",
+        "name": "Brazil",
         "unicode": "1f1e7-1f1f7"
     },
     ":flag_bs:": {
         "category": "flags",
-        "name": "flag: Bahamas",
+        "name": "Bahamas",
         "unicode": "1f1e7-1f1f8"
     },
     ":flag_bt:": {
         "category": "flags",
-        "name": "flag: Bhutan",
+        "name": "Bhutan",
         "unicode": "1f1e7-1f1f9"
     },
     ":flag_bv:": {
         "category": "flags",
-        "name": "flag: Bouvet Island",
+        "name": "Bouvet Island",
         "unicode": "1f1e7-1f1fb"
     },
     ":flag_bw:": {
         "category": "flags",
-        "name": "flag: Botswana",
+        "name": "Botswana",
         "unicode": "1f1e7-1f1fc"
     },
     ":flag_by:": {
         "category": "flags",
-        "name": "flag: Belarus",
+        "name": "Belarus",
         "unicode": "1f1e7-1f1fe"
     },
     ":flag_bz:": {
         "category": "flags",
-        "name": "flag: Belize",
+        "name": "Belize",
         "unicode": "1f1e7-1f1ff"
     },
     ":flag_ca:": {
         "category": "flags",
-        "name": "flag: Canada",
+        "name": "Canada",
         "unicode": "1f1e8-1f1e6"
     },
     ":flag_cc:": {
         "category": "flags",
-        "name": "flag: Cocos (Keeling) Islands",
+        "name": "Cocos (Keeling) Islands",
         "unicode": "1f1e8-1f1e8"
     },
     ":flag_cd:": {
         "category": "flags",
-        "name": "flag: Congo - Kinshasa",
+        "name": "Congo - Kinshasa",
         "unicode": "1f1e8-1f1e9"
     },
     ":flag_cf:": {
         "category": "flags",
-        "name": "flag: Central African Republic",
+        "name": "Central African Republic",
         "unicode": "1f1e8-1f1eb"
     },
     ":flag_cg:": {
         "category": "flags",
-        "name": "flag: Congo - Brazzaville",
+        "name": "Congo - Brazzaville",
         "unicode": "1f1e8-1f1ec"
     },
     ":flag_ch:": {
         "category": "flags",
-        "name": "flag: Switzerland",
+        "name": "Switzerland",
         "unicode": "1f1e8-1f1ed"
     },
     ":flag_ci:": {
         "category": "flags",
-        "name": "flag: C\u00f4te d\u2019Ivoire",
+        "name": "C\u00f4te d\u2019Ivoire",
         "unicode": "1f1e8-1f1ee"
     },
     ":flag_ck:": {
         "category": "flags",
-        "name": "flag: Cook Islands",
+        "name": "Cook Islands",
         "unicode": "1f1e8-1f1f0"
     },
     ":flag_cl:": {
         "category": "flags",
-        "name": "flag: Chile",
+        "name": "Chile",
         "unicode": "1f1e8-1f1f1"
     },
     ":flag_cm:": {
         "category": "flags",
-        "name": "flag: Cameroon",
+        "name": "Cameroon",
         "unicode": "1f1e8-1f1f2"
     },
     ":flag_cn:": {
         "category": "flags",
-        "name": "flag: China",
+        "name": "China",
         "unicode": "1f1e8-1f1f3"
     },
     ":flag_co:": {
         "category": "flags",
-        "name": "flag: Colombia",
+        "name": "Colombia",
         "unicode": "1f1e8-1f1f4"
     },
     ":flag_cp:": {
         "category": "flags",
-        "name": "flag: Clipperton Island",
+        "name": "Clipperton Island",
         "unicode": "1f1e8-1f1f5"
     },
     ":flag_cr:": {
         "category": "flags",
-        "name": "flag: Costa Rica",
+        "name": "Costa Rica",
         "unicode": "1f1e8-1f1f7"
     },
     ":flag_cu:": {
         "category": "flags",
-        "name": "flag: Cuba",
+        "name": "Cuba",
         "unicode": "1f1e8-1f1fa"
     },
     ":flag_cv:": {
         "category": "flags",
-        "name": "flag: Cape Verde",
+        "name": "Cape Verde",
         "unicode": "1f1e8-1f1fb"
     },
     ":flag_cw:": {
         "category": "flags",
-        "name": "flag: Cura\u00e7ao",
+        "name": "Cura\u00e7ao",
         "unicode": "1f1e8-1f1fc"
     },
     ":flag_cx:": {
         "category": "flags",
-        "name": "flag: Christmas Island",
+        "name": "Christmas Island",
         "unicode": "1f1e8-1f1fd"
     },
     ":flag_cy:": {
         "category": "flags",
-        "name": "flag: Cyprus",
+        "name": "Cyprus",
         "unicode": "1f1e8-1f1fe"
     },
     ":flag_cz:": {
         "category": "flags",
-        "name": "flag: Czechia",
+        "name": "Czechia",
         "unicode": "1f1e8-1f1ff"
     },
     ":flag_de:": {
         "category": "flags",
-        "name": "flag: Germany",
+        "name": "Germany",
         "unicode": "1f1e9-1f1ea"
     },
     ":flag_dg:": {
         "category": "flags",
-        "name": "flag: Diego Garcia",
+        "name": "Diego Garcia",
         "unicode": "1f1e9-1f1ec"
     },
     ":flag_dj:": {
         "category": "flags",
-        "name": "flag: Djibouti",
+        "name": "Djibouti",
         "unicode": "1f1e9-1f1ef"
     },
     ":flag_dk:": {
         "category": "flags",
-        "name": "flag: Denmark",
+        "name": "Denmark",
         "unicode": "1f1e9-1f1f0"
     },
     ":flag_dm:": {
         "category": "flags",
-        "name": "flag: Dominica",
+        "name": "Dominica",
         "unicode": "1f1e9-1f1f2"
     },
     ":flag_do:": {
         "category": "flags",
-        "name": "flag: Dominican Republic",
+        "name": "Dominican Republic",
         "unicode": "1f1e9-1f1f4"
     },
     ":flag_dz:": {
         "category": "flags",
-        "name": "flag: Algeria",
+        "name": "Algeria",
         "unicode": "1f1e9-1f1ff"
     },
     ":flag_ea:": {
         "category": "flags",
-        "name": "flag: Ceuta &amp; Melilla",
+        "name": "Ceuta & Melilla",
         "unicode": "1f1ea-1f1e6"
     },
     ":flag_ec:": {
         "category": "flags",
-        "name": "flag: Ecuador",
+        "name": "Ecuador",
         "unicode": "1f1ea-1f1e8"
     },
     ":flag_ee:": {
         "category": "flags",
-        "name": "flag: Estonia",
+        "name": "Estonia",
         "unicode": "1f1ea-1f1ea"
     },
     ":flag_eg:": {
         "category": "flags",
-        "name": "flag: Egypt",
+        "name": "Egypt",
         "unicode": "1f1ea-1f1ec"
     },
     ":flag_eh:": {
         "category": "flags",
-        "name": "flag: Western Sahara",
+        "name": "Western Sahara",
         "unicode": "1f1ea-1f1ed"
     },
     ":flag_er:": {
         "category": "flags",
-        "name": "flag: Eritrea",
+        "name": "Eritrea",
         "unicode": "1f1ea-1f1f7"
     },
     ":flag_es:": {
         "category": "flags",
-        "name": "flag: Spain",
+        "name": "Spain",
         "unicode": "1f1ea-1f1f8"
     },
     ":flag_et:": {
         "category": "flags",
-        "name": "flag: Ethiopia",
+        "name": "Ethiopia",
         "unicode": "1f1ea-1f1f9"
     },
     ":flag_eu:": {
         "category": "flags",
-        "name": "flag: European Union",
+        "name": "European Union",
         "unicode": "1f1ea-1f1fa"
     },
     ":flag_fi:": {
         "category": "flags",
-        "name": "flag: Finland",
+        "name": "Finland",
         "unicode": "1f1eb-1f1ee"
     },
     ":flag_fj:": {
         "category": "flags",
-        "name": "flag: Fiji",
+        "name": "Fiji",
         "unicode": "1f1eb-1f1ef"
     },
     ":flag_fk:": {
         "category": "flags",
-        "name": "flag: Falkland Islands",
+        "name": "Falkland Islands",
         "unicode": "1f1eb-1f1f0"
     },
     ":flag_fm:": {
         "category": "flags",
-        "name": "flag: Micronesia",
+        "name": "Micronesia",
         "unicode": "1f1eb-1f1f2"
     },
     ":flag_fo:": {
         "category": "flags",
-        "name": "flag: Faroe Islands",
+        "name": "Faroe Islands",
         "unicode": "1f1eb-1f1f4"
     },
     ":flag_fr:": {
         "category": "flags",
-        "name": "flag: France",
+        "name": "France",
         "unicode": "1f1eb-1f1f7"
     },
     ":flag_ga:": {
         "category": "flags",
-        "name": "flag: Gabon",
+        "name": "Gabon",
         "unicode": "1f1ec-1f1e6"
     },
     ":flag_gb:": {
         "category": "flags",
-        "name": "flag: United Kingdom",
+        "name": "United Kingdom",
         "unicode": "1f1ec-1f1e7"
     },
     ":flag_gd:": {
         "category": "flags",
-        "name": "flag: Grenada",
+        "name": "Grenada",
         "unicode": "1f1ec-1f1e9"
     },
     ":flag_ge:": {
         "category": "flags",
-        "name": "flag: Georgia",
+        "name": "Georgia",
         "unicode": "1f1ec-1f1ea"
     },
     ":flag_gf:": {
         "category": "flags",
-        "name": "flag: French Guiana",
+        "name": "French Guiana",
         "unicode": "1f1ec-1f1eb"
     },
     ":flag_gg:": {
         "category": "flags",
-        "name": "flag: Guernsey",
+        "name": "Guernsey",
         "unicode": "1f1ec-1f1ec"
     },
     ":flag_gh:": {
         "category": "flags",
-        "name": "flag: Ghana",
+        "name": "Ghana",
         "unicode": "1f1ec-1f1ed"
     },
     ":flag_gi:": {
         "category": "flags",
-        "name": "flag: Gibraltar",
+        "name": "Gibraltar",
         "unicode": "1f1ec-1f1ee"
     },
     ":flag_gl:": {
         "category": "flags",
-        "name": "flag: Greenland",
+        "name": "Greenland",
         "unicode": "1f1ec-1f1f1"
     },
     ":flag_gm:": {
         "category": "flags",
-        "name": "flag: Gambia",
+        "name": "Gambia",
         "unicode": "1f1ec-1f1f2"
     },
     ":flag_gn:": {
         "category": "flags",
-        "name": "flag: Guinea",
+        "name": "Guinea",
         "unicode": "1f1ec-1f1f3"
     },
     ":flag_gp:": {
         "category": "flags",
-        "name": "flag: Guadeloupe",
+        "name": "Guadeloupe",
         "unicode": "1f1ec-1f1f5"
     },
     ":flag_gq:": {
         "category": "flags",
-        "name": "flag: Equatorial Guinea",
+        "name": "Equatorial Guinea",
         "unicode": "1f1ec-1f1f6"
     },
     ":flag_gr:": {
         "category": "flags",
-        "name": "flag: Greece",
+        "name": "Greece",
         "unicode": "1f1ec-1f1f7"
     },
     ":flag_gs:": {
         "category": "flags",
-        "name": "flag: South Georgia &amp; South Sandwich Islands",
+        "name": "South Georgia & South Sandwich Islands",
         "unicode": "1f1ec-1f1f8"
     },
     ":flag_gt:": {
         "category": "flags",
-        "name": "flag: Guatemala",
+        "name": "Guatemala",
         "unicode": "1f1ec-1f1f9"
     },
     ":flag_gu:": {
         "category": "flags",
-        "name": "flag: Guam",
+        "name": "Guam",
         "unicode": "1f1ec-1f1fa"
     },
     ":flag_gw:": {
         "category": "flags",
-        "name": "flag: Guinea-Bissau",
+        "name": "Guinea-Bissau",
         "unicode": "1f1ec-1f1fc"
     },
     ":flag_gy:": {
         "category": "flags",
-        "name": "flag: Guyana",
+        "name": "Guyana",
         "unicode": "1f1ec-1f1fe"
     },
     ":flag_hk:": {
         "category": "flags",
-        "name": "flag: Hong Kong SAR China",
+        "name": "Hong Kong SAR China",
         "unicode": "1f1ed-1f1f0"
     },
     ":flag_hm:": {
         "category": "flags",
-        "name": "flag: Heard &amp; McDonald Islands",
+        "name": "Heard & McDonald Islands",
         "unicode": "1f1ed-1f1f2"
     },
     ":flag_hn:": {
         "category": "flags",
-        "name": "flag: Honduras",
+        "name": "Honduras",
         "unicode": "1f1ed-1f1f3"
     },
     ":flag_hr:": {
         "category": "flags",
-        "name": "flag: Croatia",
+        "name": "Croatia",
         "unicode": "1f1ed-1f1f7"
     },
     ":flag_ht:": {
         "category": "flags",
-        "name": "flag: Haiti",
+        "name": "Haiti",
         "unicode": "1f1ed-1f1f9"
     },
     ":flag_hu:": {
         "category": "flags",
-        "name": "flag: Hungary",
+        "name": "Hungary",
         "unicode": "1f1ed-1f1fa"
     },
     ":flag_ic:": {
         "category": "flags",
-        "name": "flag: Canary Islands",
+        "name": "Canary Islands",
         "unicode": "1f1ee-1f1e8"
     },
     ":flag_id:": {
         "category": "flags",
-        "name": "flag: Indonesia",
+        "name": "Indonesia",
         "unicode": "1f1ee-1f1e9"
     },
     ":flag_ie:": {
         "category": "flags",
-        "name": "flag: Ireland",
+        "name": "Ireland",
         "unicode": "1f1ee-1f1ea"
     },
     ":flag_il:": {
         "category": "flags",
-        "name": "flag: Israel",
+        "name": "Israel",
         "unicode": "1f1ee-1f1f1"
     },
     ":flag_im:": {
         "category": "flags",
-        "name": "flag: Isle of Man",
+        "name": "Isle of Man",
         "unicode": "1f1ee-1f1f2"
     },
     ":flag_in:": {
         "category": "flags",
-        "name": "flag: India",
+        "name": "India",
         "unicode": "1f1ee-1f1f3"
     },
     ":flag_io:": {
         "category": "flags",
-        "name": "flag: British Indian Ocean Territory",
+        "name": "British Indian Ocean Territory",
         "unicode": "1f1ee-1f1f4"
     },
     ":flag_iq:": {
         "category": "flags",
-        "name": "flag: Iraq",
+        "name": "Iraq",
         "unicode": "1f1ee-1f1f6"
     },
     ":flag_ir:": {
         "category": "flags",
-        "name": "flag: Iran",
+        "name": "Iran",
         "unicode": "1f1ee-1f1f7"
     },
     ":flag_is:": {
         "category": "flags",
-        "name": "flag: Iceland",
+        "name": "Iceland",
         "unicode": "1f1ee-1f1f8"
     },
     ":flag_it:": {
         "category": "flags",
-        "name": "flag: Italy",
+        "name": "Italy",
         "unicode": "1f1ee-1f1f9"
     },
     ":flag_je:": {
         "category": "flags",
-        "name": "flag: Jersey",
+        "name": "Jersey",
         "unicode": "1f1ef-1f1ea"
     },
     ":flag_jm:": {
         "category": "flags",
-        "name": "flag: Jamaica",
+        "name": "Jamaica",
         "unicode": "1f1ef-1f1f2"
     },
     ":flag_jo:": {
         "category": "flags",
-        "name": "flag: Jordan",
+        "name": "Jordan",
         "unicode": "1f1ef-1f1f4"
     },
     ":flag_jp:": {
         "category": "flags",
-        "name": "flag: Japan",
+        "name": "Japan",
         "unicode": "1f1ef-1f1f5"
     },
     ":flag_ke:": {
         "category": "flags",
-        "name": "flag: Kenya",
+        "name": "Kenya",
         "unicode": "1f1f0-1f1ea"
     },
     ":flag_kg:": {
         "category": "flags",
-        "name": "flag: Kyrgyzstan",
+        "name": "Kyrgyzstan",
         "unicode": "1f1f0-1f1ec"
     },
     ":flag_kh:": {
         "category": "flags",
-        "name": "flag: Cambodia",
+        "name": "Cambodia",
         "unicode": "1f1f0-1f1ed"
     },
     ":flag_ki:": {
         "category": "flags",
-        "name": "flag: Kiribati",
+        "name": "Kiribati",
         "unicode": "1f1f0-1f1ee"
     },
     ":flag_km:": {
         "category": "flags",
-        "name": "flag: Comoros",
+        "name": "Comoros",
         "unicode": "1f1f0-1f1f2"
     },
     ":flag_kn:": {
         "category": "flags",
-        "name": "flag: St. Kitts &amp; Nevis",
+        "name": "St. Kitts & Nevis",
         "unicode": "1f1f0-1f1f3"
     },
     ":flag_kp:": {
         "category": "flags",
-        "name": "flag: North Korea",
+        "name": "North Korea",
         "unicode": "1f1f0-1f1f5"
     },
     ":flag_kr:": {
         "category": "flags",
-        "name": "flag: South Korea",
+        "name": "South Korea",
         "unicode": "1f1f0-1f1f7"
     },
     ":flag_kw:": {
         "category": "flags",
-        "name": "flag: Kuwait",
+        "name": "Kuwait",
         "unicode": "1f1f0-1f1fc"
     },
     ":flag_ky:": {
         "category": "flags",
-        "name": "flag: Cayman Islands",
+        "name": "Cayman Islands",
         "unicode": "1f1f0-1f1fe"
     },
     ":flag_kz:": {
         "category": "flags",
-        "name": "flag: Kazakhstan",
+        "name": "Kazakhstan",
         "unicode": "1f1f0-1f1ff"
     },
     ":flag_la:": {
         "category": "flags",
-        "name": "flag: Laos",
+        "name": "Laos",
         "unicode": "1f1f1-1f1e6"
     },
     ":flag_lb:": {
         "category": "flags",
-        "name": "flag: Lebanon",
+        "name": "Lebanon",
         "unicode": "1f1f1-1f1e7"
     },
     ":flag_lc:": {
         "category": "flags",
-        "name": "flag: St. Lucia",
+        "name": "St. Lucia",
         "unicode": "1f1f1-1f1e8"
     },
     ":flag_li:": {
         "category": "flags",
-        "name": "flag: Liechtenstein",
+        "name": "Liechtenstein",
         "unicode": "1f1f1-1f1ee"
     },
     ":flag_lk:": {
         "category": "flags",
-        "name": "flag: Sri Lanka",
+        "name": "Sri Lanka",
         "unicode": "1f1f1-1f1f0"
     },
     ":flag_lr:": {
         "category": "flags",
-        "name": "flag: Liberia",
+        "name": "Liberia",
         "unicode": "1f1f1-1f1f7"
     },
     ":flag_ls:": {
         "category": "flags",
-        "name": "flag: Lesotho",
+        "name": "Lesotho",
         "unicode": "1f1f1-1f1f8"
     },
     ":flag_lt:": {
         "category": "flags",
-        "name": "flag: Lithuania",
+        "name": "Lithuania",
         "unicode": "1f1f1-1f1f9"
     },
     ":flag_lu:": {
         "category": "flags",
-        "name": "flag: Luxembourg",
+        "name": "Luxembourg",
         "unicode": "1f1f1-1f1fa"
     },
     ":flag_lv:": {
         "category": "flags",
-        "name": "flag: Latvia",
+        "name": "Latvia",
         "unicode": "1f1f1-1f1fb"
     },
     ":flag_ly:": {
         "category": "flags",
-        "name": "flag: Libya",
+        "name": "Libya",
         "unicode": "1f1f1-1f1fe"
     },
     ":flag_ma:": {
         "category": "flags",
-        "name": "flag: Morocco",
+        "name": "Morocco",
         "unicode": "1f1f2-1f1e6"
     },
     ":flag_mc:": {
         "category": "flags",
-        "name": "flag: Monaco",
+        "name": "Monaco",
         "unicode": "1f1f2-1f1e8"
     },
     ":flag_md:": {
         "category": "flags",
-        "name": "flag: Moldova",
+        "name": "Moldova",
         "unicode": "1f1f2-1f1e9"
     },
     ":flag_me:": {
         "category": "flags",
-        "name": "flag: Montenegro",
+        "name": "Montenegro",
         "unicode": "1f1f2-1f1ea"
     },
     ":flag_mf:": {
         "category": "flags",
-        "name": "flag: St. Martin",
+        "name": "St. Martin",
         "unicode": "1f1f2-1f1eb"
     },
     ":flag_mg:": {
         "category": "flags",
-        "name": "flag: Madagascar",
+        "name": "Madagascar",
         "unicode": "1f1f2-1f1ec"
     },
     ":flag_mh:": {
         "category": "flags",
-        "name": "flag: Marshall Islands",
+        "name": "Marshall Islands",
         "unicode": "1f1f2-1f1ed"
     },
     ":flag_mk:": {
         "category": "flags",
-        "name": "flag: Macedonia",
+        "name": "Macedonia",
         "unicode": "1f1f2-1f1f0"
     },
     ":flag_ml:": {
         "category": "flags",
-        "name": "flag: Mali",
+        "name": "Mali",
         "unicode": "1f1f2-1f1f1"
     },
     ":flag_mm:": {
         "category": "flags",
-        "name": "flag: Myanmar (Burma)",
+        "name": "Myanmar (Burma)",
         "unicode": "1f1f2-1f1f2"
     },
     ":flag_mn:": {
         "category": "flags",
-        "name": "flag: Mongolia",
+        "name": "Mongolia",
         "unicode": "1f1f2-1f1f3"
     },
     ":flag_mo:": {
         "category": "flags",
-        "name": "flag: Macao SAR China",
+        "name": "Macau SAR China",
         "unicode": "1f1f2-1f1f4"
     },
     ":flag_mp:": {
         "category": "flags",
-        "name": "flag: Northern Mariana Islands",
+        "name": "Northern Mariana Islands",
         "unicode": "1f1f2-1f1f5"
     },
     ":flag_mq:": {
         "category": "flags",
-        "name": "flag: Martinique",
+        "name": "Martinique",
         "unicode": "1f1f2-1f1f6"
     },
     ":flag_mr:": {
         "category": "flags",
-        "name": "flag: Mauritania",
+        "name": "Mauritania",
         "unicode": "1f1f2-1f1f7"
     },
     ":flag_ms:": {
         "category": "flags",
-        "name": "flag: Montserrat",
+        "name": "Montserrat",
         "unicode": "1f1f2-1f1f8"
     },
     ":flag_mt:": {
         "category": "flags",
-        "name": "flag: Malta",
+        "name": "Malta",
         "unicode": "1f1f2-1f1f9"
     },
     ":flag_mu:": {
         "category": "flags",
-        "name": "flag: Mauritius",
+        "name": "Mauritius",
         "unicode": "1f1f2-1f1fa"
     },
     ":flag_mv:": {
         "category": "flags",
-        "name": "flag: Maldives",
+        "name": "Maldives",
         "unicode": "1f1f2-1f1fb"
     },
     ":flag_mw:": {
         "category": "flags",
-        "name": "flag: Malawi",
+        "name": "Malawi",
         "unicode": "1f1f2-1f1fc"
     },
     ":flag_mx:": {
         "category": "flags",
-        "name": "flag: Mexico",
+        "name": "Mexico",
         "unicode": "1f1f2-1f1fd"
     },
     ":flag_my:": {
         "category": "flags",
-        "name": "flag: Malaysia",
+        "name": "Malaysia",
         "unicode": "1f1f2-1f1fe"
     },
     ":flag_mz:": {
         "category": "flags",
-        "name": "flag: Mozambique",
+        "name": "Mozambique",
         "unicode": "1f1f2-1f1ff"
     },
     ":flag_na:": {
         "category": "flags",
-        "name": "flag: Namibia",
+        "name": "Namibia",
         "unicode": "1f1f3-1f1e6"
     },
     ":flag_nc:": {
         "category": "flags",
-        "name": "flag: New Caledonia",
+        "name": "New Caledonia",
         "unicode": "1f1f3-1f1e8"
     },
     ":flag_ne:": {
         "category": "flags",
-        "name": "flag: Niger",
+        "name": "Niger",
         "unicode": "1f1f3-1f1ea"
     },
     ":flag_nf:": {
         "category": "flags",
-        "name": "flag: Norfolk Island",
+        "name": "Norfolk Island",
         "unicode": "1f1f3-1f1eb"
     },
     ":flag_ng:": {
         "category": "flags",
-        "name": "flag: Nigeria",
+        "name": "Nigeria",
         "unicode": "1f1f3-1f1ec"
     },
     ":flag_ni:": {
         "category": "flags",
-        "name": "flag: Nicaragua",
+        "name": "Nicaragua",
         "unicode": "1f1f3-1f1ee"
     },
     ":flag_nl:": {
         "category": "flags",
-        "name": "flag: Netherlands",
+        "name": "Netherlands",
         "unicode": "1f1f3-1f1f1"
     },
     ":flag_no:": {
         "category": "flags",
-        "name": "flag: Norway",
+        "name": "Norway",
         "unicode": "1f1f3-1f1f4"
     },
     ":flag_np:": {
         "category": "flags",
-        "name": "flag: Nepal",
+        "name": "Nepal",
         "unicode": "1f1f3-1f1f5"
     },
     ":flag_nr:": {
         "category": "flags",
-        "name": "flag: Nauru",
+        "name": "Nauru",
         "unicode": "1f1f3-1f1f7"
     },
     ":flag_nu:": {
         "category": "flags",
-        "name": "flag: Niue",
+        "name": "Niue",
         "unicode": "1f1f3-1f1fa"
     },
     ":flag_nz:": {
         "category": "flags",
-        "name": "flag: New Zealand",
+        "name": "New Zealand",
         "unicode": "1f1f3-1f1ff"
     },
     ":flag_om:": {
         "category": "flags",
-        "name": "flag: Oman",
+        "name": "Oman",
         "unicode": "1f1f4-1f1f2"
     },
     ":flag_pa:": {
         "category": "flags",
-        "name": "flag: Panama",
+        "name": "Panama",
         "unicode": "1f1f5-1f1e6"
     },
     ":flag_pe:": {
         "category": "flags",
-        "name": "flag: Peru",
+        "name": "Peru",
         "unicode": "1f1f5-1f1ea"
     },
     ":flag_pf:": {
         "category": "flags",
-        "name": "flag: French Polynesia",
+        "name": "French Polynesia",
         "unicode": "1f1f5-1f1eb"
     },
     ":flag_pg:": {
         "category": "flags",
-        "name": "flag: Papua New Guinea",
+        "name": "Papua New Guinea",
         "unicode": "1f1f5-1f1ec"
     },
     ":flag_ph:": {
         "category": "flags",
-        "name": "flag: Philippines",
+        "name": "Philippines",
         "unicode": "1f1f5-1f1ed"
     },
     ":flag_pk:": {
         "category": "flags",
-        "name": "flag: Pakistan",
+        "name": "Pakistan",
         "unicode": "1f1f5-1f1f0"
     },
     ":flag_pl:": {
         "category": "flags",
-        "name": "flag: Poland",
+        "name": "Poland",
         "unicode": "1f1f5-1f1f1"
     },
     ":flag_pm:": {
         "category": "flags",
-        "name": "flag: St. Pierre &amp; Miquelon",
+        "name": "St. Pierre & Miquelon",
         "unicode": "1f1f5-1f1f2"
     },
     ":flag_pn:": {
         "category": "flags",
-        "name": "flag: Pitcairn Islands",
+        "name": "Pitcairn Islands",
         "unicode": "1f1f5-1f1f3"
     },
     ":flag_pr:": {
         "category": "flags",
-        "name": "flag: Puerto Rico",
+        "name": "Puerto Rico",
         "unicode": "1f1f5-1f1f7"
     },
     ":flag_ps:": {
         "category": "flags",
-        "name": "flag: Palestinian Territories",
+        "name": "Palestinian Territories",
         "unicode": "1f1f5-1f1f8"
     },
     ":flag_pt:": {
         "category": "flags",
-        "name": "flag: Portugal",
+        "name": "Portugal",
         "unicode": "1f1f5-1f1f9"
     },
     ":flag_pw:": {
         "category": "flags",
-        "name": "flag: Palau",
+        "name": "Palau",
         "unicode": "1f1f5-1f1fc"
     },
     ":flag_py:": {
         "category": "flags",
-        "name": "flag: Paraguay",
+        "name": "Paraguay",
         "unicode": "1f1f5-1f1fe"
     },
     ":flag_qa:": {
         "category": "flags",
-        "name": "flag: Qatar",
+        "name": "Qatar",
         "unicode": "1f1f6-1f1e6"
     },
     ":flag_re:": {
         "category": "flags",
-        "name": "flag: R\u00e9union",
+        "name": "R\u00e9union",
         "unicode": "1f1f7-1f1ea"
     },
     ":flag_ro:": {
         "category": "flags",
-        "name": "flag: Romania",
+        "name": "Romania",
         "unicode": "1f1f7-1f1f4"
     },
     ":flag_rs:": {
         "category": "flags",
-        "name": "flag: Serbia",
+        "name": "Serbia",
         "unicode": "1f1f7-1f1f8"
     },
     ":flag_ru:": {
         "category": "flags",
-        "name": "flag: Russia",
+        "name": "Russia",
         "unicode": "1f1f7-1f1fa"
     },
     ":flag_rw:": {
         "category": "flags",
-        "name": "flag: Rwanda",
+        "name": "Rwanda",
         "unicode": "1f1f7-1f1fc"
     },
     ":flag_sa:": {
         "category": "flags",
-        "name": "flag: Saudi Arabia",
+        "name": "Saudi Arabia",
         "unicode": "1f1f8-1f1e6"
     },
     ":flag_sb:": {
         "category": "flags",
-        "name": "flag: Solomon Islands",
+        "name": "Solomon Islands",
         "unicode": "1f1f8-1f1e7"
     },
     ":flag_sc:": {
         "category": "flags",
-        "name": "flag: Seychelles",
+        "name": "Seychelles",
         "unicode": "1f1f8-1f1e8"
     },
     ":flag_sd:": {
         "category": "flags",
-        "name": "flag: Sudan",
+        "name": "Sudan",
         "unicode": "1f1f8-1f1e9"
     },
     ":flag_se:": {
         "category": "flags",
-        "name": "flag: Sweden",
+        "name": "Sweden",
         "unicode": "1f1f8-1f1ea"
     },
     ":flag_sg:": {
         "category": "flags",
-        "name": "flag: Singapore",
+        "name": "Singapore",
         "unicode": "1f1f8-1f1ec"
     },
     ":flag_sh:": {
         "category": "flags",
-        "name": "flag: St. Helena",
+        "name": "St. Helena",
         "unicode": "1f1f8-1f1ed"
     },
     ":flag_si:": {
         "category": "flags",
-        "name": "flag: Slovenia",
+        "name": "Slovenia",
         "unicode": "1f1f8-1f1ee"
     },
     ":flag_sj:": {
         "category": "flags",
-        "name": "flag: Svalbard &amp; Jan Mayen",
+        "name": "Svalbard & Jan Mayen",
         "unicode": "1f1f8-1f1ef"
     },
     ":flag_sk:": {
         "category": "flags",
-        "name": "flag: Slovakia",
+        "name": "Slovakia",
         "unicode": "1f1f8-1f1f0"
     },
     ":flag_sl:": {
         "category": "flags",
-        "name": "flag: Sierra Leone",
+        "name": "Sierra Leone",
         "unicode": "1f1f8-1f1f1"
     },
     ":flag_sm:": {
         "category": "flags",
-        "name": "flag: San Marino",
+        "name": "San Marino",
         "unicode": "1f1f8-1f1f2"
     },
     ":flag_sn:": {
         "category": "flags",
-        "name": "flag: Senegal",
+        "name": "Senegal",
         "unicode": "1f1f8-1f1f3"
     },
     ":flag_so:": {
         "category": "flags",
-        "name": "flag: Somalia",
+        "name": "Somalia",
         "unicode": "1f1f8-1f1f4"
     },
     ":flag_sr:": {
         "category": "flags",
-        "name": "flag: Suriname",
+        "name": "Suriname",
         "unicode": "1f1f8-1f1f7"
     },
     ":flag_ss:": {
         "category": "flags",
-        "name": "flag: South Sudan",
+        "name": "South Sudan",
         "unicode": "1f1f8-1f1f8"
     },
     ":flag_st:": {
         "category": "flags",
-        "name": "flag: S\u00e3o Tom\u00e9 &amp; Pr\u00edncipe",
+        "name": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
         "unicode": "1f1f8-1f1f9"
     },
     ":flag_sv:": {
         "category": "flags",
-        "name": "flag: El Salvador",
+        "name": "El Salvador",
         "unicode": "1f1f8-1f1fb"
     },
     ":flag_sx:": {
         "category": "flags",
-        "name": "flag: Sint Maarten",
+        "name": "Sint Maarten",
         "unicode": "1f1f8-1f1fd"
     },
     ":flag_sy:": {
         "category": "flags",
-        "name": "flag: Syria",
+        "name": "Syria",
         "unicode": "1f1f8-1f1fe"
     },
     ":flag_sz:": {
         "category": "flags",
-        "name": "flag: Eswatini",
+        "name": "Swaziland",
         "unicode": "1f1f8-1f1ff"
     },
     ":flag_ta:": {
         "category": "flags",
-        "name": "flag: Tristan da Cunha",
+        "name": "Tristan da Cunha",
         "unicode": "1f1f9-1f1e6"
     },
     ":flag_tc:": {
         "category": "flags",
-        "name": "flag: Turks &amp; Caicos Islands",
+        "name": "Turks & Caicos Islands",
         "unicode": "1f1f9-1f1e8"
     },
     ":flag_td:": {
         "category": "flags",
-        "name": "flag: Chad",
+        "name": "Chad",
         "unicode": "1f1f9-1f1e9"
     },
     ":flag_tf:": {
         "category": "flags",
-        "name": "flag: French Southern Territories",
+        "name": "French Southern Territories",
         "unicode": "1f1f9-1f1eb"
     },
     ":flag_tg:": {
         "category": "flags",
-        "name": "flag: Togo",
+        "name": "Togo",
         "unicode": "1f1f9-1f1ec"
     },
     ":flag_th:": {
         "category": "flags",
-        "name": "flag: Thailand",
+        "name": "Thailand",
         "unicode": "1f1f9-1f1ed"
     },
     ":flag_tj:": {
         "category": "flags",
-        "name": "flag: Tajikistan",
+        "name": "Tajikistan",
         "unicode": "1f1f9-1f1ef"
     },
     ":flag_tk:": {
         "category": "flags",
-        "name": "flag: Tokelau",
+        "name": "Tokelau",
         "unicode": "1f1f9-1f1f0"
     },
     ":flag_tl:": {
         "category": "flags",
-        "name": "flag: Timor-Leste",
+        "name": "Timor-Leste",
         "unicode": "1f1f9-1f1f1"
     },
     ":flag_tm:": {
         "category": "flags",
-        "name": "flag: Turkmenistan",
+        "name": "Turkmenistan",
         "unicode": "1f1f9-1f1f2"
     },
     ":flag_tn:": {
         "category": "flags",
-        "name": "flag: Tunisia",
+        "name": "Tunisia",
         "unicode": "1f1f9-1f1f3"
     },
     ":flag_to:": {
         "category": "flags",
-        "name": "flag: Tonga",
+        "name": "Tonga",
         "unicode": "1f1f9-1f1f4"
     },
     ":flag_tr:": {
         "category": "flags",
-        "name": "flag: Turkey",
+        "name": "Turkey",
         "unicode": "1f1f9-1f1f7"
     },
     ":flag_tt:": {
         "category": "flags",
-        "name": "flag: Trinidad &amp; Tobago",
+        "name": "Trinidad & Tobago",
         "unicode": "1f1f9-1f1f9"
     },
     ":flag_tv:": {
         "category": "flags",
-        "name": "flag: Tuvalu",
+        "name": "Tuvalu",
         "unicode": "1f1f9-1f1fb"
     },
     ":flag_tw:": {
         "category": "flags",
-        "name": "flag: Taiwan",
+        "name": "Taiwan",
         "unicode": "1f1f9-1f1fc"
     },
     ":flag_tz:": {
         "category": "flags",
-        "name": "flag: Tanzania",
+        "name": "Tanzania",
         "unicode": "1f1f9-1f1ff"
     },
     ":flag_ua:": {
         "category": "flags",
-        "name": "flag: Ukraine",
+        "name": "Ukraine",
         "unicode": "1f1fa-1f1e6"
     },
     ":flag_ug:": {
         "category": "flags",
-        "name": "flag: Uganda",
+        "name": "Uganda",
         "unicode": "1f1fa-1f1ec"
     },
     ":flag_um:": {
         "category": "flags",
-        "name": "flag: U.S. Outlying Islands",
+        "name": "U.S. Outlying Islands",
         "unicode": "1f1fa-1f1f2"
     },
     ":flag_us:": {
         "category": "flags",
-        "name": "flag: United States",
+        "name": "United States",
         "unicode": "1f1fa-1f1f8"
     },
     ":flag_uy:": {
         "category": "flags",
-        "name": "flag: Uruguay",
+        "name": "Uruguay",
         "unicode": "1f1fa-1f1fe"
     },
     ":flag_uz:": {
         "category": "flags",
-        "name": "flag: Uzbekistan",
+        "name": "Uzbekistan",
         "unicode": "1f1fa-1f1ff"
     },
     ":flag_va:": {
         "category": "flags",
-        "name": "flag: Vatican City",
+        "name": "Vatican City",
         "unicode": "1f1fb-1f1e6"
     },
     ":flag_vc:": {
         "category": "flags",
-        "name": "flag: St. Vincent &amp; Grenadines",
+        "name": "St. Vincent & Grenadines",
         "unicode": "1f1fb-1f1e8"
     },
     ":flag_ve:": {
         "category": "flags",
-        "name": "flag: Venezuela",
+        "name": "Venezuela",
         "unicode": "1f1fb-1f1ea"
     },
     ":flag_vg:": {
         "category": "flags",
-        "name": "flag: British Virgin Islands",
+        "name": "British Virgin Islands",
         "unicode": "1f1fb-1f1ec"
     },
     ":flag_vi:": {
         "category": "flags",
-        "name": "flag: U.S. Virgin Islands",
+        "name": "U.S. Virgin Islands",
         "unicode": "1f1fb-1f1ee"
     },
     ":flag_vn:": {
         "category": "flags",
-        "name": "flag: Vietnam",
+        "name": "Vietnam",
         "unicode": "1f1fb-1f1f3"
     },
     ":flag_vu:": {
         "category": "flags",
-        "name": "flag: Vanuatu",
+        "name": "Vanuatu",
         "unicode": "1f1fb-1f1fa"
     },
     ":flag_wf:": {
         "category": "flags",
-        "name": "flag: Wallis &amp; Futuna",
+        "name": "Wallis & Futuna",
         "unicode": "1f1fc-1f1eb"
     },
     ":flag_white:": {
@@ -4253,48 +3957,43 @@ emoji = {
     },
     ":flag_ws:": {
         "category": "flags",
-        "name": "flag: Samoa",
+        "name": "Samoa",
         "unicode": "1f1fc-1f1f8"
     },
     ":flag_xk:": {
         "category": "flags",
-        "name": "flag: Kosovo",
+        "name": "Kosovo",
         "unicode": "1f1fd-1f1f0"
     },
     ":flag_ye:": {
         "category": "flags",
-        "name": "flag: Yemen",
+        "name": "Yemen",
         "unicode": "1f1fe-1f1ea"
     },
     ":flag_yt:": {
         "category": "flags",
-        "name": "flag: Mayotte",
+        "name": "Mayotte",
         "unicode": "1f1fe-1f1f9"
     },
     ":flag_za:": {
         "category": "flags",
-        "name": "flag: South Africa",
+        "name": "South Africa",
         "unicode": "1f1ff-1f1e6"
     },
     ":flag_zm:": {
         "category": "flags",
-        "name": "flag: Zambia",
+        "name": "Zambia",
         "unicode": "1f1ff-1f1f2"
     },
     ":flag_zw:": {
         "category": "flags",
-        "name": "flag: Zimbabwe",
+        "name": "Zimbabwe",
         "unicode": "1f1ff-1f1fc"
     },
     ":flags:": {
         "category": "objects",
         "name": "carp streamer",
         "unicode": "1f38f"
-    },
-    ":flamingo:": {
-        "category": "nature",
-        "name": "flamingo",
-        "unicode": "1f9a9"
     },
     ":flashlight:": {
         "category": "objects",
@@ -4321,11 +4020,6 @@ emoji = {
         "name": "flushed face",
         "unicode": "1f633"
     },
-    ":flying_disc:": {
-        "category": "activity",
-        "name": "flying disc",
-        "unicode": "1f94f"
-    },
     ":flying_saucer:": {
         "category": "travel",
         "name": "flying saucer",
@@ -4340,36 +4034,6 @@ emoji = {
         "category": "travel",
         "name": "foggy",
         "unicode": "1f301"
-    },
-    ":foot:": {
-        "category": "people",
-        "name": "foot",
-        "unicode": "1f9b6"
-    },
-    ":foot_tone1:": {
-        "category": "people",
-        "name": "foot: light skin tone",
-        "unicode": "1f9b6-1f3fb"
-    },
-    ":foot_tone2:": {
-        "category": "people",
-        "name": "foot: medium-light skin tone",
-        "unicode": "1f9b6-1f3fc"
-    },
-    ":foot_tone3:": {
-        "category": "people",
-        "name": "foot: medium skin tone",
-        "unicode": "1f9b6-1f3fd"
-    },
-    ":foot_tone4:": {
-        "category": "people",
-        "name": "foot: medium-dark skin tone",
-        "unicode": "1f9b6-1f3fe"
-    },
-    ":foot_tone5:": {
-        "category": "people",
-        "name": "foot: dark skin tone",
-        "unicode": "1f9b6-1f3ff"
     },
     ":football:": {
         "category": "activity",
@@ -4414,7 +4078,7 @@ emoji = {
     },
     ":fox:": {
         "category": "nature",
-        "name": "fox",
+        "name": "fox face",
         "unicode": "1f98a"
     },
     ":frame_photo:": {
@@ -4444,7 +4108,7 @@ emoji = {
     },
     ":frog:": {
         "category": "nature",
-        "name": "frog",
+        "name": "frog face",
         "unicode": "1f438"
     },
     ":frowning2:": {
@@ -4469,18 +4133,13 @@ emoji = {
     },
     ":full_moon_with_face:": {
         "category": "nature",
-        "name": "full moon face",
+        "name": "full moon with face",
         "unicode": "1f31d"
     },
     ":game_die:": {
         "category": "activity",
         "name": "game die",
         "unicode": "1f3b2"
-    },
-    ":garlic:": {
-        "category": "food",
-        "name": "garlic",
-        "unicode": "1f9c4"
     },
     ":gear:": {
         "category": "objects",
@@ -4572,11 +4231,6 @@ emoji = {
         "name": "goat",
         "unicode": "1f410"
     },
-    ":goggles:": {
-        "category": "people",
-        "name": "goggles",
-        "unicode": "1f97d"
-    },
     ":golf:": {
         "category": "activity",
         "name": "flag in hole",
@@ -4602,20 +4256,10 @@ emoji = {
         "name": "green book",
         "unicode": "1f4d7"
     },
-    ":green_circle:": {
-        "category": "symbols",
-        "name": "green circle",
-        "unicode": "1f7e2"
-    },
     ":green_heart:": {
         "category": "symbols",
         "name": "green heart",
         "unicode": "1f49a"
-    },
-    ":green_square:": {
-        "category": "symbols",
-        "name": "green square",
-        "unicode": "1f7e9"
     },
     ":grey_exclamation:": {
         "category": "symbols",
@@ -4634,7 +4278,7 @@ emoji = {
     },
     ":grin:": {
         "category": "people",
-        "name": "beaming face with smiling eyes",
+        "name": "grinning face with smiling eyes",
         "unicode": "1f601"
     },
     ":grinning:": {
@@ -4672,11 +4316,6 @@ emoji = {
         "name": "guard: dark skin tone",
         "unicode": "1f482-1f3ff"
     },
-    ":guide_dog:": {
-        "category": "nature",
-        "name": "guide dog",
-        "unicode": "1f9ae"
-    },
     ":guitar:": {
         "category": "activity",
         "name": "guitar",
@@ -4704,37 +4343,37 @@ emoji = {
     },
     ":hamster:": {
         "category": "nature",
-        "name": "hamster",
+        "name": "hamster face",
         "unicode": "1f439"
     },
     ":hand_splayed:": {
         "category": "people",
-        "name": "hand with fingers splayed",
+        "name": "raised hand with fingers splayed",
         "unicode": "1f590"
     },
     ":hand_splayed_tone1:": {
         "category": "people",
-        "name": "hand with fingers splayed: light skin tone",
+        "name": "raised hand with fingers splayed: light skin tone",
         "unicode": "1f590-1f3fb"
     },
     ":hand_splayed_tone2:": {
         "category": "people",
-        "name": "hand with fingers splayed: medium-light skin tone",
+        "name": "raised hand with fingers splayed: medium-light skin tone",
         "unicode": "1f590-1f3fc"
     },
     ":hand_splayed_tone3:": {
         "category": "people",
-        "name": "hand with fingers splayed: medium skin tone",
+        "name": "raised hand with fingers splayed: medium skin tone",
         "unicode": "1f590-1f3fd"
     },
     ":hand_splayed_tone4:": {
         "category": "people",
-        "name": "hand with fingers splayed: medium-dark skin tone",
+        "name": "raised hand with fingers splayed: medium-dark skin tone",
         "unicode": "1f590-1f3fe"
     },
     ":hand_splayed_tone5:": {
         "category": "people",
-        "name": "hand with fingers splayed: dark skin tone",
+        "name": "raised hand with fingers splayed: dark skin tone",
         "unicode": "1f590-1f3ff"
     },
     ":handbag:": {
@@ -4790,7 +4429,7 @@ emoji = {
     },
     ":heart_exclamation:": {
         "category": "symbols",
-        "name": "heart exclamation",
+        "name": "heavy heart exclamation",
         "unicode": "2763"
     },
     ":heart_eyes:": {
@@ -4800,7 +4439,7 @@ emoji = {
     },
     ":heart_eyes_cat:": {
         "category": "people",
-        "name": "smiling cat with heart-eyes",
+        "name": "smiling cat face with heart-eyes",
         "unicode": "1f63b"
     },
     ":heartbeat:": {
@@ -4820,12 +4459,12 @@ emoji = {
     },
     ":heavy_check_mark:": {
         "category": "symbols",
-        "name": "check mark",
+        "name": "heavy check mark",
         "unicode": "2714"
     },
     ":heavy_division_sign:": {
         "category": "symbols",
-        "name": "division sign",
+        "name": "heavy division sign",
         "unicode": "2797"
     },
     ":heavy_dollar_sign:": {
@@ -4835,17 +4474,17 @@ emoji = {
     },
     ":heavy_minus_sign:": {
         "category": "symbols",
-        "name": "minus sign",
+        "name": "heavy minus sign",
         "unicode": "2796"
     },
     ":heavy_multiplication_x:": {
         "category": "symbols",
-        "name": "multiplication sign",
+        "name": "heavy multiplication x",
         "unicode": "2716"
     },
     ":heavy_plus_sign:": {
         "category": "symbols",
-        "name": "plus sign",
+        "name": "heavy plus sign",
         "unicode": "2795"
     },
     ":hedgehog:": {
@@ -4882,21 +4521,6 @@ emoji = {
         "category": "people",
         "name": "high-heeled shoe",
         "unicode": "1f460"
-    },
-    ":hiking_boot:": {
-        "category": "people",
-        "name": "hiking boot",
-        "unicode": "1f97e"
-    },
-    ":hindu_temple:": {
-        "category": "travel",
-        "name": "hindu temple",
-        "unicode": "1f6d5"
-    },
-    ":hippopotamus:": {
-        "category": "nature",
-        "name": "hippopotamus",
-        "unicode": "1f99b"
     },
     ":hockey:": {
         "category": "activity",
@@ -4958,11 +4582,6 @@ emoji = {
         "name": "hospital",
         "unicode": "1f3e5"
     },
-    ":hot_face:": {
-        "category": "people",
-        "name": "hot face",
-        "unicode": "1f975"
-    },
     ":hot_pepper:": {
         "category": "food",
         "name": "hot pepper",
@@ -4985,12 +4604,12 @@ emoji = {
     },
     ":hourglass:": {
         "category": "objects",
-        "name": "hourglass done",
+        "name": "hourglass",
         "unicode": "231b"
     },
     ":hourglass_flowing_sand:": {
         "category": "objects",
-        "name": "hourglass not done",
+        "name": "hourglass with flowing sand",
         "unicode": "23f3"
     },
     ":house:": {
@@ -5022,11 +4641,6 @@ emoji = {
         "category": "food",
         "name": "ice cream",
         "unicode": "1f368"
-    },
-    ":ice_cube:": {
-        "category": "food",
-        "name": "ice cube",
-        "unicode": "1f9ca"
     },
     ":ice_skate:": {
         "category": "activity",
@@ -5062,11 +4676,6 @@ emoji = {
         "category": "objects",
         "name": "incoming envelope",
         "unicode": "1f4e8"
-    },
-    ":infinity:": {
-        "category": "symbols",
-        "name": "infinity",
-        "unicode": "267e"
     },
     ":information_source:": {
         "category": "symbols",
@@ -5128,11 +4737,6 @@ emoji = {
         "name": "jeans",
         "unicode": "1f456"
     },
-    ":jigsaw:": {
-        "category": "activity",
-        "name": "puzzle piece",
-        "unicode": "1f9e9"
-    },
     ":joy:": {
         "category": "people",
         "name": "face with tears of joy",
@@ -5140,7 +4744,7 @@ emoji = {
     },
     ":joy_cat:": {
         "category": "people",
-        "name": "cat with tears of joy",
+        "name": "cat face with tears of joy",
         "unicode": "1f639"
     },
     ":joystick:": {
@@ -5152,11 +4756,6 @@ emoji = {
         "category": "travel",
         "name": "kaaba",
         "unicode": "1f54b"
-    },
-    ":kangaroo:": {
-        "category": "nature",
-        "name": "kangaroo",
-        "unicode": "1f998"
     },
     ":key2:": {
         "category": "objects",
@@ -5175,7 +4774,7 @@ emoji = {
     },
     ":keycap_ten:": {
         "category": "symbols",
-        "name": "keycap: 10",
+        "name": "keycap 10",
         "unicode": "1f51f"
     },
     ":kimono:": {
@@ -5188,6 +4787,21 @@ emoji = {
         "name": "kiss mark",
         "unicode": "1f48b"
     },
+    ":kiss_mm:": {
+        "category": "people",
+        "name": "kiss: man, man",
+        "unicode": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    },
+    ":kiss_woman_man:": {
+        "category": "people",
+        "name": "kiss: woman, man",
+        "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    },
+    ":kiss_ww:": {
+        "category": "people",
+        "name": "kiss: woman, woman",
+        "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
+    },
     ":kissing:": {
         "category": "people",
         "name": "kissing face",
@@ -5195,7 +4809,7 @@ emoji = {
     },
     ":kissing_cat:": {
         "category": "people",
-        "name": "kissing cat",
+        "name": "kissing cat face with closed eyes",
         "unicode": "1f63d"
     },
     ":kissing_closed_eyes:": {
@@ -5212,11 +4826,6 @@ emoji = {
         "category": "people",
         "name": "kissing face with smiling eyes",
         "unicode": "1f619"
-    },
-    ":kite:": {
-        "category": "activity",
-        "name": "kite",
-        "unicode": "1fa81"
     },
     ":kiwi:": {
         "category": "food",
@@ -5238,20 +4847,10 @@ emoji = {
         "name": "Japanese \u201chere\u201d button",
         "unicode": "1f201"
     },
-    ":lab_coat:": {
-        "category": "people",
-        "name": "lab coat",
-        "unicode": "1f97c"
-    },
     ":label:": {
         "category": "objects",
         "name": "label",
         "unicode": "1f3f7"
-    },
-    ":lacrosse:": {
-        "category": "activity",
-        "name": "lacrosse",
-        "unicode": "1f94d"
     },
     ":large_blue_diamond:": {
         "category": "symbols",
@@ -5270,18 +4869,13 @@ emoji = {
     },
     ":last_quarter_moon_with_face:": {
         "category": "nature",
-        "name": "last quarter moon face",
+        "name": "last quarter moon with face",
         "unicode": "1f31c"
     },
     ":laughing:": {
         "category": "people",
-        "name": "grinning squinting face",
+        "name": "smiling face with open mouth & closed eyes",
         "unicode": "1f606"
-    },
-    ":leafy_green:": {
-        "category": "food",
-        "name": "leafy green",
-        "unicode": "1f96c"
     },
     ":leaves:": {
         "category": "nature",
@@ -5338,36 +4932,6 @@ emoji = {
         "name": "right arrow curving left",
         "unicode": "21a9"
     },
-    ":leg:": {
-        "category": "people",
-        "name": "leg",
-        "unicode": "1f9b5"
-    },
-    ":leg_tone1:": {
-        "category": "people",
-        "name": "leg: light skin tone",
-        "unicode": "1f9b5-1f3fb"
-    },
-    ":leg_tone2:": {
-        "category": "people",
-        "name": "leg: medium-light skin tone",
-        "unicode": "1f9b5-1f3fc"
-    },
-    ":leg_tone3:": {
-        "category": "people",
-        "name": "leg: medium skin tone",
-        "unicode": "1f9b5-1f3fd"
-    },
-    ":leg_tone4:": {
-        "category": "people",
-        "name": "leg: medium-dark skin tone",
-        "unicode": "1f9b5-1f3fe"
-    },
-    ":leg_tone5:": {
-        "category": "people",
-        "name": "leg: dark skin tone",
-        "unicode": "1f9b5-1f3ff"
-    },
     ":lemon:": {
         "category": "food",
         "name": "lemon",
@@ -5390,33 +4954,8 @@ emoji = {
     },
     ":levitate:": {
         "category": "people",
-        "name": "man in suit levitating",
+        "name": "man in business suit levitating",
         "unicode": "1f574"
-    },
-    ":levitate_tone1:": {
-        "category": "people",
-        "name": "man in suit levitating: light skin tone",
-        "unicode": "1f574-1f3fb"
-    },
-    ":levitate_tone2:": {
-        "category": "people",
-        "name": "man in suit levitating: medium-light skin tone",
-        "unicode": "1f574-1f3fc"
-    },
-    ":levitate_tone3:": {
-        "category": "people",
-        "name": "man in suit levitating: medium skin tone",
-        "unicode": "1f574-1f3fd"
-    },
-    ":levitate_tone4:": {
-        "category": "people",
-        "name": "man in suit levitating: medium-dark skin tone",
-        "unicode": "1f574-1f3fe"
-    },
-    ":levitate_tone5:": {
-        "category": "people",
-        "name": "man in suit levitating: dark skin tone",
-        "unicode": "1f574-1f3ff"
     },
     ":libra:": {
         "category": "symbols",
@@ -5435,7 +4974,7 @@ emoji = {
     },
     ":lion_face:": {
         "category": "nature",
-        "name": "lion",
+        "name": "lion face",
         "unicode": "1f981"
     },
     ":lips:": {
@@ -5452,16 +4991,6 @@ emoji = {
         "category": "nature",
         "name": "lizard",
         "unicode": "1f98e"
-    },
-    ":llama:": {
-        "category": "nature",
-        "name": "llama",
-        "unicode": "1f999"
-    },
-    ":lobster:": {
-        "category": "nature",
-        "name": "lobster",
-        "unicode": "1f99e"
     },
     ":lock:": {
         "category": "objects",
@@ -5538,11 +5067,6 @@ emoji = {
         "name": "dim button",
         "unicode": "1f505"
     },
-    ":luggage:": {
-        "category": "people",
-        "name": "luggage",
-        "unicode": "1f9f3"
-    },
     ":lying_face:": {
         "category": "people",
         "name": "lying face",
@@ -5555,12 +5079,12 @@ emoji = {
     },
     ":mag:": {
         "category": "objects",
-        "name": "magnifying glass tilted left",
+        "name": "left-pointing magnifying glass",
         "unicode": "1f50d"
     },
     ":mag_right:": {
         "category": "objects",
-        "name": "magnifying glass tilted right",
+        "name": "right-pointing magnifying glass",
         "unicode": "1f50e"
     },
     ":mage:": {
@@ -5593,11 +5117,6 @@ emoji = {
         "name": "mage: dark skin tone",
         "unicode": "1f9d9-1f3ff"
     },
-    ":magnet:": {
-        "category": "objects",
-        "name": "magnet",
-        "unicode": "1f9f2"
-    },
     ":mahjong:": {
         "category": "symbols",
         "name": "mahjong red dragon",
@@ -5624,7 +5143,7 @@ emoji = {
         "unicode": "1f4ed"
     },
     ":male_sign:": {
-        "category": "symbols",
+        "category": "people",
         "name": "male sign",
         "unicode": "2642"
     },
@@ -5692,36 +5211,6 @@ emoji = {
         "category": "people",
         "name": "man astronaut: dark skin tone",
         "unicode": "1f468-1f3ff-200d-1f680"
-    },
-    ":man_bald:": {
-        "category": "people",
-        "name": "man: bald",
-        "unicode": "1f468-200d-1f9b2"
-    },
-    ":man_bald_tone1:": {
-        "category": "people",
-        "name": "man, bald: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9b2"
-    },
-    ":man_bald_tone2:": {
-        "category": "people",
-        "name": "man, bald: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9b2"
-    },
-    ":man_bald_tone3:": {
-        "category": "people",
-        "name": "man, bald: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9b2"
-    },
-    ":man_bald_tone4:": {
-        "category": "people",
-        "name": "man, bald: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9b2"
-    },
-    ":man_bald_tone5:": {
-        "category": "people",
-        "name": "man, bald: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9b2"
     },
     ":man_biking:": {
         "category": "activity",
@@ -5932,36 +5421,6 @@ emoji = {
         "category": "people",
         "name": "man cook: dark skin tone",
         "unicode": "1f468-1f3ff-200d-1f373"
-    },
-    ":man_curly_haired:": {
-        "category": "people",
-        "name": "man: curly hair",
-        "unicode": "1f468-200d-1f9b1"
-    },
-    ":man_curly_haired_tone1:": {
-        "category": "people",
-        "name": "man, curly haired: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9b1"
-    },
-    ":man_curly_haired_tone2:": {
-        "category": "people",
-        "name": "man, curly haired: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9b1"
-    },
-    ":man_curly_haired_tone3:": {
-        "category": "people",
-        "name": "man, curly haired: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9b1"
-    },
-    ":man_curly_haired_tone4:": {
-        "category": "people",
-        "name": "man, curly haired: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9b1"
-    },
-    ":man_curly_haired_tone5:": {
-        "category": "people",
-        "name": "man, curly haired: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9b1"
     },
     ":man_dancing:": {
         "category": "people",
@@ -6448,6 +5907,31 @@ emoji = {
         "name": "man health worker: dark skin tone",
         "unicode": "1f468-1f3ff-200d-2695-fe0f"
     },
+    ":man_in_business_suit_levitating_tone1:": {
+        "category": "people",
+        "name": "man in business suit levitating: light skin tone",
+        "unicode": "1f574-1f3fb"
+    },
+    ":man_in_business_suit_levitating_tone2:": {
+        "category": "people",
+        "name": "man in business suit levitating: medium-light skin tone",
+        "unicode": "1f574-1f3fc"
+    },
+    ":man_in_business_suit_levitating_tone3:": {
+        "category": "people",
+        "name": "man in business suit levitating: medium skin tone",
+        "unicode": "1f574-1f3fd"
+    },
+    ":man_in_business_suit_levitating_tone4:": {
+        "category": "people",
+        "name": "man in business suit levitating: medium-dark skin tone",
+        "unicode": "1f574-1f3fe"
+    },
+    ":man_in_business_suit_levitating_tone5:": {
+        "category": "people",
+        "name": "man in business suit levitating: dark skin tone",
+        "unicode": "1f574-1f3ff"
+    },
     ":man_in_lotus_position:": {
         "category": "activity",
         "name": "man in lotus position",
@@ -6478,93 +5962,33 @@ emoji = {
         "name": "man in lotus position: dark skin tone",
         "unicode": "1f9d8-1f3ff-200d-2642-fe0f"
     },
-    ":man_in_manual_wheelchair:": {
-        "category": "people",
-        "name": "man in manual wheelchair",
-        "unicode": "1f468-200d-1f9bd"
-    },
-    ":man_in_manual_wheelchair_tone1:": {
-        "category": "people",
-        "name": "man in manual wheelchair: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9bd"
-    },
-    ":man_in_manual_wheelchair_tone2:": {
-        "category": "people",
-        "name": "man in manual wheelchair: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9bd"
-    },
-    ":man_in_manual_wheelchair_tone3:": {
-        "category": "people",
-        "name": "man in manual wheelchair: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9bd"
-    },
-    ":man_in_manual_wheelchair_tone4:": {
-        "category": "people",
-        "name": "man in manual wheelchair: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9bd"
-    },
-    ":man_in_manual_wheelchair_tone5:": {
-        "category": "people",
-        "name": "man in manual wheelchair: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9bd"
-    },
-    ":man_in_motorized_wheelchair:": {
-        "category": "people",
-        "name": "man in motorized wheelchair",
-        "unicode": "1f468-200d-1f9bc"
-    },
-    ":man_in_motorized_wheelchair_tone1:": {
-        "category": "people",
-        "name": "man in motorized wheelchair: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9bc"
-    },
-    ":man_in_motorized_wheelchair_tone2:": {
-        "category": "people",
-        "name": "man in motorized wheelchair: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9bc"
-    },
-    ":man_in_motorized_wheelchair_tone3:": {
-        "category": "people",
-        "name": "man in motorized wheelchair: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9bc"
-    },
-    ":man_in_motorized_wheelchair_tone4:": {
-        "category": "people",
-        "name": "man in motorized wheelchair: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9bc"
-    },
-    ":man_in_motorized_wheelchair_tone5:": {
-        "category": "people",
-        "name": "man in motorized wheelchair: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9bc"
-    },
     ":man_in_steamy_room:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room",
         "unicode": "1f9d6-200d-2642-fe0f"
     },
     ":man_in_steamy_room_tone1:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room: light skin tone",
         "unicode": "1f9d6-1f3fb-200d-2642-fe0f"
     },
     ":man_in_steamy_room_tone2:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room: medium-light skin tone",
         "unicode": "1f9d6-1f3fc-200d-2642-fe0f"
     },
     ":man_in_steamy_room_tone3:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room: medium skin tone",
         "unicode": "1f9d6-1f3fd-200d-2642-fe0f"
     },
     ":man_in_steamy_room_tone4:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room: medium-dark skin tone",
         "unicode": "1f9d6-1f3fe-200d-2642-fe0f"
     },
     ":man_in_steamy_room_tone5:": {
-        "category": "people",
+        "category": "activity",
         "name": "man in steamy room: dark skin tone",
         "unicode": "1f9d6-1f3ff-200d-2642-fe0f"
     },
@@ -6657,36 +6081,6 @@ emoji = {
         "category": "activity",
         "name": "man juggling: dark skin tone",
         "unicode": "1f939-1f3ff-200d-2642-fe0f"
-    },
-    ":man_kneeling:": {
-        "category": "people",
-        "name": "man kneeling",
-        "unicode": "1f9ce-200d-2642-fe0f"
-    },
-    ":man_kneeling_tone1:": {
-        "category": "people",
-        "name": "man kneeling: light skin tone",
-        "unicode": "1f9ce-1f3fb-200d-2642-fe0f"
-    },
-    ":man_kneeling_tone2:": {
-        "category": "people",
-        "name": "man kneeling: medium-light skin tone",
-        "unicode": "1f9ce-1f3fc-200d-2642-fe0f"
-    },
-    ":man_kneeling_tone3:": {
-        "category": "people",
-        "name": "man kneeling: medium skin tone",
-        "unicode": "1f9ce-1f3fd-200d-2642-fe0f"
-    },
-    ":man_kneeling_tone4:": {
-        "category": "people",
-        "name": "man kneeling: medium-dark skin tone",
-        "unicode": "1f9ce-1f3fe-200d-2642-fe0f"
-    },
-    ":man_kneeling_tone5:": {
-        "category": "people",
-        "name": "man kneeling: dark skin tone",
-        "unicode": "1f9ce-1f3ff-200d-2642-fe0f"
     },
     ":man_lifting_weights:": {
         "category": "activity",
@@ -7018,36 +6412,6 @@ emoji = {
         "name": "man raising hand: dark skin tone",
         "unicode": "1f64b-1f3ff-200d-2642-fe0f"
     },
-    ":man_red_haired:": {
-        "category": "people",
-        "name": "man: red hair",
-        "unicode": "1f468-200d-1f9b0"
-    },
-    ":man_red_haired_tone1:": {
-        "category": "people",
-        "name": "man, red haired: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9b0"
-    },
-    ":man_red_haired_tone2:": {
-        "category": "people",
-        "name": "man, red haired: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9b0"
-    },
-    ":man_red_haired_tone3:": {
-        "category": "people",
-        "name": "man, red haired: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9b0"
-    },
-    ":man_red_haired_tone4:": {
-        "category": "people",
-        "name": "man, red haired: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9b0"
-    },
-    ":man_red_haired_tone5:": {
-        "category": "people",
-        "name": "man, red haired: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9b0"
-    },
     ":man_rowing_boat:": {
         "category": "activity",
         "name": "man rowing boat",
@@ -7198,36 +6562,6 @@ emoji = {
         "name": "man singer: dark skin tone",
         "unicode": "1f468-1f3ff-200d-1f3a4"
     },
-    ":man_standing:": {
-        "category": "people",
-        "name": "man standing",
-        "unicode": "1f9cd-200d-2642-fe0f"
-    },
-    ":man_standing_tone1:": {
-        "category": "people",
-        "name": "man standing: light skin tone",
-        "unicode": "1f9cd-1f3fb-200d-2642-fe0f"
-    },
-    ":man_standing_tone2:": {
-        "category": "people",
-        "name": "man standing: medium-light skin tone",
-        "unicode": "1f9cd-1f3fc-200d-2642-fe0f"
-    },
-    ":man_standing_tone3:": {
-        "category": "people",
-        "name": "man standing: medium skin tone",
-        "unicode": "1f9cd-1f3fd-200d-2642-fe0f"
-    },
-    ":man_standing_tone4:": {
-        "category": "people",
-        "name": "man standing: medium-dark skin tone",
-        "unicode": "1f9cd-1f3fe-200d-2642-fe0f"
-    },
-    ":man_standing_tone5:": {
-        "category": "people",
-        "name": "man standing: dark skin tone",
-        "unicode": "1f9cd-1f3ff-200d-2642-fe0f"
-    },
     ":man_student:": {
         "category": "people",
         "name": "man student",
@@ -7257,66 +6591,6 @@ emoji = {
         "category": "people",
         "name": "man student: dark skin tone",
         "unicode": "1f468-1f3ff-200d-1f393"
-    },
-    ":man_superhero:": {
-        "category": "people",
-        "name": "man superhero",
-        "unicode": "1f9b8-200d-2642-fe0f"
-    },
-    ":man_superhero_tone1:": {
-        "category": "people",
-        "name": "man superhero: light skin tone",
-        "unicode": "1f9b8-1f3fb-200d-2642-fe0f"
-    },
-    ":man_superhero_tone2:": {
-        "category": "people",
-        "name": "man superhero: medium-light skin tone",
-        "unicode": "1f9b8-1f3fc-200d-2642-fe0f"
-    },
-    ":man_superhero_tone3:": {
-        "category": "people",
-        "name": "man superhero: medium skin tone",
-        "unicode": "1f9b8-1f3fd-200d-2642-fe0f"
-    },
-    ":man_superhero_tone4:": {
-        "category": "people",
-        "name": "man superhero: medium-dark skin tone",
-        "unicode": "1f9b8-1f3fe-200d-2642-fe0f"
-    },
-    ":man_superhero_tone5:": {
-        "category": "people",
-        "name": "man superhero: dark skin tone",
-        "unicode": "1f9b8-1f3ff-200d-2642-fe0f"
-    },
-    ":man_supervillain:": {
-        "category": "people",
-        "name": "man supervillain",
-        "unicode": "1f9b9-200d-2642-fe0f"
-    },
-    ":man_supervillain_tone1:": {
-        "category": "people",
-        "name": "man supervillain: light skin tone",
-        "unicode": "1f9b9-1f3fb-200d-2642-fe0f"
-    },
-    ":man_supervillain_tone2:": {
-        "category": "people",
-        "name": "man supervillain: medium-light skin tone",
-        "unicode": "1f9b9-1f3fc-200d-2642-fe0f"
-    },
-    ":man_supervillain_tone3:": {
-        "category": "people",
-        "name": "man supervillain: medium skin tone",
-        "unicode": "1f9b9-1f3fd-200d-2642-fe0f"
-    },
-    ":man_supervillain_tone4:": {
-        "category": "people",
-        "name": "man supervillain: medium-dark skin tone",
-        "unicode": "1f9b9-1f3fe-200d-2642-fe0f"
-    },
-    ":man_supervillain_tone5:": {
-        "category": "people",
-        "name": "man supervillain: dark skin tone",
-        "unicode": "1f9b9-1f3ff-200d-2642-fe0f"
     },
     ":man_surfing:": {
         "category": "activity",
@@ -7583,36 +6857,6 @@ emoji = {
         "name": "man wearing turban: dark skin tone",
         "unicode": "1f473-1f3ff-200d-2642-fe0f"
     },
-    ":man_white_haired:": {
-        "category": "people",
-        "name": "man: white hair",
-        "unicode": "1f468-200d-1f9b3"
-    },
-    ":man_white_haired_tone1:": {
-        "category": "people",
-        "name": "man, white haired: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9b3"
-    },
-    ":man_white_haired_tone2:": {
-        "category": "people",
-        "name": "man, white haired: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9b3"
-    },
-    ":man_white_haired_tone3:": {
-        "category": "people",
-        "name": "man, white haired: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9b3"
-    },
-    ":man_white_haired_tone4:": {
-        "category": "people",
-        "name": "man, white haired: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9b3"
-    },
-    ":man_white_haired_tone5:": {
-        "category": "people",
-        "name": "man, white haired: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9b3"
-    },
     ":man_with_chinese_cap:": {
         "category": "people",
         "name": "man with Chinese cap",
@@ -7643,55 +6887,15 @@ emoji = {
         "name": "man with Chinese cap: dark skin tone",
         "unicode": "1f472-1f3ff"
     },
-    ":man_with_probing_cane:": {
-        "category": "people",
-        "name": "man with probing cane",
-        "unicode": "1f468-200d-1f9af"
-    },
-    ":man_with_probing_cane_tone1:": {
-        "category": "people",
-        "name": "man with probing cane: light skin tone",
-        "unicode": "1f468-1f3fb-200d-1f9af"
-    },
-    ":man_with_probing_cane_tone2:": {
-        "category": "people",
-        "name": "man with probing cane: medium-light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f9af"
-    },
-    ":man_with_probing_cane_tone3:": {
-        "category": "people",
-        "name": "man with probing cane: medium skin tone",
-        "unicode": "1f468-1f3fd-200d-1f9af"
-    },
-    ":man_with_probing_cane_tone4:": {
-        "category": "people",
-        "name": "man with probing cane: medium-dark skin tone",
-        "unicode": "1f468-1f3fe-200d-1f9af"
-    },
-    ":man_with_probing_cane_tone5:": {
-        "category": "people",
-        "name": "man with probing cane: dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f9af"
-    },
     ":man_zombie:": {
         "category": "people",
         "name": "man zombie",
         "unicode": "1f9df-200d-2642-fe0f"
     },
-    ":mango:": {
-        "category": "food",
-        "name": "mango",
-        "unicode": "1f96d"
-    },
     ":mans_shoe:": {
         "category": "people",
         "name": "man\u2019s shoe",
         "unicode": "1f45e"
-    },
-    ":manual_wheelchair:": {
-        "category": "travel",
-        "name": "manual wheelchair",
-        "unicode": "1f9bd"
     },
     ":map:": {
         "category": "travel",
@@ -7713,25 +6917,10 @@ emoji = {
         "name": "face with medical mask",
         "unicode": "1f637"
     },
-    ":mate:": {
-        "category": "food",
-        "name": "mate",
-        "unicode": "1f9c9"
-    },
     ":meat_on_bone:": {
         "category": "food",
         "name": "meat on bone",
         "unicode": "1f356"
-    },
-    ":mechanical_arm:": {
-        "category": "people",
-        "name": "mechanical arm",
-        "unicode": "1f9be"
-    },
-    ":mechanical_leg:": {
-        "category": "people",
-        "name": "mechanical leg",
-        "unicode": "1f9bf"
     },
     ":medal:": {
         "category": "activity",
@@ -7739,7 +6928,7 @@ emoji = {
         "unicode": "1f3c5"
     },
     ":medical_symbol:": {
-        "category": "symbols",
+        "category": "people",
         "name": "medical symbol",
         "unicode": "2695"
     },
@@ -7753,84 +6942,9 @@ emoji = {
         "name": "melon",
         "unicode": "1f348"
     },
-    ":men_holding_hands_tone1:": {
-        "category": "people",
-        "name": "men holding hands: light skin tone",
-        "unicode": "1f46c-1f3fb"
-    },
-    ":men_holding_hands_tone2:": {
-        "category": "people",
-        "name": "men holding hands: medium-light skin tone",
-        "unicode": "1f46c-1f3fc"
-    },
-    ":men_holding_hands_tone2_tone1:": {
-        "category": "people",
-        "name": "men holding hands: medium-light skin tone, light skin tone",
-        "unicode": "1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":men_holding_hands_tone3:": {
-        "category": "people",
-        "name": "men holding hands: medium skin tone",
-        "unicode": "1f46c-1f3fd"
-    },
-    ":men_holding_hands_tone3_tone1:": {
-        "category": "people",
-        "name": "men holding hands: medium skin tone, light skin tone",
-        "unicode": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":men_holding_hands_tone3_tone2:": {
-        "category": "people",
-        "name": "men holding hands: medium skin tone, medium-light skin tone",
-        "unicode": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":men_holding_hands_tone4:": {
-        "category": "people",
-        "name": "men holding hands: medium-dark skin tone",
-        "unicode": "1f46c-1f3fe"
-    },
-    ":men_holding_hands_tone4_tone1:": {
-        "category": "people",
-        "name": "men holding hands: medium-dark skin tone, light skin tone",
-        "unicode": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":men_holding_hands_tone4_tone2:": {
-        "category": "people",
-        "name": "men holding hands: medium dark skin tone, medium light skin tone",
-        "unicode": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":men_holding_hands_tone4_tone3:": {
-        "category": "people",
-        "name": "men holding hands: medium-dark skin tone, medium skin tone",
-        "unicode": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":men_holding_hands_tone5:": {
-        "category": "people",
-        "name": "men holding hands: dark skin tone",
-        "unicode": "1f46c-1f3ff"
-    },
-    ":men_holding_hands_tone5_tone1:": {
-        "category": "people",
-        "name": "men holding hands: dark skin tone, light skin tone",
-        "unicode": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":men_holding_hands_tone5_tone2:": {
-        "category": "people",
-        "name": "men holding hands: dark skin tone, medium-light skin tone",
-        "unicode": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":men_holding_hands_tone5_tone3:": {
-        "category": "people",
-        "name": "men holding hands: dark skin tone, medium skin tone",
-        "unicode": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":men_holding_hands_tone5_tone4:": {
-        "category": "people",
-        "name": "men holding hands: dark skin tone, medium-dark skin tone",
-        "unicode": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe"
-    },
     ":men_with_bunny_ears_partying:": {
         "category": "people",
-        "name": "men with bunny ears",
+        "name": "men with bunny ears partying",
         "unicode": "1f46f-200d-2642-fe0f"
     },
     ":men_wrestling:": {
@@ -7973,11 +7087,6 @@ emoji = {
         "name": "metro",
         "unicode": "1f687"
     },
-    ":microbe:": {
-        "category": "objects",
-        "name": "microbe",
-        "unicode": "1f9a0"
-    },
     ":microphone2:": {
         "category": "objects",
         "name": "studio microphone",
@@ -8083,11 +7192,6 @@ emoji = {
         "name": "monorail",
         "unicode": "1f69d"
     },
-    ":moon_cake:": {
-        "category": "food",
-        "name": "moon cake",
-        "unicode": "1f96e"
-    },
     ":mortar_board:": {
         "category": "people",
         "name": "graduation cap",
@@ -8097,11 +7201,6 @@ emoji = {
         "category": "travel",
         "name": "mosque",
         "unicode": "1f54c"
-    },
-    ":mosquito:": {
-        "category": "nature",
-        "name": "mosquito",
-        "unicode": "1f99f"
     },
     ":motor_scooter:": {
         "category": "travel",
@@ -8117,11 +7216,6 @@ emoji = {
         "category": "travel",
         "name": "motorcycle",
         "unicode": "1f3cd"
-    },
-    ":motorized_wheelchair:": {
-        "category": "travel",
-        "name": "motorized wheelchair",
-        "unicode": "1f9bc"
     },
     ":motorway:": {
         "category": "travel",
@@ -8303,11 +7397,6 @@ emoji = {
         "name": "nauseated face",
         "unicode": "1f922"
     },
-    ":nazar_amulet:": {
-        "category": "objects",
-        "name": "nazar amulet",
-        "unicode": "1f9ff"
-    },
     ":necktie:": {
         "category": "people",
         "name": "necktie",
@@ -8476,7 +7565,7 @@ emoji = {
     },
     ":o:": {
         "category": "symbols",
-        "name": "hollow red circle",
+        "name": "heavy large circle",
         "unicode": "2b55"
     },
     ":ocean:": {
@@ -8546,7 +7635,7 @@ emoji = {
     },
     ":older_adult:": {
         "category": "people",
-        "name": "older person",
+        "name": "older adult",
         "unicode": "1f9d3"
     },
     ":older_adult_tone1:": {
@@ -8670,16 +7759,6 @@ emoji = {
         "unicode": "31-20e3",
         "unicode_alt": "0031-20e3"
     },
-    ":one_piece_swimsuit:": {
-        "category": "people",
-        "name": "one-piece swimsuit",
-        "unicode": "1fa71"
-    },
-    ":onion:": {
-        "category": "food",
-        "name": "onion",
-        "unicode": "1f9c5"
-    },
     ":open_file_folder:": {
         "category": "objects",
         "name": "open file folder",
@@ -8730,35 +7809,15 @@ emoji = {
         "name": "orange book",
         "unicode": "1f4d9"
     },
-    ":orange_circle:": {
-        "category": "symbols",
-        "name": "orange circle",
-        "unicode": "1f7e0"
-    },
     ":orange_heart:": {
-        "category": "symbols",
+        "category": "objects",
         "name": "orange heart",
         "unicode": "1f9e1"
-    },
-    ":orange_square:": {
-        "category": "symbols",
-        "name": "orange square",
-        "unicode": "1f7e7"
-    },
-    ":orangutan:": {
-        "category": "nature",
-        "name": "orangutan",
-        "unicode": "1f9a7"
     },
     ":orthodox_cross:": {
         "category": "symbols",
         "name": "orthodox cross",
         "unicode": "2626"
-    },
-    ":otter:": {
-        "category": "nature",
-        "name": "otter",
-        "unicode": "1f9a6"
     },
     ":outbox_tray:": {
         "category": "objects",
@@ -8774,11 +7833,6 @@ emoji = {
         "category": "nature",
         "name": "ox",
         "unicode": "1f402"
-    },
-    ":oyster:": {
-        "category": "nature",
-        "name": "oyster",
-        "unicode": "1f9aa"
     },
     ":package:": {
         "category": "objects",
@@ -8847,7 +7901,7 @@ emoji = {
     },
     ":panda_face:": {
         "category": "nature",
-        "name": "panda",
+        "name": "panda face",
         "unicode": "1f43c"
     },
     ":paperclip:": {
@@ -8860,11 +7914,6 @@ emoji = {
         "name": "linked paperclips",
         "unicode": "1f587"
     },
-    ":parachute:": {
-        "category": "activity",
-        "name": "parachute",
-        "unicode": "1fa82"
-    },
     ":park:": {
         "category": "travel",
         "name": "national park",
@@ -8875,11 +7924,6 @@ emoji = {
         "name": "P button",
         "unicode": "1f17f"
     },
-    ":parrot:": {
-        "category": "nature",
-        "name": "parrot",
-        "unicode": "1f99c"
-    },
     ":part_alternation_mark:": {
         "category": "symbols",
         "name": "part alternation mark",
@@ -8889,11 +7933,6 @@ emoji = {
         "category": "nature",
         "name": "sun behind cloud",
         "unicode": "26c5"
-    },
-    ":partying_face:": {
-        "category": "people",
-        "name": "partying face",
-        "unicode": "1f973"
     },
     ":passport_control:": {
         "category": "symbols",
@@ -8914,11 +7953,6 @@ emoji = {
         "category": "food",
         "name": "peach",
         "unicode": "1f351"
-    },
-    ":peacock:": {
-        "category": "nature",
-        "name": "peacock",
-        "unicode": "1f99a"
     },
     ":peanuts:": {
         "category": "food",
@@ -8960,89 +7994,9 @@ emoji = {
         "name": "pensive face",
         "unicode": "1f614"
     },
-    ":people_holding_hands:": {
-        "category": "people",
-        "name": "people holding hands",
-        "unicode": "1f9d1-200d-1f91d-200d-1f9d1"
-    },
-    ":people_holding_hands_tone1:": {
-        "category": "people",
-        "name": "people holding hands: light skin tone",
-        "unicode": "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb"
-    },
-    ":people_holding_hands_tone2:": {
-        "category": "people",
-        "name": "people holding hands: medium-light skin tone",
-        "unicode": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc"
-    },
-    ":people_holding_hands_tone2_tone1:": {
-        "category": "people",
-        "name": "people holding hands: medium-light skin tone, light skin tone",
-        "unicode": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb"
-    },
-    ":people_holding_hands_tone3:": {
-        "category": "people",
-        "name": "people holding hands: medium skin tone",
-        "unicode": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd"
-    },
-    ":people_holding_hands_tone3_tone1:": {
-        "category": "people",
-        "name": "people holding hands: medium skin tone, light skin tone",
-        "unicode": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb"
-    },
-    ":people_holding_hands_tone3_tone2:": {
-        "category": "people",
-        "name": "people holding hands: medium skin tone, medium-light skin tone",
-        "unicode": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc"
-    },
-    ":people_holding_hands_tone4:": {
-        "category": "people",
-        "name": "people holding hands: medium-dark skin tone",
-        "unicode": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe"
-    },
-    ":people_holding_hands_tone4_tone1:": {
-        "category": "people",
-        "name": "people holding hands: medium-dark skin tone, light skin tone",
-        "unicode": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb"
-    },
-    ":people_holding_hands_tone4_tone2:": {
-        "category": "people",
-        "name": "people holding hands: medium dark skin tone, medium light skin tone",
-        "unicode": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc"
-    },
-    ":people_holding_hands_tone4_tone3:": {
-        "category": "people",
-        "name": "people holding hands: medium-dark skin tone, medium skin tone",
-        "unicode": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd"
-    },
-    ":people_holding_hands_tone5:": {
-        "category": "people",
-        "name": "people holding hands: dark skin tone",
-        "unicode": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff"
-    },
-    ":people_holding_hands_tone5_tone1:": {
-        "category": "people",
-        "name": "people holding hands: dark skin tone, light skin tone",
-        "unicode": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb"
-    },
-    ":people_holding_hands_tone5_tone2:": {
-        "category": "people",
-        "name": "people holding hands: dark skin tone, medium-light skin tone",
-        "unicode": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc"
-    },
-    ":people_holding_hands_tone5_tone3:": {
-        "category": "people",
-        "name": "people holding hands: dark skin tone, medium skin tone",
-        "unicode": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd"
-    },
-    ":people_holding_hands_tone5_tone4:": {
-        "category": "people",
-        "name": "people holding hands: dark skin tone, medium-dark skin tone",
-        "unicode": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe"
-    },
     ":people_with_bunny_ears_partying:": {
         "category": "people",
-        "name": "people with bunny ears",
+        "name": "people with bunny ears partying",
         "unicode": "1f46f"
     },
     ":people_wrestling:": {
@@ -9481,32 +8435,32 @@ emoji = {
         "unicode": "1f9d8-1f3ff"
     },
     ":person_in_steamy_room:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room",
         "unicode": "1f9d6"
     },
     ":person_in_steamy_room_tone1:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room: light skin tone",
         "unicode": "1f9d6-1f3fb"
     },
     ":person_in_steamy_room_tone2:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room: medium-light skin tone",
         "unicode": "1f9d6-1f3fc"
     },
     ":person_in_steamy_room_tone3:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room: medium skin tone",
         "unicode": "1f9d6-1f3fd"
     },
     ":person_in_steamy_room_tone4:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room: medium-dark skin tone",
         "unicode": "1f9d6-1f3fe"
     },
     ":person_in_steamy_room_tone5:": {
-        "category": "people",
+        "category": "activity",
         "name": "person in steamy room: dark skin tone",
         "unicode": "1f9d6-1f3ff"
     },
@@ -9539,36 +8493,6 @@ emoji = {
         "category": "activity",
         "name": "person juggling: dark skin tone",
         "unicode": "1f939-1f3ff"
-    },
-    ":person_kneeling:": {
-        "category": "people",
-        "name": "person kneeling",
-        "unicode": "1f9ce"
-    },
-    ":person_kneeling_tone1:": {
-        "category": "people",
-        "name": "person kneeling: light skin tone",
-        "unicode": "1f9ce-1f3fb"
-    },
-    ":person_kneeling_tone2:": {
-        "category": "people",
-        "name": "person kneeling: medium-light skin tone",
-        "unicode": "1f9ce-1f3fc"
-    },
-    ":person_kneeling_tone3:": {
-        "category": "people",
-        "name": "person kneeling: medium skin tone",
-        "unicode": "1f9ce-1f3fd"
-    },
-    ":person_kneeling_tone4:": {
-        "category": "people",
-        "name": "person kneeling: medium-dark skin tone",
-        "unicode": "1f9ce-1f3fe"
-    },
-    ":person_kneeling_tone5:": {
-        "category": "people",
-        "name": "person kneeling: dark skin tone",
-        "unicode": "1f9ce-1f3ff"
     },
     ":person_lifting_weights:": {
         "category": "activity",
@@ -9840,36 +8764,6 @@ emoji = {
         "name": "person shrugging: dark skin tone",
         "unicode": "1f937-1f3ff"
     },
-    ":person_standing:": {
-        "category": "people",
-        "name": "person standing",
-        "unicode": "1f9cd"
-    },
-    ":person_standing_tone1:": {
-        "category": "people",
-        "name": "person standing: light skin tone",
-        "unicode": "1f9cd-1f3fb"
-    },
-    ":person_standing_tone2:": {
-        "category": "people",
-        "name": "person standing: medium-light skin tone",
-        "unicode": "1f9cd-1f3fc"
-    },
-    ":person_standing_tone3:": {
-        "category": "people",
-        "name": "person standing: medium skin tone",
-        "unicode": "1f9cd-1f3fd"
-    },
-    ":person_standing_tone4:": {
-        "category": "people",
-        "name": "person standing: medium-dark skin tone",
-        "unicode": "1f9cd-1f3fe"
-    },
-    ":person_standing_tone5:": {
-        "category": "people",
-        "name": "person standing: dark skin tone",
-        "unicode": "1f9cd-1f3ff"
-    },
     ":person_surfing:": {
         "category": "activity",
         "name": "person surfing",
@@ -10020,11 +8914,6 @@ emoji = {
         "name": "person wearing turban: dark skin tone",
         "unicode": "1f473-1f3ff"
     },
-    ":petri_dish:": {
-        "category": "objects",
-        "name": "petri dish",
-        "unicode": "1f9eb"
-    },
     ":pick:": {
         "category": "objects",
         "name": "pick",
@@ -10054,36 +8943,6 @@ emoji = {
         "category": "objects",
         "name": "pill",
         "unicode": "1f48a"
-    },
-    ":pinching_hand:": {
-        "category": "people",
-        "name": "pinching hand",
-        "unicode": "1f90f"
-    },
-    ":pinching_hand_tone1:": {
-        "category": "people",
-        "name": "pinching hand: light skin tone",
-        "unicode": "1f90f-1f3fb"
-    },
-    ":pinching_hand_tone2:": {
-        "category": "people",
-        "name": "pinching hand: medium-light skin tone",
-        "unicode": "1f90f-1f3fc"
-    },
-    ":pinching_hand_tone3:": {
-        "category": "people",
-        "name": "pinching hand: medium skin tone",
-        "unicode": "1f90f-1f3fd"
-    },
-    ":pinching_hand_tone4:": {
-        "category": "people",
-        "name": "pinching hand: medium-dark skin tone",
-        "unicode": "1f90f-1f3fe"
-    },
-    ":pinching_hand_tone5:": {
-        "category": "people",
-        "name": "pinching hand: dark skin tone",
-        "unicode": "1f90f-1f3ff"
     },
     ":pineapple:": {
         "category": "food",
@@ -10119,11 +8978,6 @@ emoji = {
         "category": "symbols",
         "name": "play or pause button",
         "unicode": "23ef"
-    },
-    ":pleading_face:": {
-        "category": "people",
-        "name": "pleading face",
-        "unicode": "1f97a"
     },
     ":point_down:": {
         "category": "people",
@@ -10367,7 +9221,7 @@ emoji = {
     },
     ":pouting_cat:": {
         "category": "people",
-        "name": "pouting cat",
+        "name": "pouting cat face",
         "unicode": "1f63e"
     },
     ":pray:": {
@@ -10505,11 +9359,6 @@ emoji = {
         "name": "printer",
         "unicode": "1f5a8"
     },
-    ":probing_cane:": {
-        "category": "objects",
-        "name": "probing cane",
-        "unicode": "1f9af"
-    },
     ":projector:": {
         "category": "objects",
         "name": "film projector",
@@ -10545,20 +9394,10 @@ emoji = {
         "name": "oncoming fist: dark skin tone",
         "unicode": "1f44a-1f3ff"
     },
-    ":purple_circle:": {
-        "category": "symbols",
-        "name": "purple circle",
-        "unicode": "1f7e3"
-    },
     ":purple_heart:": {
         "category": "symbols",
         "name": "purple heart",
         "unicode": "1f49c"
-    },
-    ":purple_square:": {
-        "category": "symbols",
-        "name": "purple square",
-        "unicode": "1f7ea"
     },
     ":purse:": {
         "category": "people",
@@ -10589,11 +9428,6 @@ emoji = {
         "category": "nature",
         "name": "rabbit face",
         "unicode": "1f430"
-    },
-    ":raccoon:": {
-        "category": "nature",
-        "name": "raccoon",
-        "unicode": "1f99d"
     },
     ":race_car:": {
         "category": "travel",
@@ -10750,16 +9584,6 @@ emoji = {
         "name": "rat",
         "unicode": "1f400"
     },
-    ":razor:": {
-        "category": "objects",
-        "name": "razor",
-        "unicode": "1fa92"
-    },
-    ":receipt:": {
-        "category": "objects",
-        "name": "receipt",
-        "unicode": "1f9fe"
-    },
     ":record_button:": {
         "category": "symbols",
         "name": "record button",
@@ -10779,21 +9603,6 @@ emoji = {
         "category": "symbols",
         "name": "red circle",
         "unicode": "1f534"
-    },
-    ":red_envelope:": {
-        "category": "objects",
-        "name": "red envelope",
-        "unicode": "1f9e7"
-    },
-    ":red_haired:": {
-        "category": "people",
-        "name": "red hair",
-        "unicode": "1f9b0"
-    },
-    ":red_square:": {
-        "category": "symbols",
-        "name": "red square",
-        "unicode": "1f7e5"
     },
     ":regional_indicator_a:": {
         "category": "regional",
@@ -11036,14 +9845,9 @@ emoji = {
         "name": "ring",
         "unicode": "1f48d"
     },
-    ":ringed_planet:": {
-        "category": "nature",
-        "name": "ringed planet",
-        "unicode": "1fa90"
-    },
     ":robot:": {
         "category": "people",
-        "name": "robot",
+        "name": "robot face",
         "unicode": "1f916"
     },
     ":rocket:": {
@@ -11055,11 +9859,6 @@ emoji = {
         "category": "people",
         "name": "rolling on the floor laughing",
         "unicode": "1f923"
-    },
-    ":roll_of_paper:": {
-        "category": "objects",
-        "name": "roll of paper",
-        "unicode": "1f9fb"
     },
     ":roller_coaster:": {
         "category": "travel",
@@ -11111,16 +9910,6 @@ emoji = {
         "name": "Japanese \u201cservice charge\u201d button",
         "unicode": "1f202"
     },
-    ":safety_pin:": {
-        "category": "objects",
-        "name": "safety pin",
-        "unicode": "1f9f7"
-    },
-    ":safety_vest:": {
-        "category": "people",
-        "name": "safety vest",
-        "unicode": "1f9ba"
-    },
     ":sagittarius:": {
         "category": "symbols",
         "name": "Sagittarius",
@@ -11140,11 +9929,6 @@ emoji = {
         "category": "food",
         "name": "green salad",
         "unicode": "1f957"
-    },
-    ":salt:": {
-        "category": "food",
-        "name": "salt",
-        "unicode": "1f9c2"
     },
     ":sandal:": {
         "category": "people",
@@ -11186,11 +9970,6 @@ emoji = {
         "name": "Santa Claus: dark skin tone",
         "unicode": "1f385-1f3ff"
     },
-    ":sari:": {
-        "category": "people",
-        "name": "sari",
-        "unicode": "1f97b"
-    },
     ":satellite:": {
         "category": "objects",
         "name": "satellite antenna",
@@ -11228,7 +10007,7 @@ emoji = {
     },
     ":school_satchel:": {
         "category": "people",
-        "name": "backpack",
+        "name": "school backpack",
         "unicode": "1f392"
     },
     ":scissors:": {
@@ -11248,12 +10027,12 @@ emoji = {
     },
     ":scorpius:": {
         "category": "symbols",
-        "name": "Scorpio",
+        "name": "Scorpius",
         "unicode": "264f"
     },
     ":scotland:": {
         "category": "flags",
-        "name": "flag: Scotland",
+        "name": "Scotland",
         "unicode": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f"
     },
     ":scream:": {
@@ -11263,7 +10042,7 @@ emoji = {
     },
     ":scream_cat:": {
         "category": "people",
-        "name": "weary cat",
+        "name": "weary cat face",
         "unicode": "1f640"
     },
     ":scroll:": {
@@ -11325,11 +10104,6 @@ emoji = {
         "category": "people",
         "name": "selfie: dark skin tone",
         "unicode": "1f933-1f3ff"
-    },
-    ":service_dog:": {
-        "category": "nature",
-        "name": "service dog",
-        "unicode": "1f415-200d-1f9ba"
     },
     ":seven:": {
         "category": "symbols",
@@ -11402,11 +10176,6 @@ emoji = {
         "name": "shopping cart",
         "unicode": "1f6d2"
     },
-    ":shorts:": {
-        "category": "people",
-        "name": "shorts",
-        "unicode": "1fa73"
-    },
     ":shower:": {
         "category": "objects",
         "name": "shower",
@@ -11437,11 +10206,6 @@ emoji = {
         "category": "symbols",
         "name": "dotted six-pointed star",
         "unicode": "1f52f"
-    },
-    ":skateboard:": {
-        "category": "activity",
-        "name": "skateboard",
-        "unicode": "1f6f9"
     },
     ":ski:": {
         "category": "activity",
@@ -11488,11 +10252,6 @@ emoji = {
         "name": "skull and crossbones",
         "unicode": "2620"
     },
-    ":skunk:": {
-        "category": "nature",
-        "name": "skunk",
-        "unicode": "1f9a8"
-    },
     ":sled:": {
         "category": "activity",
         "name": "sled",
@@ -11528,11 +10287,6 @@ emoji = {
         "name": "slot machine",
         "unicode": "1f3b0"
     },
-    ":sloth:": {
-        "category": "nature",
-        "name": "sloth",
-        "unicode": "1f9a5"
-    },
     ":small_blue_diamond:": {
         "category": "symbols",
         "name": "small blue diamond",
@@ -11555,28 +10309,23 @@ emoji = {
     },
     ":smile:": {
         "category": "people",
-        "name": "grinning face with smiling eyes",
+        "name": "smiling face with open mouth & smiling eyes",
         "unicode": "1f604"
     },
     ":smile_cat:": {
         "category": "people",
-        "name": "grinning cat with smiling eyes",
+        "name": "grinning cat face with smiling eyes",
         "unicode": "1f638"
     },
     ":smiley:": {
         "category": "people",
-        "name": "grinning face with big eyes",
+        "name": "smiling face with open mouth",
         "unicode": "1f603"
     },
     ":smiley_cat:": {
         "category": "people",
-        "name": "grinning cat",
+        "name": "smiling cat face with open mouth",
         "unicode": "1f63a"
-    },
-    ":smiling_face_with_3_hearts:": {
-        "category": "people",
-        "name": "smiling face with hearts",
-        "unicode": "1f970"
     },
     ":smiling_imp:": {
         "category": "people",
@@ -11590,7 +10339,7 @@ emoji = {
     },
     ":smirk_cat:": {
         "category": "people",
-        "name": "cat with wry smile",
+        "name": "cat face with wry smile",
         "unicode": "1f63c"
     },
     ":smoking:": {
@@ -11658,11 +10407,6 @@ emoji = {
         "name": "snowman without snow",
         "unicode": "26c4"
     },
-    ":soap:": {
-        "category": "objects",
-        "name": "soap",
-        "unicode": "1f9fc"
-    },
     ":sob:": {
         "category": "people",
         "name": "loudly crying face",
@@ -11677,11 +10421,6 @@ emoji = {
         "category": "people",
         "name": "socks",
         "unicode": "1f9e6"
-    },
-    ":softball:": {
-        "category": "activity",
-        "name": "softball",
-        "unicode": "1f94e"
     },
     ":soon:": {
         "category": "symbols",
@@ -11773,20 +10512,10 @@ emoji = {
         "name": "spider web",
         "unicode": "1f578"
     },
-    ":sponge:": {
-        "category": "objects",
-        "name": "sponge",
-        "unicode": "1f9fd"
-    },
     ":spoon:": {
         "category": "food",
         "name": "spoon",
         "unicode": "1f944"
-    },
-    ":squeeze_bottle:": {
-        "category": "objects",
-        "name": "lotion bottle",
-        "unicode": "1f9f4"
     },
     ":squid:": {
         "category": "nature",
@@ -11805,7 +10534,7 @@ emoji = {
     },
     ":star:": {
         "category": "nature",
-        "name": "star",
+        "name": "white medium star",
         "unicode": "2b50"
     },
     ":star_and_crescent:": {
@@ -11843,11 +10572,6 @@ emoji = {
         "name": "locomotive",
         "unicode": "1f682"
     },
-    ":stethoscope:": {
-        "category": "objects",
-        "name": "stethoscope",
-        "unicode": "1fa7a"
-    },
     ":stew:": {
         "category": "food",
         "name": "pot of food",
@@ -11875,17 +10599,17 @@ emoji = {
     },
     ":stuck_out_tongue:": {
         "category": "people",
-        "name": "face with tongue",
+        "name": "face with stuck-out tongue",
         "unicode": "1f61b"
     },
     ":stuck_out_tongue_closed_eyes:": {
         "category": "people",
-        "name": "squinting face with tongue",
+        "name": "face with stuck-out tongue & closed eyes",
         "unicode": "1f61d"
     },
     ":stuck_out_tongue_winking_eye:": {
         "category": "people",
-        "name": "winking face with tongue",
+        "name": "face with stuck-out tongue & winking eye",
         "unicode": "1f61c"
     },
     ":stuffed_flatbread:": {
@@ -11923,66 +10647,6 @@ emoji = {
         "name": "sunrise over mountains",
         "unicode": "1f304"
     },
-    ":superhero:": {
-        "category": "people",
-        "name": "superhero",
-        "unicode": "1f9b8"
-    },
-    ":superhero_tone1:": {
-        "category": "people",
-        "name": "superhero: light skin tone",
-        "unicode": "1f9b8-1f3fb"
-    },
-    ":superhero_tone2:": {
-        "category": "people",
-        "name": "superhero: medium-light skin tone",
-        "unicode": "1f9b8-1f3fc"
-    },
-    ":superhero_tone3:": {
-        "category": "people",
-        "name": "superhero: medium skin tone",
-        "unicode": "1f9b8-1f3fd"
-    },
-    ":superhero_tone4:": {
-        "category": "people",
-        "name": "superhero: medium-dark skin tone",
-        "unicode": "1f9b8-1f3fe"
-    },
-    ":superhero_tone5:": {
-        "category": "people",
-        "name": "superhero: dark skin tone",
-        "unicode": "1f9b8-1f3ff"
-    },
-    ":supervillain:": {
-        "category": "people",
-        "name": "supervillain",
-        "unicode": "1f9b9"
-    },
-    ":supervillain_tone1:": {
-        "category": "people",
-        "name": "supervillain: light skin tone",
-        "unicode": "1f9b9-1f3fb"
-    },
-    ":supervillain_tone2:": {
-        "category": "people",
-        "name": "supervillain: medium-light skin tone",
-        "unicode": "1f9b9-1f3fc"
-    },
-    ":supervillain_tone3:": {
-        "category": "people",
-        "name": "supervillain: medium skin tone",
-        "unicode": "1f9b9-1f3fd"
-    },
-    ":supervillain_tone4:": {
-        "category": "people",
-        "name": "supervillain: medium-dark skin tone",
-        "unicode": "1f9b9-1f3fe"
-    },
-    ":supervillain_tone5:": {
-        "category": "people",
-        "name": "supervillain: dark skin tone",
-        "unicode": "1f9b9-1f3ff"
-    },
     ":sushi:": {
         "category": "food",
         "name": "sushi",
@@ -11993,14 +10657,9 @@ emoji = {
         "name": "suspension railway",
         "unicode": "1f69f"
     },
-    ":swan:": {
-        "category": "nature",
-        "name": "swan",
-        "unicode": "1f9a2"
-    },
     ":sweat:": {
         "category": "people",
-        "name": "downcast face with sweat",
+        "name": "face with cold sweat",
         "unicode": "1f613"
     },
     ":sweat_drops:": {
@@ -12010,7 +10669,7 @@ emoji = {
     },
     ":sweat_smile:": {
         "category": "people",
-        "name": "grinning face with sweat",
+        "name": "smiling face with open mouth & cold sweat",
         "unicode": "1f605"
     },
     ":sweet_potato:": {
@@ -12078,11 +10737,6 @@ emoji = {
         "name": "teacup without handle",
         "unicode": "1f375"
     },
-    ":teddy_bear:": {
-        "category": "objects",
-        "name": "teddy bear",
-        "unicode": "1f9f8"
-    },
     ":telephone:": {
         "category": "objects",
         "name": "telephone",
@@ -12108,11 +10762,6 @@ emoji = {
         "name": "tent",
         "unicode": "26fa"
     },
-    ":test_tube:": {
-        "category": "objects",
-        "name": "test tube",
-        "unicode": "1f9ea"
-    },
     ":thermometer:": {
         "category": "objects",
         "name": "thermometer",
@@ -12137,11 +10786,6 @@ emoji = {
         "category": "symbols",
         "name": "thought balloon",
         "unicode": "1f4ad"
-    },
-    ":thread:": {
-        "category": "people",
-        "name": "thread",
-        "unicode": "1f9f5"
     },
     ":three:": {
         "category": "symbols",
@@ -12294,20 +10938,10 @@ emoji = {
         "name": "tongue",
         "unicode": "1f445"
     },
-    ":toolbox:": {
-        "category": "objects",
-        "name": "toolbox",
-        "unicode": "1f9f0"
-    },
     ":tools:": {
         "category": "objects",
         "name": "hammer and wrench",
         "unicode": "1f6e0"
-    },
-    ":tooth:": {
-        "category": "people",
-        "name": "tooth",
-        "unicode": "1f9b7"
     },
     ":top:": {
         "category": "symbols",
@@ -12358,11 +10992,6 @@ emoji = {
         "category": "travel",
         "name": "tram",
         "unicode": "1f68a"
-    },
-    ":transgender_flag:": {
-        "category": "flags",
-        "name": "transgender flag",
-        "unicode": "1f3f3-fe0f-200d-26a7-fe0f"
     },
     ":triangular_flag_on_post:": {
         "category": "flags",
@@ -12457,12 +11086,12 @@ emoji = {
     },
     ":two_men_holding_hands:": {
         "category": "people",
-        "name": "men holding hands",
+        "name": "two men holding hands",
         "unicode": "1f46c"
     },
     ":two_women_holding_hands:": {
         "category": "people",
-        "name": "women holding hands",
+        "name": "two women holding hands",
         "unicode": "1f46d"
     },
     ":u5272:": {
@@ -12521,7 +11150,7 @@ emoji = {
         "unicode": "1f233"
     },
     ":umbrella2:": {
-        "category": "nature",
+        "category": "people",
         "name": "umbrella",
         "unicode": "2602"
     },
@@ -12542,12 +11171,12 @@ emoji = {
     },
     ":unicorn:": {
         "category": "nature",
-        "name": "unicorn",
+        "name": "unicorn face",
         "unicode": "1f984"
     },
     ":united_nations:": {
         "category": "flags",
-        "name": "flag: United Nations",
+        "name": "United Nations",
         "unicode": "1f1fa-1f1f3"
     },
     ":unlock:": {
@@ -12710,14 +11339,9 @@ emoji = {
         "name": "vulcan salute: dark skin tone",
         "unicode": "1f596-1f3ff"
     },
-    ":waffle:": {
-        "category": "food",
-        "name": "waffle",
-        "unicode": "1f9c7"
-    },
     ":wales:": {
         "category": "flags",
-        "name": "flag: Wales",
+        "name": "Wales",
         "unicode": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
     },
     ":waning_crescent_moon:": {
@@ -12837,7 +11461,7 @@ emoji = {
     },
     ":white_check_mark:": {
         "category": "symbols",
-        "name": "check mark button",
+        "name": "white heavy check mark",
         "unicode": "2705"
     },
     ":white_circle:": {
@@ -12849,16 +11473,6 @@ emoji = {
         "category": "symbols",
         "name": "white flower",
         "unicode": "1f4ae"
-    },
-    ":white_haired:": {
-        "category": "people",
-        "name": "white hair",
-        "unicode": "1f9b3"
-    },
-    ":white_heart:": {
-        "category": "symbols",
-        "name": "white heart",
-        "unicode": "1f90d"
     },
     ":white_large_square:": {
         "category": "symbols",
@@ -12927,138 +11541,13 @@ emoji = {
     },
     ":wolf:": {
         "category": "nature",
-        "name": "wolf",
+        "name": "wolf face",
         "unicode": "1f43a"
     },
     ":woman:": {
         "category": "people",
         "name": "woman",
         "unicode": "1f469"
-    },
-    ":woman_and_man_holding_hands_tone1:": {
-        "category": "people",
-        "name": "woman and man holding hands: light skin tone",
-        "unicode": "1f46b-1f3fb"
-    },
-    ":woman_and_man_holding_hands_tone1_tone2:": {
-        "category": "people",
-        "name": "woman and man holding hands: light skin tone, medium light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":woman_and_man_holding_hands_tone1_tone3:": {
-        "category": "people",
-        "name": "woman and man holding hands: light skin tone, medium skin tone",
-        "unicode": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":woman_and_man_holding_hands_tone1_tone4:": {
-        "category": "people",
-        "name": "woman and man holding hands: light skin tone, medium dark skin tone",
-        "unicode": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe"
-    },
-    ":woman_and_man_holding_hands_tone1_tone5:": {
-        "category": "people",
-        "name": "woman and man holding hands: light skin tone, dark skin tone",
-        "unicode": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff"
-    },
-    ":woman_and_man_holding_hands_tone2:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium-light skin tone",
-        "unicode": "1f46b-1f3fc"
-    },
-    ":woman_and_man_holding_hands_tone2_tone1:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium light skin tone, light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":woman_and_man_holding_hands_tone2_tone3:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium light skin tone, medium skin tone",
-        "unicode": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":woman_and_man_holding_hands_tone2_tone4:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium light skin tone, medium dark skin tone",
-        "unicode": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe"
-    },
-    ":woman_and_man_holding_hands_tone2_tone5:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium light skin tone, dark skin tone",
-        "unicode": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff"
-    },
-    ":woman_and_man_holding_hands_tone3:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium skin tone",
-        "unicode": "1f46b-1f3fd"
-    },
-    ":woman_and_man_holding_hands_tone3_tone1:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium skin tone, light skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":woman_and_man_holding_hands_tone3_tone2:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium skin tone, medium light skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":woman_and_man_holding_hands_tone3_tone4:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium skin tone, medium dark skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe"
-    },
-    ":woman_and_man_holding_hands_tone3_tone5:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium skin tone, dark skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff"
-    },
-    ":woman_and_man_holding_hands_tone4:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium-dark skin tone",
-        "unicode": "1f46b-1f3fe"
-    },
-    ":woman_and_man_holding_hands_tone4_tone1:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium dark skin tone, light skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":woman_and_man_holding_hands_tone4_tone2:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium dark skin tone, medium light skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":woman_and_man_holding_hands_tone4_tone3:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium dark skin tone, medium skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":woman_and_man_holding_hands_tone4_tone5:": {
-        "category": "people",
-        "name": "woman and man holding hands: medium dark skin tone, dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff"
-    },
-    ":woman_and_man_holding_hands_tone5:": {
-        "category": "people",
-        "name": "woman and man holding hands: dark skin tone",
-        "unicode": "1f46b-1f3ff"
-    },
-    ":woman_and_man_holding_hands_tone5_tone1:": {
-        "category": "people",
-        "name": "woman and man holding hands: dark skin tone, light skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb"
-    },
-    ":woman_and_man_holding_hands_tone5_tone2:": {
-        "category": "people",
-        "name": "woman and man holding hands: dark skin tone, medium light skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc"
-    },
-    ":woman_and_man_holding_hands_tone5_tone3:": {
-        "category": "people",
-        "name": "woman and man holding hands: dark skin tone, medium skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd"
-    },
-    ":woman_and_man_holding_hands_tone5_tone4:": {
-        "category": "people",
-        "name": "woman and man holding hands: dark skin tone, medium dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe"
     },
     ":woman_artist:": {
         "category": "people",
@@ -13119,36 +11608,6 @@ emoji = {
         "category": "people",
         "name": "woman astronaut: dark skin tone",
         "unicode": "1f469-1f3ff-200d-1f680"
-    },
-    ":woman_bald:": {
-        "category": "people",
-        "name": "woman: bald",
-        "unicode": "1f469-200d-1f9b2"
-    },
-    ":woman_bald_tone1:": {
-        "category": "people",
-        "name": "woman, bald: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9b2"
-    },
-    ":woman_bald_tone2:": {
-        "category": "people",
-        "name": "woman, bald: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9b2"
-    },
-    ":woman_bald_tone3:": {
-        "category": "people",
-        "name": "woman, bald: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9b2"
-    },
-    ":woman_bald_tone4:": {
-        "category": "people",
-        "name": "woman, bald: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9b2"
-    },
-    ":woman_bald_tone5:": {
-        "category": "people",
-        "name": "woman, bald: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9b2"
     },
     ":woman_biking:": {
         "category": "activity",
@@ -13359,36 +11818,6 @@ emoji = {
         "category": "people",
         "name": "woman cook: dark skin tone",
         "unicode": "1f469-1f3ff-200d-1f373"
-    },
-    ":woman_curly_haired:": {
-        "category": "people",
-        "name": "woman: curly hair",
-        "unicode": "1f469-200d-1f9b1"
-    },
-    ":woman_curly_haired_tone1:": {
-        "category": "people",
-        "name": "woman, curly haired: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9b1"
-    },
-    ":woman_curly_haired_tone2:": {
-        "category": "people",
-        "name": "woman, curly haired: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9b1"
-    },
-    ":woman_curly_haired_tone3:": {
-        "category": "people",
-        "name": "woman, curly haired: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9b1"
-    },
-    ":woman_curly_haired_tone4:": {
-        "category": "people",
-        "name": "woman, curly haired: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9b1"
-    },
-    ":woman_curly_haired_tone5:": {
-        "category": "people",
-        "name": "woman, curly haired: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9b1"
     },
     ":woman_detective:": {
         "category": "people",
@@ -13845,6 +12274,31 @@ emoji = {
         "name": "woman health worker: dark skin tone",
         "unicode": "1f469-1f3ff-200d-2695-fe0f"
     },
+    ":woman_in_business_suit_levitating_tone1:": {
+        "category": "people",
+        "name": "woman in business suit levitating: light skin tone",
+        "unicode": "1f574-1f3fb-200d-2640-fe0f"
+    },
+    ":woman_in_business_suit_levitating_tone2:": {
+        "category": "people",
+        "name": "woman in business suit levitating: medium-light skin tone",
+        "unicode": "1f574-1f3fc-200d-2640-fe0f"
+    },
+    ":woman_in_business_suit_levitating_tone3:": {
+        "category": "people",
+        "name": "woman in business suit levitating: medium skin tone",
+        "unicode": "1f574-1f3fd-200d-2640-fe0f"
+    },
+    ":woman_in_business_suit_levitating_tone4:": {
+        "category": "people",
+        "name": "woman in business suit levitating: medium-dark skin tone",
+        "unicode": "1f574-1f3fe-200d-2640-fe0f"
+    },
+    ":woman_in_business_suit_levitating_tone5:": {
+        "category": "people",
+        "name": "woman in business suit levitating: dark skin tone",
+        "unicode": "1f574-1f3ff-200d-2640-fe0f"
+    },
     ":woman_in_lotus_position:": {
         "category": "activity",
         "name": "woman in lotus position",
@@ -13875,93 +12329,33 @@ emoji = {
         "name": "woman in lotus position: dark skin tone",
         "unicode": "1f9d8-1f3ff-200d-2640-fe0f"
     },
-    ":woman_in_manual_wheelchair:": {
-        "category": "people",
-        "name": "woman in manual wheelchair",
-        "unicode": "1f469-200d-1f9bd"
-    },
-    ":woman_in_manual_wheelchair_tone1:": {
-        "category": "people",
-        "name": "woman in manual wheelchair: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9bd"
-    },
-    ":woman_in_manual_wheelchair_tone2:": {
-        "category": "people",
-        "name": "woman in manual wheelchair: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9bd"
-    },
-    ":woman_in_manual_wheelchair_tone3:": {
-        "category": "people",
-        "name": "woman in manual wheelchair: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9bd"
-    },
-    ":woman_in_manual_wheelchair_tone4:": {
-        "category": "people",
-        "name": "woman in manual wheelchair: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9bd"
-    },
-    ":woman_in_manual_wheelchair_tone5:": {
-        "category": "people",
-        "name": "woman in manual wheelchair: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9bd"
-    },
-    ":woman_in_motorized_wheelchair:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair",
-        "unicode": "1f469-200d-1f9bc"
-    },
-    ":woman_in_motorized_wheelchair_tone1:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9bc"
-    },
-    ":woman_in_motorized_wheelchair_tone2:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9bc"
-    },
-    ":woman_in_motorized_wheelchair_tone3:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9bc"
-    },
-    ":woman_in_motorized_wheelchair_tone4:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9bc"
-    },
-    ":woman_in_motorized_wheelchair_tone5:": {
-        "category": "people",
-        "name": "woman in motorized wheelchair: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9bc"
-    },
     ":woman_in_steamy_room:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room",
         "unicode": "1f9d6-200d-2640-fe0f"
     },
     ":woman_in_steamy_room_tone1:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room: light skin tone",
         "unicode": "1f9d6-1f3fb-200d-2640-fe0f"
     },
     ":woman_in_steamy_room_tone2:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room: medium-light skin tone",
         "unicode": "1f9d6-1f3fc-200d-2640-fe0f"
     },
     ":woman_in_steamy_room_tone3:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room: medium skin tone",
         "unicode": "1f9d6-1f3fd-200d-2640-fe0f"
     },
     ":woman_in_steamy_room_tone4:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room: medium-dark skin tone",
         "unicode": "1f9d6-1f3fe-200d-2640-fe0f"
     },
     ":woman_in_steamy_room_tone5:": {
-        "category": "people",
+        "category": "activity",
         "name": "woman in steamy room: dark skin tone",
         "unicode": "1f9d6-1f3ff-200d-2640-fe0f"
     },
@@ -14055,65 +12449,10 @@ emoji = {
         "name": "woman juggling: dark skin tone",
         "unicode": "1f939-1f3ff-200d-2640-fe0f"
     },
-    ":woman_kneeling:": {
-        "category": "people",
-        "name": "woman kneeling",
-        "unicode": "1f9ce-200d-2640-fe0f"
-    },
-    ":woman_kneeling_tone1:": {
-        "category": "people",
-        "name": "woman kneeling: light skin tone",
-        "unicode": "1f9ce-1f3fb-200d-2640-fe0f"
-    },
-    ":woman_kneeling_tone2:": {
-        "category": "people",
-        "name": "woman kneeling: medium-light skin tone",
-        "unicode": "1f9ce-1f3fc-200d-2640-fe0f"
-    },
-    ":woman_kneeling_tone3:": {
-        "category": "people",
-        "name": "woman kneeling: medium skin tone",
-        "unicode": "1f9ce-1f3fd-200d-2640-fe0f"
-    },
-    ":woman_kneeling_tone4:": {
-        "category": "people",
-        "name": "woman kneeling: medium-dark skin tone",
-        "unicode": "1f9ce-1f3fe-200d-2640-fe0f"
-    },
-    ":woman_kneeling_tone5:": {
-        "category": "people",
-        "name": "woman kneeling: dark skin tone",
-        "unicode": "1f9ce-1f3ff-200d-2640-fe0f"
-    },
-    ":woman_leviate_tone2:": {
-        "category": "people",
-        "name": "woman in business suit levitating: medium-light skin tone",
-        "unicode": "1f574-1f3fc-200d-2640-fe0f"
-    },
-    ":woman_leviate_tone3:": {
-        "category": "people",
-        "name": "woman in business suit levitating: medium skin tone",
-        "unicode": "1f574-1f3fd-200d-2640-fe0f"
-    },
-    ":woman_leviate_tone4:": {
-        "category": "people",
-        "name": "woman in business suit levitating: medium-dark skin tone",
-        "unicode": "1f574-1f3fe-200d-2640-fe0f"
-    },
-    ":woman_leviate_tone5:": {
-        "category": "people",
-        "name": "woman in business suit levitating: dark skin tone",
-        "unicode": "1f574-1f3ff-200d-2640-fe0f"
-    },
     ":woman_levitate:": {
         "category": "people",
         "name": "woman in business suit levitating",
         "unicode": "1f574-fe0f-200d-2640-fe0f"
-    },
-    ":woman_levitate_tone1:": {
-        "category": "people",
-        "name": "woman in business suit levitating: light skin tone",
-        "unicode": "1f574-1f3fb-200d-2640-fe0f"
     },
     ":woman_lifting_weights:": {
         "category": "activity",
@@ -14445,36 +12784,6 @@ emoji = {
         "name": "woman raising hand: dark skin tone",
         "unicode": "1f64b-1f3ff-200d-2640-fe0f"
     },
-    ":woman_red_haired:": {
-        "category": "people",
-        "name": "woman: red hair",
-        "unicode": "1f469-200d-1f9b0"
-    },
-    ":woman_red_haired_tone1:": {
-        "category": "people",
-        "name": "woman, red haired: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9b0"
-    },
-    ":woman_red_haired_tone2:": {
-        "category": "people",
-        "name": "woman, red haired: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9b0"
-    },
-    ":woman_red_haired_tone3:": {
-        "category": "people",
-        "name": "woman, red haired: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9b0"
-    },
-    ":woman_red_haired_tone4:": {
-        "category": "people",
-        "name": "woman, red haired: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9b0"
-    },
-    ":woman_red_haired_tone5:": {
-        "category": "people",
-        "name": "woman, red haired: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9b0"
-    },
     ":woman_rowing_boat:": {
         "category": "activity",
         "name": "woman rowing boat",
@@ -14625,36 +12934,6 @@ emoji = {
         "name": "woman singer: dark skin tone",
         "unicode": "1f469-1f3ff-200d-1f3a4"
     },
-    ":woman_standing:": {
-        "category": "people",
-        "name": "woman standing",
-        "unicode": "1f9cd-200d-2640-fe0f"
-    },
-    ":woman_standing_tone1:": {
-        "category": "people",
-        "name": "woman standing: light skin tone",
-        "unicode": "1f9cd-1f3fb-200d-2640-fe0f"
-    },
-    ":woman_standing_tone2:": {
-        "category": "people",
-        "name": "woman standing: medium-light skin tone",
-        "unicode": "1f9cd-1f3fc-200d-2640-fe0f"
-    },
-    ":woman_standing_tone3:": {
-        "category": "people",
-        "name": "woman standing: medium skin tone",
-        "unicode": "1f9cd-1f3fd-200d-2640-fe0f"
-    },
-    ":woman_standing_tone4:": {
-        "category": "people",
-        "name": "woman standing: medium-dark skin tone",
-        "unicode": "1f9cd-1f3fe-200d-2640-fe0f"
-    },
-    ":woman_standing_tone5:": {
-        "category": "people",
-        "name": "woman standing: dark skin tone",
-        "unicode": "1f9cd-1f3ff-200d-2640-fe0f"
-    },
     ":woman_student:": {
         "category": "people",
         "name": "woman student",
@@ -14684,66 +12963,6 @@ emoji = {
         "category": "people",
         "name": "woman student: dark skin tone",
         "unicode": "1f469-1f3ff-200d-1f393"
-    },
-    ":woman_superhero:": {
-        "category": "people",
-        "name": "woman superhero",
-        "unicode": "1f9b8-200d-2640-fe0f"
-    },
-    ":woman_superhero_tone1:": {
-        "category": "people",
-        "name": "woman superhero: light skin tone",
-        "unicode": "1f9b8-1f3fb-200d-2640-fe0f"
-    },
-    ":woman_superhero_tone2:": {
-        "category": "people",
-        "name": "woman superhero: medium-light skin tone",
-        "unicode": "1f9b8-1f3fc-200d-2640-fe0f"
-    },
-    ":woman_superhero_tone3:": {
-        "category": "people",
-        "name": "woman superhero: medium skin tone",
-        "unicode": "1f9b8-1f3fd-200d-2640-fe0f"
-    },
-    ":woman_superhero_tone4:": {
-        "category": "people",
-        "name": "woman superhero: medium-dark skin tone",
-        "unicode": "1f9b8-1f3fe-200d-2640-fe0f"
-    },
-    ":woman_superhero_tone5:": {
-        "category": "people",
-        "name": "woman superhero: dark skin tone",
-        "unicode": "1f9b8-1f3ff-200d-2640-fe0f"
-    },
-    ":woman_supervillain:": {
-        "category": "people",
-        "name": "woman supervillain",
-        "unicode": "1f9b9-200d-2640-fe0f"
-    },
-    ":woman_supervillain_tone1:": {
-        "category": "people",
-        "name": "woman supervillain: light skin tone",
-        "unicode": "1f9b9-1f3fb-200d-2640-fe0f"
-    },
-    ":woman_supervillain_tone2:": {
-        "category": "people",
-        "name": "woman supervillain: medium-light skin tone",
-        "unicode": "1f9b9-1f3fc-200d-2640-fe0f"
-    },
-    ":woman_supervillain_tone3:": {
-        "category": "people",
-        "name": "woman supervillain: medium skin tone",
-        "unicode": "1f9b9-1f3fd-200d-2640-fe0f"
-    },
-    ":woman_supervillain_tone4:": {
-        "category": "people",
-        "name": "woman supervillain: medium-dark skin tone",
-        "unicode": "1f9b9-1f3fe-200d-2640-fe0f"
-    },
-    ":woman_supervillain_tone5:": {
-        "category": "people",
-        "name": "woman supervillain: dark skin tone",
-        "unicode": "1f9b9-1f3ff-200d-2640-fe0f"
     },
     ":woman_surfing:": {
         "category": "activity",
@@ -15010,36 +13229,6 @@ emoji = {
         "name": "woman wearing turban: dark skin tone",
         "unicode": "1f473-1f3ff-200d-2640-fe0f"
     },
-    ":woman_white_haired:": {
-        "category": "people",
-        "name": "woman: white hair",
-        "unicode": "1f469-200d-1f9b3"
-    },
-    ":woman_white_haired_tone1:": {
-        "category": "people",
-        "name": "woman, white haired: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9b3"
-    },
-    ":woman_white_haired_tone2:": {
-        "category": "people",
-        "name": "woman, white haired: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9b3"
-    },
-    ":woman_white_haired_tone3:": {
-        "category": "people",
-        "name": "woman, white haired: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9b3"
-    },
-    ":woman_white_haired_tone4:": {
-        "category": "people",
-        "name": "woman, white haired: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9b3"
-    },
-    ":woman_white_haired_tone5:": {
-        "category": "people",
-        "name": "woman, white haired: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9b3"
-    },
     ":woman_with_headscarf:": {
         "category": "people",
         "name": "woman with headscarf",
@@ -15070,36 +13259,6 @@ emoji = {
         "name": "woman with headscarf: dark skin tone",
         "unicode": "1f9d5-1f3ff"
     },
-    ":woman_with_probing_cane:": {
-        "category": "people",
-        "name": "woman with probing cane",
-        "unicode": "1f469-200d-1f9af"
-    },
-    ":woman_with_probing_cane_tone1:": {
-        "category": "people",
-        "name": "woman with probing cane: light skin tone",
-        "unicode": "1f469-1f3fb-200d-1f9af"
-    },
-    ":woman_with_probing_cane_tone2:": {
-        "category": "people",
-        "name": "woman with probing cane: medium-light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f9af"
-    },
-    ":woman_with_probing_cane_tone3:": {
-        "category": "people",
-        "name": "woman with probing cane: medium skin tone",
-        "unicode": "1f469-1f3fd-200d-1f9af"
-    },
-    ":woman_with_probing_cane_tone4:": {
-        "category": "people",
-        "name": "woman with probing cane: medium-dark skin tone",
-        "unicode": "1f469-1f3fe-200d-1f9af"
-    },
-    ":woman_with_probing_cane_tone5:": {
-        "category": "people",
-        "name": "woman with probing cane: dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f9af"
-    },
     ":woman_zombie:": {
         "category": "people",
         "name": "woman zombie",
@@ -15110,94 +13269,14 @@ emoji = {
         "name": "woman\u2019s clothes",
         "unicode": "1f45a"
     },
-    ":womans_flat_shoe:": {
-        "category": "people",
-        "name": "flat shoe",
-        "unicode": "1f97f"
-    },
     ":womans_hat:": {
         "category": "people",
         "name": "woman\u2019s hat",
         "unicode": "1f452"
     },
-    ":women_holding_hands_tone1:": {
-        "category": "people",
-        "name": "women holding hands: light skin tone",
-        "unicode": "1f46d-1f3fb"
-    },
-    ":women_holding_hands_tone2:": {
-        "category": "people",
-        "name": "women holding hands: medium-light skin tone",
-        "unicode": "1f46d-1f3fc"
-    },
-    ":women_holding_hands_tone2_tone1:": {
-        "category": "people",
-        "name": "women holding hands: medium-light skin tone, light skin tone",
-        "unicode": "1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb"
-    },
-    ":women_holding_hands_tone3:": {
-        "category": "people",
-        "name": "women holding hands: medium skin tone",
-        "unicode": "1f46d-1f3fd"
-    },
-    ":women_holding_hands_tone3_tone1:": {
-        "category": "people",
-        "name": "women holding hands: medium skin tone, light skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb"
-    },
-    ":women_holding_hands_tone3_tone2:": {
-        "category": "people",
-        "name": "women holding hands: medium skin tone, medium-light skin tone",
-        "unicode": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc"
-    },
-    ":women_holding_hands_tone4:": {
-        "category": "people",
-        "name": "women holding hands: medium-dark skin tone",
-        "unicode": "1f46d-1f3fe"
-    },
-    ":women_holding_hands_tone4_tone1:": {
-        "category": "people",
-        "name": "women holding hands: medium-dark skin tone, light skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb"
-    },
-    ":women_holding_hands_tone4_tone2:": {
-        "category": "people",
-        "name": "women holding hands: medium dark skin tone, medium light skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc"
-    },
-    ":women_holding_hands_tone4_tone3:": {
-        "category": "people",
-        "name": "women holding hands: medium-dark skin tone, medium skin tone",
-        "unicode": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd"
-    },
-    ":women_holding_hands_tone5:": {
-        "category": "people",
-        "name": "women holding hands: dark skin tone",
-        "unicode": "1f46d-1f3ff"
-    },
-    ":women_holding_hands_tone5_tone1:": {
-        "category": "people",
-        "name": "women holding hands: dark skin tone, light skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb"
-    },
-    ":women_holding_hands_tone5_tone2:": {
-        "category": "people",
-        "name": "women holding hands: dark skin tone, medium-light skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc"
-    },
-    ":women_holding_hands_tone5_tone3:": {
-        "category": "people",
-        "name": "women holding hands: dark skin tone, medium skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd"
-    },
-    ":women_holding_hands_tone5_tone4:": {
-        "category": "people",
-        "name": "women holding hands: dark skin tone, medium-dark skin tone",
-        "unicode": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe"
-    },
     ":women_with_bunny_ears_partying:": {
         "category": "people",
-        "name": "women with bunny ears",
+        "name": "women with bunny ears partying",
         "unicode": "1f46f-200d-2640-fe0f"
     },
     ":women_wrestling:": {
@@ -15209,11 +13288,6 @@ emoji = {
         "category": "symbols",
         "name": "women\u2019s room",
         "unicode": "1f6ba"
-    },
-    ":woozy_face:": {
-        "category": "people",
-        "name": "woozy face",
-        "unicode": "1f974"
     },
     ":worried:": {
         "category": "people",
@@ -15260,30 +13334,10 @@ emoji = {
         "name": "cross mark",
         "unicode": "274c"
     },
-    ":yarn:": {
-        "category": "people",
-        "name": "yarn",
-        "unicode": "1f9f6"
-    },
-    ":yawning_face:": {
-        "category": "people",
-        "name": "yawning face",
-        "unicode": "1f971"
-    },
-    ":yellow_circle:": {
-        "category": "symbols",
-        "name": "yellow circle",
-        "unicode": "1f7e1"
-    },
     ":yellow_heart:": {
         "category": "symbols",
         "name": "yellow heart",
         "unicode": "1f49b"
-    },
-    ":yellow_square:": {
-        "category": "symbols",
-        "name": "yellow square",
-        "unicode": "1f7e8"
     },
     ":yen:": {
         "category": "objects",
@@ -15295,20 +13349,10 @@ emoji = {
         "name": "yin yang",
         "unicode": "262f"
     },
-    ":yo_yo:": {
-        "category": "activity",
-        "name": "yo-yo",
-        "unicode": "1fa80"
-    },
     ":yum:": {
         "category": "people",
-        "name": "face savoring food",
+        "name": "face savouring delicious food",
         "unicode": "1f60b"
-    },
-    ":zany_face:": {
-        "category": "people",
-        "name": "zany face",
-        "unicode": "1f92a"
     },
     ":zap:": {
         "category": "nature",
@@ -15501,6 +13545,8 @@ aliases = {
     ":couch_and_lamp:": ":couch:",
     ":couple_with_heart_mm:": ":couple_mm:",
     ":couple_with_heart_ww:": ":couple_ww:",
+    ":couplekiss_mm:": ":kiss_mm:",
+    ":couplekiss_ww:": ":kiss_ww:",
     ":cp:": ":flag_cp:",
     ":cr:": ":flag_cr:",
     ":cricket_bat_ball:": ":cricket_game:",
@@ -15513,21 +13559,6 @@ aliases = {
     ":dagger_knife:": ":dagger:",
     ":dancers:": ":people_with_bunny_ears_partying:",
     ":de:": ":flag_de:",
-    ":deaf_man_dark_skin_tone:": ":deaf_man_tone5:",
-    ":deaf_man_light_skin_tone:": ":deaf_man_tone1:",
-    ":deaf_man_medium_dark_skin_tone:": ":deaf_man_tone4:",
-    ":deaf_man_medium_light_skin_tone:": ":deaf_man_tone2:",
-    ":deaf_man_medium_skin_tone:": ":deaf_man_tone3:",
-    ":deaf_person_dark_skin_tone:": ":deaf_person_tone5:",
-    ":deaf_person_light_skin_tone:": ":deaf_person_tone1:",
-    ":deaf_person_medium_dark_skin_tone:": ":deaf_person_tone4:",
-    ":deaf_person_medium_light_skin_tone:": ":deaf_person_tone2:",
-    ":deaf_person_medium_skin_tone:": ":deaf_person_tone3:",
-    ":deaf_woman_dark_skin_tone:": ":deaf_woman_tone5:",
-    ":deaf_woman_light_skin_tone:": ":deaf_woman_tone1:",
-    ":deaf_woman_medium_dark_skin_tone:": ":deaf_woman_tone4:",
-    ":deaf_woman_medium_light_skin_tone:": ":deaf_woman_tone2:",
-    ":deaf_woman_medium_skin_tone:": ":deaf_woman_tone3:",
     ":derelict_house_building:": ":house_abandoned:",
     ":desert_island:": ":island:",
     ":desktop_computer:": ":desktop:",
@@ -15542,11 +13573,6 @@ aliases = {
     ":drum_with_drumsticks:": ":drum:",
     ":dz:": ":flag_dz:",
     ":ea:": ":flag_ea:",
-    ":ear_with_hearing_aid_dark_skin_tone:": ":ear_with_hearing_aid_tone5:",
-    ":ear_with_hearing_aid_light_skin_tone:": ":ear_with_hearing_aid_tone1:",
-    ":ear_with_hearing_aid_medium_dark_skin_tone:": ":ear_with_hearing_aid_tone4:",
-    ":ear_with_hearing_aid_medium_light_skin_tone:": ":ear_with_hearing_aid_tone2:",
-    ":ear_with_hearing_aid_medium_skin_tone:": ":ear_with_hearing_aid_tone3:",
     ":ec:": ":flag_ec:",
     ":ee:": ":flag_ee:",
     ":eg:": ":flag_eg:",
@@ -15600,11 +13626,6 @@ aliases = {
     ":flan:": ":custard:",
     ":fm:": ":flag_fm:",
     ":fo:": ":flag_fo:",
-    ":foot_dark_skin_tone:": ":foot_tone5:",
-    ":foot_light_skin_tone:": ":foot_tone1:",
-    ":foot_medium_dark_skin_tone:": ":foot_tone4:",
-    ":foot_medium_light_skin_tone:": ":foot_tone2:",
-    ":foot_medium_skin_tone:": ":foot_tone3:",
     ":fork_and_knife_with_plate:": ":fork_knife_plate:",
     ":fox_face:": ":fox:",
     ":fr:": ":flag_fr:",
@@ -15737,11 +13758,6 @@ aliases = {
     ":left_fist_tone4:": ":left_facing_fist_tone4:",
     ":left_fist_tone5:": ":left_facing_fist_tone5:",
     ":left_speech_bubble:": ":speech_left:",
-    ":leg_dark_skin_tone:": ":leg_tone5:",
-    ":leg_light_skin_tone:": ":leg_tone1:",
-    ":leg_medium_dark_skin_tone:": ":leg_tone4:",
-    ":leg_medium_light_skin_tone:": ":leg_tone2:",
-    ":leg_medium_skin_tone:": ":leg_tone3:",
     ":li:": ":flag_li:",
     ":liar:": ":lying_face:",
     ":lifter:": ":person_lifting_weights:",
@@ -15790,11 +13806,6 @@ aliases = {
     ":man_astronaut_medium_dark_skin_tone:": ":man_astronaut_tone4:",
     ":man_astronaut_medium_light_skin_tone:": ":man_astronaut_tone2:",
     ":man_astronaut_medium_skin_tone:": ":man_astronaut_tone3:",
-    ":man_bald_dark_skin_tone:": ":man_bald_tone5:",
-    ":man_bald_light_skin_tone:": ":man_bald_tone1:",
-    ":man_bald_medium_dark_skin_tone:": ":man_bald_tone4:",
-    ":man_bald_medium_light_skin_tone:": ":man_bald_tone2:",
-    ":man_bald_medium_skin_tone:": ":man_bald_tone3:",
     ":man_biking_dark_skin_tone:": ":man_biking_tone5:",
     ":man_biking_light_skin_tone:": ":man_biking_tone1:",
     ":man_biking_medium_dark_skin_tone:": ":man_biking_tone4:",
@@ -15830,11 +13841,6 @@ aliases = {
     ":man_cook_medium_dark_skin_tone:": ":man_cook_tone4:",
     ":man_cook_medium_light_skin_tone:": ":man_cook_tone2:",
     ":man_cook_medium_skin_tone:": ":man_cook_tone3:",
-    ":man_curly_haired_dark_skin_tone:": ":man_curly_haired_tone5:",
-    ":man_curly_haired_light_skin_tone:": ":man_curly_haired_tone1:",
-    ":man_curly_haired_medium_dark_skin_tone:": ":man_curly_haired_tone4:",
-    ":man_curly_haired_medium_light_skin_tone:": ":man_curly_haired_tone2:",
-    ":man_curly_haired_medium_skin_tone:": ":man_curly_haired_tone3:",
     ":man_detective_dark_skin_tone:": ":man_detective_tone5:",
     ":man_detective_light_skin_tone:": ":man_detective_tone1:",
     ":man_detective_medium_dark_skin_tone:": ":man_detective_tone4:",
@@ -15910,32 +13916,16 @@ aliases = {
     ":man_health_worker_medium_dark_skin_tone:": ":man_health_worker_tone4:",
     ":man_health_worker_medium_light_skin_tone:": ":man_health_worker_tone2:",
     ":man_health_worker_medium_skin_tone:": ":man_health_worker_tone3:",
-    ":man_in_business_suit_levitating:": ":levitate:",
-    ":man_in_business_suit_levitating_dark_skin_tone:": ":levitate_tone5:",
-    ":man_in_business_suit_levitating_light_skin_tone:": ":levitate_tone1:",
-    ":man_in_business_suit_levitating_medium_dark_skin_tone:": ":levitate_tone4:",
-    ":man_in_business_suit_levitating_medium_light_skin_tone:": ":levitate_tone2:",
-    ":man_in_business_suit_levitating_medium_skin_tone:": ":levitate_tone3:",
-    ":man_in_business_suit_levitating_tone1:": ":levitate_tone1:",
-    ":man_in_business_suit_levitating_tone2:": ":levitate_tone2:",
-    ":man_in_business_suit_levitating_tone3:": ":levitate_tone3:",
-    ":man_in_business_suit_levitating_tone4:": ":levitate_tone4:",
-    ":man_in_business_suit_levitating_tone5:": ":levitate_tone5:",
+    ":man_in_business_suit_levitating_dark_skin_tone:": ":man_in_business_suit_levitating_tone5:",
+    ":man_in_business_suit_levitating_light_skin_tone:": ":man_in_business_suit_levitating_tone1:",
+    ":man_in_business_suit_levitating_medium_dark_skin_tone:": ":man_in_business_suit_levitating_tone4:",
+    ":man_in_business_suit_levitating_medium_light_skin_tone:": ":man_in_business_suit_levitating_tone2:",
+    ":man_in_business_suit_levitating_medium_skin_tone:": ":man_in_business_suit_levitating_tone3:",
     ":man_in_lotus_position_dark_skin_tone:": ":man_in_lotus_position_tone5:",
     ":man_in_lotus_position_light_skin_tone:": ":man_in_lotus_position_tone1:",
     ":man_in_lotus_position_medium_dark_skin_tone:": ":man_in_lotus_position_tone4:",
     ":man_in_lotus_position_medium_light_skin_tone:": ":man_in_lotus_position_tone2:",
     ":man_in_lotus_position_medium_skin_tone:": ":man_in_lotus_position_tone3:",
-    ":man_in_manual_wheelchair_dark_skin_tone:": ":man_in_manual_wheelchair_tone5:",
-    ":man_in_manual_wheelchair_light_skin_tone:": ":man_in_manual_wheelchair_tone1:",
-    ":man_in_manual_wheelchair_medium_dark_skin_tone:": ":man_in_manual_wheelchair_tone4:",
-    ":man_in_manual_wheelchair_medium_light_skin_tone:": ":man_in_manual_wheelchair_tone2:",
-    ":man_in_manual_wheelchair_medium_skin_tone:": ":man_in_manual_wheelchair_tone3:",
-    ":man_in_motorized_wheelchair_dark_skin_tone:": ":man_in_motorized_wheelchair_tone5:",
-    ":man_in_motorized_wheelchair_light_skin_tone:": ":man_in_motorized_wheelchair_tone1:",
-    ":man_in_motorized_wheelchair_medium_dark_skin_tone:": ":man_in_motorized_wheelchair_tone4:",
-    ":man_in_motorized_wheelchair_medium_light_skin_tone:": ":man_in_motorized_wheelchair_tone2:",
-    ":man_in_motorized_wheelchair_medium_skin_tone:": ":man_in_motorized_wheelchair_tone3:",
     ":man_in_steamy_room_dark_skin_tone:": ":man_in_steamy_room_tone5:",
     ":man_in_steamy_room_light_skin_tone:": ":man_in_steamy_room_tone1:",
     ":man_in_steamy_room_medium_dark_skin_tone:": ":man_in_steamy_room_tone4:",
@@ -15951,11 +13941,6 @@ aliases = {
     ":man_juggling_medium_dark_skin_tone:": ":man_juggling_tone4:",
     ":man_juggling_medium_light_skin_tone:": ":man_juggling_tone2:",
     ":man_juggling_medium_skin_tone:": ":man_juggling_tone3:",
-    ":man_kneeling_dark_skin_tone:": ":man_kneeling_tone5:",
-    ":man_kneeling_light_skin_tone:": ":man_kneeling_tone1:",
-    ":man_kneeling_medium_dark_skin_tone:": ":man_kneeling_tone4:",
-    ":man_kneeling_medium_light_skin_tone:": ":man_kneeling_tone2:",
-    ":man_kneeling_medium_skin_tone:": ":man_kneeling_tone3:",
     ":man_lifting_weights_dark_skin_tone:": ":man_lifting_weights_tone5:",
     ":man_lifting_weights_light_skin_tone:": ":man_lifting_weights_tone1:",
     ":man_lifting_weights_medium_dark_skin_tone:": ":man_lifting_weights_tone4:",
@@ -16011,11 +13996,6 @@ aliases = {
     ":man_raising_hand_medium_dark_skin_tone:": ":man_raising_hand_tone4:",
     ":man_raising_hand_medium_light_skin_tone:": ":man_raising_hand_tone2:",
     ":man_raising_hand_medium_skin_tone:": ":man_raising_hand_tone3:",
-    ":man_red_haired_dark_skin_tone:": ":man_red_haired_tone5:",
-    ":man_red_haired_light_skin_tone:": ":man_red_haired_tone1:",
-    ":man_red_haired_medium_dark_skin_tone:": ":man_red_haired_tone4:",
-    ":man_red_haired_medium_light_skin_tone:": ":man_red_haired_tone2:",
-    ":man_red_haired_medium_skin_tone:": ":man_red_haired_tone3:",
     ":man_rowing_boat_dark_skin_tone:": ":man_rowing_boat_tone5:",
     ":man_rowing_boat_light_skin_tone:": ":man_rowing_boat_tone1:",
     ":man_rowing_boat_medium_dark_skin_tone:": ":man_rowing_boat_tone4:",
@@ -16041,26 +14021,11 @@ aliases = {
     ":man_singer_medium_dark_skin_tone:": ":man_singer_tone4:",
     ":man_singer_medium_light_skin_tone:": ":man_singer_tone2:",
     ":man_singer_medium_skin_tone:": ":man_singer_tone3:",
-    ":man_standing_dark_skin_tone:": ":man_standing_tone5:",
-    ":man_standing_light_skin_tone:": ":man_standing_tone1:",
-    ":man_standing_medium_dark_skin_tone:": ":man_standing_tone4:",
-    ":man_standing_medium_light_skin_tone:": ":man_standing_tone2:",
-    ":man_standing_medium_skin_tone:": ":man_standing_tone3:",
     ":man_student_dark_skin_tone:": ":man_student_tone5:",
     ":man_student_light_skin_tone:": ":man_student_tone1:",
     ":man_student_medium_dark_skin_tone:": ":man_student_tone4:",
     ":man_student_medium_light_skin_tone:": ":man_student_tone2:",
     ":man_student_medium_skin_tone:": ":man_student_tone3:",
-    ":man_superhero_dark_skin_tone:": ":man_superhero_tone5:",
-    ":man_superhero_light_skin_tone:": ":man_superhero_tone1:",
-    ":man_superhero_medium_dark_skin_tone:": ":man_superhero_tone4:",
-    ":man_superhero_medium_light_skin_tone:": ":man_superhero_tone2:",
-    ":man_superhero_medium_skin_tone:": ":man_superhero_tone3:",
-    ":man_supervillain_dark_skin_tone:": ":man_supervillain_tone5:",
-    ":man_supervillain_light_skin_tone:": ":man_supervillain_tone1:",
-    ":man_supervillain_medium_dark_skin_tone:": ":man_supervillain_tone4:",
-    ":man_supervillain_medium_light_skin_tone:": ":man_supervillain_tone2:",
-    ":man_supervillain_medium_skin_tone:": ":man_supervillain_tone3:",
     ":man_surfing_dark_skin_tone:": ":man_surfing_tone5:",
     ":man_surfing_light_skin_tone:": ":man_surfing_tone1:",
     ":man_surfing_medium_dark_skin_tone:": ":man_surfing_tone4:",
@@ -16101,22 +14066,12 @@ aliases = {
     ":man_wearing_turban_medium_dark_skin_tone:": ":man_wearing_turban_tone4:",
     ":man_wearing_turban_medium_light_skin_tone:": ":man_wearing_turban_tone2:",
     ":man_wearing_turban_medium_skin_tone:": ":man_wearing_turban_tone3:",
-    ":man_white_haired_dark_skin_tone:": ":man_white_haired_tone5:",
-    ":man_white_haired_light_skin_tone:": ":man_white_haired_tone1:",
-    ":man_white_haired_medium_dark_skin_tone:": ":man_white_haired_tone4:",
-    ":man_white_haired_medium_light_skin_tone:": ":man_white_haired_tone2:",
-    ":man_white_haired_medium_skin_tone:": ":man_white_haired_tone3:",
     ":man_with_gua_pi_mao:": ":man_with_chinese_cap:",
     ":man_with_gua_pi_mao_tone1:": ":man_with_chinese_cap_tone1:",
     ":man_with_gua_pi_mao_tone2:": ":man_with_chinese_cap_tone2:",
     ":man_with_gua_pi_mao_tone3:": ":man_with_chinese_cap_tone3:",
     ":man_with_gua_pi_mao_tone4:": ":man_with_chinese_cap_tone4:",
     ":man_with_gua_pi_mao_tone5:": ":man_with_chinese_cap_tone5:",
-    ":man_with_probing_cane_dark_skin_tone:": ":man_with_probing_cane_tone5:",
-    ":man_with_probing_cane_light_skin_tone:": ":man_with_probing_cane_tone1:",
-    ":man_with_probing_cane_medium_dark_skin_tone:": ":man_with_probing_cane_tone4:",
-    ":man_with_probing_cane_medium_light_skin_tone:": ":man_with_probing_cane_tone2:",
-    ":man_with_probing_cane_medium_skin_tone:": ":man_with_probing_cane_tone3:",
     ":man_with_turban:": ":person_wearing_turban:",
     ":man_with_turban_tone1:": ":person_wearing_turban_tone1:",
     ":man_with_turban_tone2:": ":person_wearing_turban_tone2:",
@@ -16134,21 +14089,6 @@ aliases = {
     ":md:": ":flag_md:",
     ":me:": ":flag_me:",
     ":memo:": ":pencil:",
-    ":men_holding_hands_dark_skin_tone:": ":men_holding_hands_tone5:",
-    ":men_holding_hands_dark_skin_tone_light_skin_tone:": ":men_holding_hands_tone5_tone1:",
-    ":men_holding_hands_dark_skin_tone_medium_dark_skin_tone:": ":men_holding_hands_tone5_tone4:",
-    ":men_holding_hands_dark_skin_tone_medium_light_skin_tone:": ":men_holding_hands_tone5_tone2:",
-    ":men_holding_hands_dark_skin_tone_medium_skin_tone:": ":men_holding_hands_tone5_tone3:",
-    ":men_holding_hands_light_skin_tone:": ":men_holding_hands_tone1:",
-    ":men_holding_hands_medium_dark_skin_tone:": ":men_holding_hands_tone4:",
-    ":men_holding_hands_medium_dark_skin_tone_light_skin_tone:": ":men_holding_hands_tone4_tone1:",
-    ":men_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:": ":men_holding_hands_tone4_tone2:",
-    ":men_holding_hands_medium_dark_skin_tone_medium_skin_tone:": ":men_holding_hands_tone4_tone3:",
-    ":men_holding_hands_medium_light_skin_tone:": ":men_holding_hands_tone2:",
-    ":men_holding_hands_medium_light_skin_tone_light_skin_tone:": ":men_holding_hands_tone2_tone1:",
-    ":men_holding_hands_medium_skin_tone:": ":men_holding_hands_tone3:",
-    ":men_holding_hands_medium_skin_tone_light_skin_tone:": ":men_holding_hands_tone3_tone1:",
-    ":men_holding_hands_medium_skin_tone_medium_light_skin_tone:": ":men_holding_hands_tone3_tone2:",
     ":mermaid_dark_skin_tone:": ":mermaid_tone5:",
     ":mermaid_light_skin_tone:": ":mermaid_tone1:",
     ":mermaid_medium_dark_skin_tone:": ":mermaid_tone4:",
@@ -16243,21 +14183,6 @@ aliases = {
     ":paw_prints:": ":feet:",
     ":pe:": ":flag_pe:",
     ":peace_symbol:": ":peace:",
-    ":people_holding_hands_dark_skin_tone:": ":people_holding_hands_tone5:",
-    ":people_holding_hands_dark_skin_tone_light_skin_tone:": ":people_holding_hands_tone5_tone1:",
-    ":people_holding_hands_dark_skin_tone_medium_dark_skin_tone:": ":people_holding_hands_tone5_tone4:",
-    ":people_holding_hands_dark_skin_tone_medium_light_skin_tone:": ":people_holding_hands_tone5_tone2:",
-    ":people_holding_hands_dark_skin_tone_medium_skin_tone:": ":people_holding_hands_tone5_tone3:",
-    ":people_holding_hands_light_skin_tone:": ":people_holding_hands_tone1:",
-    ":people_holding_hands_medium_dark_skin_tone:": ":people_holding_hands_tone4:",
-    ":people_holding_hands_medium_dark_skin_tone_light_skin_tone:": ":people_holding_hands_tone4_tone1:",
-    ":people_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:": ":people_holding_hands_tone4_tone2:",
-    ":people_holding_hands_medium_dark_skin_tone_medium_skin_tone:": ":people_holding_hands_tone4_tone3:",
-    ":people_holding_hands_medium_light_skin_tone:": ":people_holding_hands_tone2:",
-    ":people_holding_hands_medium_light_skin_tone_light_skin_tone:": ":people_holding_hands_tone2_tone1:",
-    ":people_holding_hands_medium_skin_tone:": ":people_holding_hands_tone3:",
-    ":people_holding_hands_medium_skin_tone_light_skin_tone:": ":people_holding_hands_tone3_tone1:",
-    ":people_holding_hands_medium_skin_tone_medium_light_skin_tone:": ":people_holding_hands_tone3_tone2:",
     ":person_climbing_dark_skin_tone:": ":person_climbing_tone5:",
     ":person_climbing_light_skin_tone:": ":person_climbing_tone1:",
     ":person_climbing_medium_dark_skin_tone:": ":person_climbing_tone4:",
@@ -16283,16 +14208,6 @@ aliases = {
     ":person_in_steamy_room_medium_dark_skin_tone:": ":person_in_steamy_room_tone4:",
     ":person_in_steamy_room_medium_light_skin_tone:": ":person_in_steamy_room_tone2:",
     ":person_in_steamy_room_medium_skin_tone:": ":person_in_steamy_room_tone3:",
-    ":person_kneeling_dark_skin_tone:": ":person_kneeling_tone5:",
-    ":person_kneeling_light_skin_tone:": ":person_kneeling_tone1:",
-    ":person_kneeling_medium_dark_skin_tone:": ":person_kneeling_tone4:",
-    ":person_kneeling_medium_light_skin_tone:": ":person_kneeling_tone2:",
-    ":person_kneeling_medium_skin_tone:": ":person_kneeling_tone3:",
-    ":person_standing_dark_skin_tone:": ":person_standing_tone5:",
-    ":person_standing_light_skin_tone:": ":person_standing_tone1:",
-    ":person_standing_medium_dark_skin_tone:": ":person_standing_tone4:",
-    ":person_standing_medium_light_skin_tone:": ":person_standing_tone2:",
-    ":person_standing_medium_skin_tone:": ":person_standing_tone3:",
     ":person_with_ball:": ":person_bouncing_ball:",
     ":person_with_ball_tone1:": ":person_bouncing_ball_tone1:",
     ":person_with_ball_tone2:": ":person_bouncing_ball_tone2:",
@@ -16314,11 +14229,6 @@ aliases = {
     ":pf:": ":flag_pf:",
     ":pg:": ":flag_pg:",
     ":ph:": ":flag_ph:",
-    ":pinching_hand_dark_skin_tone:": ":pinching_hand_tone5:",
-    ":pinching_hand_light_skin_tone:": ":pinching_hand_tone1:",
-    ":pinching_hand_medium_dark_skin_tone:": ":pinching_hand_tone4:",
-    ":pinching_hand_medium_light_skin_tone:": ":pinching_hand_tone2:",
-    ":pinching_hand_medium_skin_tone:": ":pinching_hand_tone3:",
     ":pk:": ":flag_pk:",
     ":pl:": ":flag_pl:",
     ":pm:": ":flag_pm:",
@@ -16456,16 +14366,6 @@ aliases = {
     ":stop_sign:": ":octagonal_sign:",
     ":studio_microphone:": ":microphone2:",
     ":stuffed_pita:": ":stuffed_flatbread:",
-    ":superhero_dark_skin_tone:": ":superhero_tone5:",
-    ":superhero_light_skin_tone:": ":superhero_tone1:",
-    ":superhero_medium_dark_skin_tone:": ":superhero_tone4:",
-    ":superhero_medium_light_skin_tone:": ":superhero_tone2:",
-    ":superhero_medium_skin_tone:": ":superhero_tone3:",
-    ":supervillain_dark_skin_tone:": ":supervillain_tone5:",
-    ":supervillain_light_skin_tone:": ":supervillain_tone1:",
-    ":supervillain_medium_dark_skin_tone:": ":supervillain_tone4:",
-    ":supervillain_medium_light_skin_tone:": ":supervillain_tone2:",
-    ":supervillain_medium_skin_tone:": ":supervillain_tone3:",
     ":surfer:": ":person_surfing:",
     ":surfer_tone1:": ":person_surfing_tone1:",
     ":surfer_tone2:": ":person_surfing_tone2:",
@@ -16570,31 +14470,6 @@ aliases = {
     ":white_sun_behind_cloud_with_rain:": ":white_sun_rain_cloud:",
     ":white_sun_with_small_cloud:": ":white_sun_small_cloud:",
     ":wilted_flower:": ":wilted_rose:",
-    ":woman_and_man_holding_hands_dark_skin_tone:": ":woman_and_man_holding_hands_tone5:",
-    ":woman_and_man_holding_hands_dark_skin_tone_light_skin_tone:": ":woman_and_man_holding_hands_tone5_tone1:",
-    ":woman_and_man_holding_hands_dark_skin_tone_medium_dark_skin_tone:": ":woman_and_man_holding_hands_tone5_tone4:",
-    ":woman_and_man_holding_hands_dark_skin_tone_medium_light_skin_tone:": ":woman_and_man_holding_hands_tone5_tone2:",
-    ":woman_and_man_holding_hands_dark_skin_tone_medium_skin_tone:": ":woman_and_man_holding_hands_tone5_tone3:",
-    ":woman_and_man_holding_hands_light_skin_tone:": ":woman_and_man_holding_hands_tone1:",
-    ":woman_and_man_holding_hands_light_skin_tone_dark_skin_tone:": ":woman_and_man_holding_hands_tone1_tone5:",
-    ":woman_and_man_holding_hands_light_skin_tone_medium_dark_skin_tone:": ":woman_and_man_holding_hands_tone1_tone4:",
-    ":woman_and_man_holding_hands_light_skin_tone_medium_light_skin_tone:": ":woman_and_man_holding_hands_tone1_tone2:",
-    ":woman_and_man_holding_hands_light_skin_tone_medium_skin_tone:": ":woman_and_man_holding_hands_tone1_tone3:",
-    ":woman_and_man_holding_hands_medium_dark_skin_tone:": ":woman_and_man_holding_hands_tone4:",
-    ":woman_and_man_holding_hands_medium_dark_skin_tone_dark_skin_tone:": ":woman_and_man_holding_hands_tone4_tone5:",
-    ":woman_and_man_holding_hands_medium_dark_skin_tone_light_skin_tone:": ":woman_and_man_holding_hands_tone4_tone1:",
-    ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:": ":woman_and_man_holding_hands_tone4_tone2:",
-    ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_skin_tone:": ":woman_and_man_holding_hands_tone4_tone3:",
-    ":woman_and_man_holding_hands_medium_light_skin_tone:": ":woman_and_man_holding_hands_tone2:",
-    ":woman_and_man_holding_hands_medium_light_skin_tone_dark_skin_tone:": ":woman_and_man_holding_hands_tone2_tone5:",
-    ":woman_and_man_holding_hands_medium_light_skin_tone_light_skin_tone:": ":woman_and_man_holding_hands_tone2_tone1:",
-    ":woman_and_man_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:": ":woman_and_man_holding_hands_tone2_tone4:",
-    ":woman_and_man_holding_hands_medium_light_skin_tone_medium_skin_tone:": ":woman_and_man_holding_hands_tone2_tone3:",
-    ":woman_and_man_holding_hands_medium_skin_tone:": ":woman_and_man_holding_hands_tone3:",
-    ":woman_and_man_holding_hands_medium_skin_tone_dark_skin_tone:": ":woman_and_man_holding_hands_tone3_tone5:",
-    ":woman_and_man_holding_hands_medium_skin_tone_light_skin_tone:": ":woman_and_man_holding_hands_tone3_tone1:",
-    ":woman_and_man_holding_hands_medium_skin_tone_medium_dark_skin_tone:": ":woman_and_man_holding_hands_tone3_tone4:",
-    ":woman_and_man_holding_hands_medium_skin_tone_medium_light_skin_tone:": ":woman_and_man_holding_hands_tone3_tone2:",
     ":woman_artist_dark_skin_tone:": ":woman_artist_tone5:",
     ":woman_artist_light_skin_tone:": ":woman_artist_tone1:",
     ":woman_artist_medium_dark_skin_tone:": ":woman_artist_tone4:",
@@ -16605,11 +14480,6 @@ aliases = {
     ":woman_astronaut_medium_dark_skin_tone:": ":woman_astronaut_tone4:",
     ":woman_astronaut_medium_light_skin_tone:": ":woman_astronaut_tone2:",
     ":woman_astronaut_medium_skin_tone:": ":woman_astronaut_tone3:",
-    ":woman_bald_dark_skin_tone:": ":woman_bald_tone5:",
-    ":woman_bald_light_skin_tone:": ":woman_bald_tone1:",
-    ":woman_bald_medium_dark_skin_tone:": ":woman_bald_tone4:",
-    ":woman_bald_medium_light_skin_tone:": ":woman_bald_tone2:",
-    ":woman_bald_medium_skin_tone:": ":woman_bald_tone3:",
     ":woman_biking_dark_skin_tone:": ":woman_biking_tone5:",
     ":woman_biking_light_skin_tone:": ":woman_biking_tone1:",
     ":woman_biking_medium_dark_skin_tone:": ":woman_biking_tone4:",
@@ -16645,11 +14515,6 @@ aliases = {
     ":woman_cook_medium_dark_skin_tone:": ":woman_cook_tone4:",
     ":woman_cook_medium_light_skin_tone:": ":woman_cook_tone2:",
     ":woman_cook_medium_skin_tone:": ":woman_cook_tone3:",
-    ":woman_curly_haired_dark_skin_tone:": ":woman_curly_haired_tone5:",
-    ":woman_curly_haired_light_skin_tone:": ":woman_curly_haired_tone1:",
-    ":woman_curly_haired_medium_dark_skin_tone:": ":woman_curly_haired_tone4:",
-    ":woman_curly_haired_medium_light_skin_tone:": ":woman_curly_haired_tone2:",
-    ":woman_curly_haired_medium_skin_tone:": ":woman_curly_haired_tone3:",
     ":woman_detective_dark_skin_tone:": ":woman_detective_tone5:",
     ":woman_detective_light_skin_tone:": ":woman_detective_tone1:",
     ":woman_detective_medium_dark_skin_tone:": ":woman_detective_tone4:",
@@ -16730,16 +14595,6 @@ aliases = {
     ":woman_in_lotus_position_medium_dark_skin_tone:": ":woman_in_lotus_position_tone4:",
     ":woman_in_lotus_position_medium_light_skin_tone:": ":woman_in_lotus_position_tone2:",
     ":woman_in_lotus_position_medium_skin_tone:": ":woman_in_lotus_position_tone3:",
-    ":woman_in_manual_wheelchair_dark_skin_tone:": ":woman_in_manual_wheelchair_tone5:",
-    ":woman_in_manual_wheelchair_light_skin_tone:": ":woman_in_manual_wheelchair_tone1:",
-    ":woman_in_manual_wheelchair_medium_dark_skin_tone:": ":woman_in_manual_wheelchair_tone4:",
-    ":woman_in_manual_wheelchair_medium_light_skin_tone:": ":woman_in_manual_wheelchair_tone2:",
-    ":woman_in_manual_wheelchair_medium_skin_tone:": ":woman_in_manual_wheelchair_tone3:",
-    ":woman_in_motorized_wheelchair_dark_skin_tone:": ":woman_in_motorized_wheelchair_tone5:",
-    ":woman_in_motorized_wheelchair_light_skin_tone:": ":woman_in_motorized_wheelchair_tone1:",
-    ":woman_in_motorized_wheelchair_medium_dark_skin_tone:": ":woman_in_motorized_wheelchair_tone4:",
-    ":woman_in_motorized_wheelchair_medium_light_skin_tone:": ":woman_in_motorized_wheelchair_tone2:",
-    ":woman_in_motorized_wheelchair_medium_skin_tone:": ":woman_in_motorized_wheelchair_tone3:",
     ":woman_in_steamy_room_dark_skin_tone:": ":woman_in_steamy_room_tone5:",
     ":woman_in_steamy_room_light_skin_tone:": ":woman_in_steamy_room_tone1:",
     ":woman_in_steamy_room_medium_dark_skin_tone:": ":woman_in_steamy_room_tone4:",
@@ -16755,11 +14610,6 @@ aliases = {
     ":woman_juggling_medium_dark_skin_tone:": ":woman_juggling_tone4:",
     ":woman_juggling_medium_light_skin_tone:": ":woman_juggling_tone2:",
     ":woman_juggling_medium_skin_tone:": ":woman_juggling_tone3:",
-    ":woman_kneeling_dark_skin_tone:": ":woman_kneeling_tone5:",
-    ":woman_kneeling_light_skin_tone:": ":woman_kneeling_tone1:",
-    ":woman_kneeling_medium_dark_skin_tone:": ":woman_kneeling_tone4:",
-    ":woman_kneeling_medium_light_skin_tone:": ":woman_kneeling_tone2:",
-    ":woman_kneeling_medium_skin_tone:": ":woman_kneeling_tone3:",
     ":woman_lifting_weights_dark_skin_tone:": ":woman_lifting_weights_tone5:",
     ":woman_lifting_weights_light_skin_tone:": ":woman_lifting_weights_tone1:",
     ":woman_lifting_weights_medium_dark_skin_tone:": ":woman_lifting_weights_tone4:",
@@ -16815,11 +14665,6 @@ aliases = {
     ":woman_raising_hand_medium_dark_skin_tone:": ":woman_raising_hand_tone4:",
     ":woman_raising_hand_medium_light_skin_tone:": ":woman_raising_hand_tone2:",
     ":woman_raising_hand_medium_skin_tone:": ":woman_raising_hand_tone3:",
-    ":woman_red_haired_dark_skin_tone:": ":woman_red_haired_tone5:",
-    ":woman_red_haired_light_skin_tone:": ":woman_red_haired_tone1:",
-    ":woman_red_haired_medium_dark_skin_tone:": ":woman_red_haired_tone4:",
-    ":woman_red_haired_medium_light_skin_tone:": ":woman_red_haired_tone2:",
-    ":woman_red_haired_medium_skin_tone:": ":woman_red_haired_tone3:",
     ":woman_rowing_boat_dark_skin_tone:": ":woman_rowing_boat_tone5:",
     ":woman_rowing_boat_light_skin_tone:": ":woman_rowing_boat_tone1:",
     ":woman_rowing_boat_medium_dark_skin_tone:": ":woman_rowing_boat_tone4:",
@@ -16845,26 +14690,11 @@ aliases = {
     ":woman_singer_medium_dark_skin_tone:": ":woman_singer_tone4:",
     ":woman_singer_medium_light_skin_tone:": ":woman_singer_tone2:",
     ":woman_singer_medium_skin_tone:": ":woman_singer_tone3:",
-    ":woman_standing_dark_skin_tone:": ":woman_standing_tone5:",
-    ":woman_standing_light_skin_tone:": ":woman_standing_tone1:",
-    ":woman_standing_medium_dark_skin_tone:": ":woman_standing_tone4:",
-    ":woman_standing_medium_light_skin_tone:": ":woman_standing_tone2:",
-    ":woman_standing_medium_skin_tone:": ":woman_standing_tone3:",
     ":woman_student_dark_skin_tone:": ":woman_student_tone5:",
     ":woman_student_light_skin_tone:": ":woman_student_tone1:",
     ":woman_student_medium_dark_skin_tone:": ":woman_student_tone4:",
     ":woman_student_medium_light_skin_tone:": ":woman_student_tone2:",
     ":woman_student_medium_skin_tone:": ":woman_student_tone3:",
-    ":woman_superhero_dark_skin_tone:": ":woman_superhero_tone5:",
-    ":woman_superhero_light_skin_tone:": ":woman_superhero_tone1:",
-    ":woman_superhero_medium_dark_skin_tone:": ":woman_superhero_tone4:",
-    ":woman_superhero_medium_light_skin_tone:": ":woman_superhero_tone2:",
-    ":woman_superhero_medium_skin_tone:": ":woman_superhero_tone3:",
-    ":woman_supervillain_dark_skin_tone:": ":woman_supervillain_tone5:",
-    ":woman_supervillain_light_skin_tone:": ":woman_supervillain_tone1:",
-    ":woman_supervillain_medium_dark_skin_tone:": ":woman_supervillain_tone4:",
-    ":woman_supervillain_medium_light_skin_tone:": ":woman_supervillain_tone2:",
-    ":woman_supervillain_medium_skin_tone:": ":woman_supervillain_tone3:",
     ":woman_surfing_dark_skin_tone:": ":woman_surfing_tone5:",
     ":woman_surfing_light_skin_tone:": ":woman_surfing_tone1:",
     ":woman_surfing_medium_dark_skin_tone:": ":woman_surfing_tone4:",
@@ -16905,36 +14735,11 @@ aliases = {
     ":woman_wearing_turban_medium_dark_skin_tone:": ":woman_wearing_turban_tone4:",
     ":woman_wearing_turban_medium_light_skin_tone:": ":woman_wearing_turban_tone2:",
     ":woman_wearing_turban_medium_skin_tone:": ":woman_wearing_turban_tone3:",
-    ":woman_white_haired_dark_skin_tone:": ":woman_white_haired_tone5:",
-    ":woman_white_haired_light_skin_tone:": ":woman_white_haired_tone1:",
-    ":woman_white_haired_medium_dark_skin_tone:": ":woman_white_haired_tone4:",
-    ":woman_white_haired_medium_light_skin_tone:": ":woman_white_haired_tone2:",
-    ":woman_white_haired_medium_skin_tone:": ":woman_white_haired_tone3:",
     ":woman_with_headscarf_dark_skin_tone:": ":woman_with_headscarf_tone5:",
     ":woman_with_headscarf_light_skin_tone:": ":woman_with_headscarf_tone1:",
     ":woman_with_headscarf_medium_dark_skin_tone:": ":woman_with_headscarf_tone4:",
     ":woman_with_headscarf_medium_light_skin_tone:": ":woman_with_headscarf_tone2:",
     ":woman_with_headscarf_medium_skin_tone:": ":woman_with_headscarf_tone3:",
-    ":woman_with_probing_cane_dark_skin_tone:": ":woman_with_probing_cane_tone5:",
-    ":woman_with_probing_cane_light_skin_tone:": ":woman_with_probing_cane_tone1:",
-    ":woman_with_probing_cane_medium_dark_skin_tone:": ":woman_with_probing_cane_tone4:",
-    ":woman_with_probing_cane_medium_light_skin_tone:": ":woman_with_probing_cane_tone2:",
-    ":woman_with_probing_cane_medium_skin_tone:": ":woman_with_probing_cane_tone3:",
-    ":women_holding_hands_dark_skin_tone:": ":women_holding_hands_tone5:",
-    ":women_holding_hands_dark_skin_tone_light_skin_tone:": ":women_holding_hands_tone5_tone1:",
-    ":women_holding_hands_dark_skin_tone_medium_dark_skin_tone:": ":women_holding_hands_tone5_tone4:",
-    ":women_holding_hands_dark_skin_tone_medium_light_skin_tone:": ":women_holding_hands_tone5_tone2:",
-    ":women_holding_hands_dark_skin_tone_medium_skin_tone:": ":women_holding_hands_tone5_tone3:",
-    ":women_holding_hands_light_skin_tone:": ":women_holding_hands_tone1:",
-    ":women_holding_hands_medium_dark_skin_tone:": ":women_holding_hands_tone4:",
-    ":women_holding_hands_medium_dark_skin_tone_light_skin_tone:": ":women_holding_hands_tone4_tone1:",
-    ":women_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:": ":women_holding_hands_tone4_tone2:",
-    ":women_holding_hands_medium_dark_skin_tone_medium_skin_tone:": ":women_holding_hands_tone4_tone3:",
-    ":women_holding_hands_medium_light_skin_tone:": ":women_holding_hands_tone2:",
-    ":women_holding_hands_medium_light_skin_tone_light_skin_tone:": ":women_holding_hands_tone2_tone1:",
-    ":women_holding_hands_medium_skin_tone:": ":women_holding_hands_tone3:",
-    ":women_holding_hands_medium_skin_tone_light_skin_tone:": ":women_holding_hands_tone3_tone1:",
-    ":women_holding_hands_medium_skin_tone_medium_light_skin_tone:": ":women_holding_hands_tone3_tone2:",
     ":world_map:": ":map:",
     ":worship_symbol:": ":place_of_worship:",
     ":wrestlers:": ":people_wrestling:",
@@ -16947,15 +14752,14 @@ aliases = {
     ":zipper_mouth_face:": ":zipper_mouth:",
     ":zm:": ":flag_zm:",
     ":zw:": ":flag_zw:",
-    "woman_in_business_suit_levitating": ":woman_levitate:",
-    "woman_in_business_suit_levitating_dark_skin_tone": ":woman_leviate_tone5:",
-    "woman_in_business_suit_levitating_light_skin_tone": ":woman_levitate_tone1:",
-    "woman_in_business_suit_levitating_medium_dark_skin_tone": ":woman_leviate_tone4:",
-    "woman_in_business_suit_levitating_medium_light_skin_tone": ":woman_leviate_tone2:",
-    "woman_in_business_suit_levitating_medium_skin_tone": ":woman_leviate_tone3:",
-    "woman_in_business_suit_levitating_tone1": ":woman_levitate_tone1:",
-    "woman_in_business_suit_levitating_tone2": ":woman_leviate_tone2:",
-    "woman_in_business_suit_levitating_tone3": ":woman_leviate_tone3:",
-    "woman_in_business_suit_levitating_tone4": ":woman_leviate_tone4:",
-    "woman_in_business_suit_levitating_tone5": ":woman_leviate_tone5:"
+    "skier_dark_skin_tone": ":skier_tone5:",
+    "skier_light_skin_tone": ":skier_tone1:",
+    "skier_mediu_skin_tone": ":skier_tone3:",
+    "skier_medium_dark_skin_tone": ":skier_tone4:",
+    "skier_medium_light_skin_tone": ":skier_tone2:",
+    "woman_in_business_suit_levitating_dark_skin_tone": ":woman_in_business_suit_levitating_tone5:",
+    "woman_in_business_suit_levitating_light_skin_tone": ":woman_in_business_suit_levitating_tone1:",
+    "woman_in_business_suit_levitating_medium_dark_skin_tone": ":woman_in_business_suit_levitating_tone4:",
+    "woman_in_business_suit_levitating_medium_light_skin_tone": ":woman_in_business_suit_levitating_tone2:",
+    "woman_in_business_suit_levitating_medium_skin_tone": ":woman_in_business_suit_levitating_tone3:"
 }
