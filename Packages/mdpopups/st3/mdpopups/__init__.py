@@ -16,7 +16,7 @@ import time
 from . import version as ver
 from . import colorbox
 from collections import OrderedDict
-from .st_scheme_template import SchemeTemplate, POPUP, PHANTOM, SHEET
+from .st_scheme_template import SchemeTemplate, POPUP, PHANTOM, NEW_SCHEMES
 from .st_clean_css import clean_css
 from .st_pygments_highlight import syntax_hl as pyg_syntax_hl
 from .st_code_highlight import SublimeHighlight
@@ -30,14 +30,11 @@ try:
 except Exception:
     bs4 = None
 
-HTML_SHEET_SUPPORT = int(sublime.version()) >= 4074
-
-DEFAULT_CSS = 'Packages/mdpopups/mdpopups_css/default.css'
-OLD_DEFAULT_CSS = 'Packages/mdpopups/css/default.css'
+DEFAULT_CSS = 'Packages/mdpopups/css/default.css'
 DEFAULT_USER_CSS = 'Packages/User/mdpopups.css'
 IDK = '''
 <style>html {background-color: #333; color: red}</style>
-<div><p>¯\\_(ツ)_/¯</p></div>
+<div><p>¯\_(ツ)_/¯</p></div>
 <div><p>
 MdPopups failed to create<br>
 the popup/phantom!<br><br>
@@ -46,7 +43,6 @@ there are helpful errors.</p></div>
 '''
 HL_SETTING = 'mdpopups.use_sublime_highlighter'
 STYLE_SETTING = 'mdpopups.default_style'
-LEGACY_MATCHER_SETTING = 'mdpopups.legacy_color_matcher'
 RE_BAD_ENTITIES = re.compile(r'(&(?!amp;|lt;|gt;|nbsp;)(?:\w+;|#\d+;))')
 
 NODEBUG = 0
@@ -108,7 +104,7 @@ _highlighter_cache = OrderedDict()
 
 
 def _clear_cache():
-    """Clear the CSS cache."""
+    """Clear the css cache."""
 
     global _scheme_cache
     global _highlighter_cache
@@ -138,7 +134,7 @@ def _prune_cache():
 
 
 def _get_sublime_highlighter(view):
-    """Get the `SublimeHighlighter` object."""
+    """Get the SublimeHighlighter."""
 
     scheme = view.settings().get('color_scheme')
     obj = None
@@ -159,9 +155,10 @@ def _get_sublime_highlighter(view):
     return obj
 
 
-def _get_scheme(scheme):
+def _get_scheme(view):
     """Get the scheme object and user CSS."""
 
+    scheme = view.settings().get('color_scheme')
     settings = sublime.load_settings("Preferences.sublime-settings")
     obj = None
     user_css = ''
@@ -169,12 +166,11 @@ def _get_scheme(scheme):
     if scheme is not None:
         if scheme in _scheme_cache:
             obj, user_css, default_css, t = _scheme_cache[scheme]
-            # Check if cache expired or user changed Pygments setting.
+            # Check if cache expired or user changed pygments setting.
             if (
                 _is_cache_expired(t) or
                 obj.use_pygments != (not settings.get(HL_SETTING, True)) or
-                obj.default_style != settings.get(STYLE_SETTING, True) or
-                obj.legacy_color_matcher != settings.get(LEGACY_MATCHER_SETTING, False)
+                obj.default_style != settings.get(STYLE_SETTING, True)
             ):
                 obj = None
                 user_css = ''
@@ -199,13 +195,11 @@ def _get_default_css():
 
 
 def _get_user_css():
-    """Get user CSS."""
+    """Get user css."""
 
     css = None
 
     user_css = _get_setting('mdpopups.user_css', DEFAULT_USER_CSS)
-    if user_css == OLD_DEFAULT_CSS:
-        user_css = DEFAULT_CSS
     try:
         css = clean_css(sublime.load_resource(user_css))
     except Exception:
@@ -226,7 +220,7 @@ class _MdWrapper(markdown.Markdown):
     Meta = {}
 
     def __init__(self, *args, **kwargs):
-        """Call original initialization."""
+        """Call original init."""
 
         if 'allow_code_wrap' in kwargs:
             self.sublime_wrap = kwargs['allow_code_wrap']
@@ -243,9 +237,9 @@ class _MdWrapper(markdown.Markdown):
 
         Keyword arguments:
 
-        * `extensions`: A list of extensions, which can either
+        * extensions: A list of extensions, which can either
            be strings or objects.  See the docstring on Markdown.
-        * `configs`: A dictionary mapping module names to configuration options.
+        * configs: A dictionary mapping module names to config options.
 
         """
 
@@ -257,7 +251,7 @@ class _MdWrapper(markdown.Markdown):
                 if isinstance(ext, util.string_type):
                     ext = self.build_extension(ext, configs.get(ext, {}))
                 if isinstance(ext, Extension):
-                    ext._extendMarkdown(self)
+                    ext.extendMarkdown(self, globals())
                 elif ext is not None:
                     raise TypeError(
                         'Extension "%s.%s" must be of type: "markdown.Extension"'
@@ -274,7 +268,7 @@ class _MdWrapper(markdown.Markdown):
 def _get_theme(view, css=None, css_type=POPUP, template_vars=None):
     """Get the theme."""
 
-    obj, user_css, default_css = _get_scheme(view.settings().get('color_scheme'))
+    obj, user_css, default_css = _get_scheme(view)
     try:
         return obj.apply_template(
             view,
@@ -297,7 +291,7 @@ def _remove_entities(text):
     html = html.parser.HTMLParser()
 
     def repl(m):
-        """Replace entities except &, <, >, and `nbsp`."""
+        """Replace entites except &, <, >, and nbsp."""
         return html.unescape(m.group(1))
 
     return RE_BAD_ENTITIES.sub(repl, text)
@@ -308,7 +302,7 @@ def _create_html(
     wrapper_class=None, template_vars=None, template_env_options=None, nl2br=True,
     allow_code_wrap=False
 ):
-    """Create HTML from content."""
+    """Create html from content."""
 
     debug = _get_setting('mdpopups.debug', NODEBUG)
 
@@ -383,21 +377,21 @@ def md2html(
 
     fm, markup = frontmatter.get_frontmatter(markup)
 
-    # We always include these
+    # We allways include these
     extensions = [
         "mdpopups.mdx.highlight",
-        "pymdownx.inlinehilite",
-        "pymdownx.superfences"
+        "mdpopups.mdx.inlinehilite",
+        "mdpopups.mdx.superfences"
     ]
 
     configs = {
         "mdpopups.mdx.highlight": {
             "guess_lang": False
         },
-        "pymdownx.inlinehilite": {
+        "mdpopups.mdx.inlinehilite": {
             "style_plain_text": True
         },
-        "pymdownx.superfences": {
+        "mdpopups.mdx.superfences": {
             "custom_fences": fm.get('custom_fences', [])
         }
     }
@@ -417,7 +411,7 @@ def md2html(
             ]
         )
 
-        # Use legacy method to determine if `nl2br` should be used
+        # Use legacy method to determine if nl2b should be used
         if nl2br:
             extensions.append('markdown.extensions.nl2br')
     else:
@@ -438,7 +432,7 @@ def md2html(
         extension_configs=configs,
         sublime_hl=sublime_hl,
         allow_code_wrap=fm.get('allow_code_wrap', allow_code_wrap)
-    ).convert(_markup_template(markup, template_vars, template_env_options)).replace('&quot;', '"')
+    ).convert(_markup_template(markup, template_vars, template_env_options)).replace('&quot;', '"').replace('\n', '')
 
 
 def color_box(
@@ -546,9 +540,9 @@ def scope2style(view, scope, selected=False, explicit_background=False):
         'background': None,
         'style': ''
     }
-    obj = _get_scheme(view.settings().get('color_scheme'))[0]
+    obj = _get_scheme(view)[0]
     style_obj = obj.guess_style(view, scope, selected, explicit_background)
-    if not obj.legacy_color_matcher:
+    if NEW_SCHEMES:
         style['color'] = style_obj['foreground']
         style['background'] = style_obj['background']
         font = []
@@ -556,10 +550,6 @@ def scope2style(view, scope, selected=False, explicit_background=False):
             font.append('bold')
         if style_obj['italic']:
             font.append('italic')
-        if style_obj['underline']:
-            font.append('underline')
-        if style_obj['glow']:
-            font.append('glow')
         style['style'] = ' '.join(font)
     else:
         style['color'] = style_obj.fg_simulated
@@ -692,49 +682,6 @@ def query_phantoms(view, pids):
     """Query phantoms."""
 
     return view.query_phantoms(pids)
-
-
-if HTML_SHEET_SUPPORT:
-    def new_html_sheet(
-        window, name, contents, md=True, css=None, flags=0, group=-1,
-        wrapper_class=None, template_vars=None, template_env_options=None, nl2br=False,
-        allow_code_wrap=False
-    ):
-        """Create new HTML sheet."""
-
-        view = window.create_output_panel('mdpopups-dummy', unlisted=True)
-        try:
-            html = _create_html(
-                view, contents, md, css, css_type=SHEET, wrapper_class=wrapper_class,
-                template_vars=template_vars, template_env_options=template_env_options, nl2br=nl2br,
-                allow_code_wrap=allow_code_wrap
-            )
-        except Exception:
-            _log(traceback.format_exc())
-            html = IDK
-
-        return window.new_html_sheet(name, html, flags, group)
-
-    def update_html_sheet(
-        sheet, contents, md=True, css=None, wrapper_class=None,
-        template_vars=None, template_env_options=None, nl2br=False, allow_code_wrap=False
-    ):
-        """Update an HTML sheet."""
-
-        window = sheet.window()
-        view = window.create_output_panel('mdpopups-dummy', unlisted=True)
-
-        try:
-            html = _create_html(
-                view, contents, md, css, css_type=SHEET, wrapper_class=wrapper_class,
-                template_vars=template_vars, template_env_options=template_env_options, nl2br=nl2br,
-                allow_code_wrap=allow_code_wrap
-            )
-        except Exception:
-            _log(traceback.format_exc())
-            html = IDK
-
-        sheet.set_contents(html)
 
 
 class Phantom(sublime.Phantom):
